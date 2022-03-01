@@ -1,0 +1,2085 @@
+Grid	Lat/Lon hddd°mm.mmm'
+Datum	WGS 84
+
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	02-JUN-10		0:00:00	3.5 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N10 37.361 W61 01.752		-3 m	
+Trackpoint	N10 37.364 W61 01.754		-3 m			6 m	0:00:00	0 kph	323° true
+Trackpoint	N10 37.376 W61 01.755		-2 m			23 m	0:00:00	0 kph	352° true
+Trackpoint	N10 37.385 W61 01.759		0 m			17 m	0:00:00	0 kph	334° true
+Trackpoint	N10 37.397 W61 01.762		3 m			24 m	0:00:00	0 kph	347° true
+Trackpoint	N10 37.402 W61 01.765		2 m			10 m	0:00:00	0 kph	335° true
+Trackpoint	N10 37.405 W61 01.764		2 m			5 m	0:00:00	0 kph	18° true
+Trackpoint	N10 37.411 W61 01.767		2 m			13 m	0:00:00	0 kph	332° true
+Trackpoint	N10 37.423 W61 01.769		5 m			21 m	0:00:00	0 kph	353° true
+Trackpoint	N10 37.426 W61 01.770		5 m			7 m	0:00:00	0 kph	332° true
+Trackpoint	N10 37.434 W61 01.770		2 m			16 m	0:00:00	0 kph	0° true
+Trackpoint	N10 37.441 W61 01.771		-3 m			12 m	0:00:00	0 kph	350° true
+Trackpoint	N10 37.446 W61 01.773		-1 m			9 m	0:00:00	0 kph	336° true
+Trackpoint	N10 37.453 W61 01.775		1 m			14 m	0:00:00	0 kph	351° true
+Trackpoint	N10 37.459 W61 01.777		2 m			13 m	0:00:00	0 kph	337° true
+Trackpoint	N10 37.465 W61 01.779		3 m			12 m	0:00:00	0 kph	348° true
+Trackpoint	N10 37.471 W61 01.777		2 m			11 m	0:00:00	0 kph	12° true
+Trackpoint	N10 37.478 W61 01.783		0 m			16 m	0:00:00	0 kph	324° true
+Trackpoint	N10 37.489 W61 01.784		0 m			20 m	0:00:00	0 kph	351° true
+Trackpoint	N10 37.502 W61 01.790		2 m			26 m	0:00:00	0 kph	338° true
+Trackpoint	N10 37.508 W61 01.790		-0 m			12 m	0:00:00	0 kph	357° true
+Trackpoint	N10 37.515 W61 01.792		-1 m			14 m	0:00:00	0 kph	343° true
+Trackpoint	N10 37.524 W61 01.793		-2 m			15 m	0:00:00	0 kph	357° true
+Trackpoint	N10 37.524 W61 01.794		-0 m			3 m	0:00:00	0 kph	282° true
+Trackpoint	N10 37.524 W61 01.793		-1 m			2 m	0:00:00	0 kph	58° true
+Trackpoint	N10 37.534 W61 01.794		-4 m			18 m	0:00:00	0 kph	356° true
+Trackpoint	N10 37.537 W61 01.795		-3 m			7 m	0:00:00	0 kph	337° true
+Trackpoint	N10 37.539 W61 01.798		-2 m			6 m	0:00:00	0 kph	304° true
+Trackpoint	N10 37.549 W61 01.799		-0 m			18 m	0:00:00	0 kph	357° true
+Trackpoint	N10 37.559 W61 01.803		-4 m			21 m	0:00:00	0 kph	338° true
+Trackpoint	N10 37.575 W61 01.805		-2 m			29 m	0:00:00	0 kph	353° true
+Trackpoint	N10 37.580 W61 01.807		1 m			10 m	0:00:00	0 kph	337° true
+Trackpoint	N10 37.585 W61 01.807		-0 m			10 m	0:00:00	0 kph	358° true
+Trackpoint	N10 37.589 W61 01.809		-0 m			7 m	0:00:00	0 kph	332° true
+Trackpoint	N10 37.592 W61 01.809		0 m			6 m	0:00:00	0 kph	5° true
+Trackpoint	N10 37.595 W61 01.810		-3 m			8 m	0:00:00	0 kph	339° true
+Trackpoint	N10 37.628 W61 01.818		-2 m			62 m	0:00:00	0 kph	347° true
+Trackpoint	N10 37.637 W61 01.822		0 m			18 m	0:00:00	0 kph	332° true
+Trackpoint	N10 37.638 W61 01.824		1 m			4 m	0:00:00	0 kph	320° true
+Trackpoint	N10 37.638 W61 01.823		1 m			2 m	0:00:00	0 kph	78° true
+Trackpoint	N10 37.644 W61 01.822		1 m			11 m	0:00:00	0 kph	3° true
+Trackpoint	N10 37.660 W61 01.829		1 m			32 m	0:00:00	0 kph	338° true
+Trackpoint	N10 37.664 W61 01.829		4 m			8 m	0:00:00	0 kph	5° true
+Trackpoint	N10 37.677 W61 01.831		3 m			24 m	0:00:00	0 kph	349° true
+Trackpoint	N10 37.681 W61 01.831		0 m			7 m	0:00:00	0 kph	6° true
+Trackpoint	N10 37.686 W61 01.833		-2 m			11 m	0:00:00	0 kph	336° true
+Trackpoint	N10 37.690 W61 01.832		-4 m			7 m	0:00:00	0 kph	14° true
+Trackpoint	N10 37.702 W61 01.837		-5 m			24 m	0:00:00	0 kph	336° true
+Trackpoint	N10 37.704 W61 01.837		-6 m			4 m	0:00:00	0 kph	4° true
+Trackpoint	N10 37.714 W61 01.842		-7 m			20 m	0:00:00	0 kph	336° true
+Trackpoint	N10 37.719 W61 01.842		-4 m			9 m	0:00:00	0 kph	355° true
+Trackpoint	N10 37.729 W61 01.846		-0 m			20 m	0:00:00	0 kph	341° true
+Trackpoint	N10 37.737 W61 01.845		-0 m			16 m	0:00:00	0 kph	2° true
+Trackpoint	N10 37.742 W61 01.848		-2 m			11 m	0:00:00	0 kph	331° true
+Trackpoint	N10 37.746 W61 01.848		-2 m			7 m	0:00:00	0 kph	7° true
+Trackpoint	N10 37.752 W61 01.850		1 m			11 m	0:00:00	0 kph	342° true
+Trackpoint	N10 37.759 W61 01.849		2 m			15 m	0:00:00	0 kph	5° true
+Trackpoint	N10 37.768 W61 01.853		1 m			18 m	0:00:00	0 kph	337° true
+Trackpoint	N10 37.780 W61 01.855		2 m			21 m	0:00:00	0 kph	349° true
+Trackpoint	N10 37.784 W61 01.858		2 m			10 m	0:00:00	0 kph	321° true
+Trackpoint	N10 37.794 W61 01.861		-2 m			20 m	0:00:00	0 kph	345° true
+Trackpoint	N10 37.796 W61 01.863		-3 m			4 m	0:00:00	0 kph	316° true
+Trackpoint	N10 37.803 W61 01.862		-1 m			12 m	0:00:00	0 kph	7° true
+Trackpoint	N10 37.810 W61 01.864		0 m			13 m	0:00:00	0 kph	348° true
+Trackpoint	N10 37.813 W61 01.862		0 m			7 m	0:00:00	0 kph	23° true
+Trackpoint	N10 37.819 W61 01.865		-2 m			13 m	0:00:00	0 kph	333° true
+Trackpoint	N10 37.825 W61 01.864		-6 m			11 m	0:00:00	0 kph	13° true
+Trackpoint	N10 37.828 W61 01.867		-3 m			7 m	0:00:00	0 kph	319° true
+Trackpoint	N10 37.844 W61 01.873		1 m			33 m	0:00:00	0 kph	340° true
+Trackpoint	N10 37.850 W61 01.871		1 m			11 m	0:00:00	0 kph	15° true
+Trackpoint	N10 37.866 W61 01.875		-2 m			30 m	0:00:00	0 kph	348° true
+Trackpoint	N10 37.868 W61 01.874		-2 m			4 m	0:00:00	0 kph	12° true
+Trackpoint	N10 37.873 W61 01.876		-5 m			9 m	0:00:00	0 kph	332° true
+Trackpoint	N10 37.887 W61 01.876		-7 m			27 m	0:00:00	0 kph	0° true
+Trackpoint	N10 37.899 W61 01.881		-9 m			23 m	0:00:00	0 kph	339° true
+Trackpoint	N10 37.904 W61 01.881		-8 m			10 m	0:00:00	0 kph	4° true
+Trackpoint	N10 37.907 W61 01.883		-8 m			7 m	0:00:00	0 kph	317° true
+Trackpoint	N10 37.931 W61 01.892		-4 m			48 m	0:00:00	0 kph	340° true
+Trackpoint	N10 37.935 W61 01.895		-4 m			7 m	0:00:00	0 kph	324° true
+Trackpoint	N10 37.938 W61 01.892		-2 m			8 m	0:00:00	0 kph	36° true
+Trackpoint	N10 37.939 W61 01.892		-2 m			2 m	0:00:00	0 kph	342° true
+Trackpoint	N10 37.940 W61 01.893		-1 m			2 m	0:00:00	0 kph	291° true
+Trackpoint	N10 37.951 W61 01.893		1 m			21 m	0:00:00	0 kph	1° true
+Trackpoint	N10 37.964 W61 01.895		1 m			25 m	0:00:00	0 kph	352° true
+Trackpoint	N10 37.972 W61 01.898		-1 m			16 m	0:00:00	0 kph	337° true
+Trackpoint	N10 37.978 W61 01.899		-5 m			11 m	0:00:00	0 kph	354° true
+Trackpoint	N10 37.982 W61 01.902		-8 m			9 m	0:00:00	0 kph	325° true
+Trackpoint	N10 37.987 W61 01.901		-7 m			10 m	0:00:00	0 kph	5° true
+Trackpoint	N10 37.994 W61 01.905		-5 m			15 m	0:00:00	0 kph	330° true
+Trackpoint	N10 38.000 W61 01.906		-7 m			11 m	0:00:00	0 kph	357° true
+Trackpoint	N10 38.005 W61 01.908		-8 m			11 m	0:00:00	0 kph	336° true
+Trackpoint	N10 38.016 W61 01.908		-2 m			21 m	0:00:00	0 kph	359° true
+Trackpoint	N10 38.020 W61 01.909		-1 m			7 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.020 W61 01.911		-4 m			3 m	0:00:00	0 kph	262° true
+Trackpoint	N10 38.022 W61 01.910		-4 m			5 m	0:00:00	0 kph	27° true
+Trackpoint	N10 38.045 W61 01.910		-5 m			43 m	0:00:00	0 kph	360° true
+Trackpoint	N10 38.058 W61 01.915		-6 m			25 m	0:00:00	0 kph	338° true
+Trackpoint	N10 38.061 W61 01.917		-5 m			6 m	0:00:00	0 kph	320° true
+Trackpoint	N10 38.067 W61 01.919		-4 m			12 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.069 W61 01.920		-5 m			5 m	0:00:00	0 kph	328° true
+Trackpoint	N10 38.076 W61 01.921		-5 m			13 m	0:00:00	0 kph	351° true
+Trackpoint	N10 38.102 W61 01.935		-5 m			55 m	0:00:00	0 kph	334° true
+Trackpoint	N10 38.108 W61 01.934		-6 m			10 m	0:00:00	0 kph	12° true
+Trackpoint	N10 38.116 W61 01.936		-6 m			16 m	0:00:00	0 kph	341° true
+Trackpoint	N10 38.145 W61 01.932		-4 m			54 m	0:00:00	0 kph	8° true
+Trackpoint	N10 38.154 W61 01.934		-4 m			17 m	0:00:00	0 kph	351° true
+Trackpoint	N10 38.162 W61 01.936		-3 m			16 m	0:00:00	0 kph	343° true
+Trackpoint	N10 38.165 W61 01.936		-2 m			4 m	0:00:00	0 kph	10° true
+Trackpoint	N10 38.172 W61 01.940		-2 m			15 m	0:00:00	0 kph	334° true
+Trackpoint	N10 38.176 W61 01.940		-3 m			8 m	0:00:00	0 kph	352° true
+Trackpoint	N10 38.179 W61 01.944		-1 m			7 m	0:00:00	0 kph	303° true
+Trackpoint	N10 38.182 W61 01.945		-1 m			7 m	0:00:00	0 kph	331° true
+Trackpoint	N10 38.188 W61 01.945		-0 m			12 m	0:00:00	0 kph	1° true
+Trackpoint	N10 38.201 W61 01.947		-3 m			25 m	0:00:00	0 kph	351° true
+Trackpoint	N10 38.215 W61 01.946		2 m			25 m	0:00:00	0 kph	6° true
+Trackpoint	N10 38.234 W61 01.952		-1 m			38 m	0:00:00	0 kph	345° true
+Trackpoint	N10 38.244 W61 01.956		0 m			20 m	0:00:00	0 kph	334° true
+Trackpoint	N10 38.247 W61 01.955		-0 m			7 m	0:00:00	0 kph	19° true
+Trackpoint	N10 38.255 W61 01.957		-3 m			15 m	0:00:00	0 kph	348° true
+Trackpoint	N10 38.257 W61 01.959		-5 m			5 m	0:00:00	0 kph	312° true
+Trackpoint	N10 38.261 W61 01.959		-6 m			7 m	0:00:00	0 kph	359° true
+Trackpoint	N10 38.280 W61 01.966		-11 m			39 m	0:00:00	0 kph	340° true
+Trackpoint	N10 38.282 W61 01.965		-11 m			4 m	0:00:00	0 kph	19° true
+Trackpoint	N10 38.287 W61 01.969		-9 m			11 m	0:00:00	0 kph	319° true
+Trackpoint	N10 38.294 W61 01.969		-8 m			14 m	0:00:00	0 kph	3° true
+Trackpoint	N10 38.294 W61 01.970		-8 m			2 m	0:00:00	0 kph	266° true
+Trackpoint	N10 38.299 W61 01.972		-7 m			9 m	0:00:00	0 kph	339° true
+Trackpoint	N10 38.298 W61 01.974		-7 m			4 m	0:00:00	0 kph	244° true
+Trackpoint	N10 38.298 W61 01.972		-6 m			3 m	0:00:00	0 kph	92° true
+Trackpoint	N10 38.302 W61 01.971		-6 m			8 m	0:00:00	0 kph	15° true
+Trackpoint	N10 38.307 W61 01.973		-5 m			9 m	0:00:00	0 kph	338° true
+Trackpoint	N10 38.311 W61 01.970		-5 m			9 m	0:00:00	0 kph	30° true
+Trackpoint	N10 38.313 W61 01.971		-6 m			4 m	0:00:00	0 kph	333° true
+Trackpoint	N10 38.331 W61 01.972		-8 m			32 m	0:00:00	0 kph	358° true
+Trackpoint	N10 38.330 W61 01.972		-8 m			1 m	0:00:00	0 kph	187° true
+Trackpoint	N10 38.331 W61 01.974		-8 m			4 m	0:00:00	0 kph	288° true
+Trackpoint	N10 38.334 W61 01.973		-9 m			7 m	0:00:00	0 kph	20° true
+Trackpoint	N10 38.336 W61 01.974		-9 m			3 m	0:00:00	0 kph	342° true
+Trackpoint	N10 38.338 W61 01.976		-9 m			6 m	0:00:00	0 kph	305° true
+Trackpoint	N10 38.337 W61 01.975		-7 m			3 m	0:00:00	0 kph	102° true
+Trackpoint	N10 38.338 W61 01.975		-4 m			2 m	0:00:00	0 kph	346° true
+Trackpoint	N10 38.338 W61 01.974		-4 m			1 m	0:00:00	0 kph	84° true
+Trackpoint	N10 38.340 W61 01.976		-3 m			4 m	0:00:00	0 kph	305° true
+Trackpoint	N10 38.343 W61 01.975		-3 m			7 m	0:00:00	0 kph	9° true
+Trackpoint	N10 38.345 W61 01.977		-3 m			4 m	0:00:00	0 kph	308° true
+Trackpoint	N10 38.346 W61 01.977		-3 m			2 m	0:00:00	0 kph	353° true
+Trackpoint	N10 38.345 W61 01.976		-3 m			2 m	0:00:00	0 kph	122° true
+Trackpoint	N10 38.347 W61 01.977		-2 m			5 m	0:00:00	0 kph	334° true
+Trackpoint	N10 38.347 W61 01.978		-3 m			2 m	0:00:00	0 kph	268° true
+Trackpoint	N10 38.348 W61 01.977		-3 m			2 m	0:00:00	0 kph	63° true
+Trackpoint	N10 38.349 W61 01.978		-3 m			2 m	0:00:00	0 kph	318° true
+Trackpoint	N10 38.351 W61 01.979		-3 m			4 m	0:00:00	0 kph	325° true
+Trackpoint	N10 38.350 W61 01.979		-3 m			1 m	0:00:00	0 kph	196° true
+Trackpoint	N10 38.359 W61 01.980		-3 m			16 m	0:00:00	0 kph	359° true
+Trackpoint	N10 38.361 W61 01.981		-3 m			6 m	0:00:00	0 kph	327° true
+Trackpoint	N10 38.374 W61 01.985		-5 m			24 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.379 W61 01.988		-6 m			11 m	0:00:00	0 kph	332° true
+Trackpoint	N10 38.383 W61 01.988		-4 m			7 m	0:00:00	0 kph	3° true
+Trackpoint	N10 38.397 W61 01.992		-8 m			27 m	0:00:00	0 kph	345° true
+Trackpoint	N10 38.402 W61 01.992		-8 m			10 m	0:00:00	0 kph	358° true
+Trackpoint	N10 38.410 W61 01.997		-9 m			17 m	0:00:00	0 kph	326° true
+Trackpoint	N10 38.412 W61 01.996		-5 m			5 m	0:00:00	0 kph	21° true
+Trackpoint	N10 38.425 W61 01.999		-4 m			23 m	0:00:00	0 kph	348° true
+Trackpoint	N10 38.441 W61 01.997		0 m			31 m	0:00:00	0 kph	4° true
+Trackpoint	N10 38.458 W61 02.000		-4 m			31 m	0:00:00	0 kph	350° true
+Trackpoint	N10 38.473 W61 02.001		2 m			29 m	0:00:00	0 kph	359° true
+Trackpoint	N10 38.485 W61 02.003		3 m			22 m	0:00:00	0 kph	351° true
+Trackpoint	N10 38.491 W61 02.005		6 m			11 m	0:00:00	0 kph	342° true
+Trackpoint	N10 38.492 W61 02.004		6 m			3 m	0:00:00	0 kph	40° true
+Trackpoint	N10 38.497 W61 02.006		8 m			10 m	0:00:00	0 kph	337° true
+Trackpoint	N10 38.499 W61 02.007		8 m			5 m	0:00:00	0 kph	318° true
+Trackpoint	N10 38.501 W61 02.006		9 m			6 m	0:00:00	0 kph	22° true
+Trackpoint	N10 38.508 W61 02.010		7 m			13 m	0:00:00	0 kph	332° true
+Trackpoint	N10 38.514 W61 02.010		6 m			12 m	0:00:00	0 kph	359° true
+Trackpoint	N10 38.515 W61 02.009		6 m			2 m	0:00:00	0 kph	63° true
+Trackpoint	N10 38.516 W61 02.010		5 m			4 m	0:00:00	0 kph	298° true
+Trackpoint	N10 38.523 W61 02.013		5 m			14 m	0:00:00	0 kph	341° true
+Trackpoint	N10 38.538 W61 02.013		-0 m			28 m	0:00:00	0 kph	2° true
+Trackpoint	N10 38.541 W61 02.014		-0 m			7 m	0:00:00	0 kph	330° true
+Trackpoint	N10 38.546 W61 02.014		-2 m			9 m	0:00:00	0 kph	3° true
+Trackpoint	N10 38.555 W61 02.017		-2 m			17 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.564 W61 02.018		-3 m			17 m	0:00:00	0 kph	349° true
+Trackpoint	N10 38.577 W61 02.024		-3 m			27 m	0:00:00	0 kph	337° true
+Trackpoint	N10 38.599 W61 02.031		-3 m			43 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.612 W61 02.032		-5 m			24 m	0:00:00	0 kph	357° true
+Trackpoint	N10 38.620 W61 02.029		1 m			15 m	0:00:00	0 kph	19° true
+Trackpoint	N10 38.623 W61 02.032		0 m			7 m	0:00:00	0 kph	315° true
+Trackpoint	N10 38.638 W61 02.034		-1 m			29 m	0:00:00	0 kph	352° true
+Trackpoint	N10 38.648 W61 02.037		-2 m			18 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.654 W61 02.037		-3 m			11 m	0:00:00	0 kph	2° true
+Trackpoint	N10 38.671 W61 02.043		-6 m			34 m	0:00:00	0 kph	338° true
+Trackpoint	N10 38.678 W61 02.043		-8 m			13 m	0:00:00	0 kph	3° true
+Trackpoint	N10 38.692 W61 02.045		-11 m			26 m	0:00:00	0 kph	352° true
+Trackpoint	N10 38.704 W61 02.052		-6 m			25 m	0:00:00	0 kph	332° true
+Trackpoint	N10 38.708 W61 02.052		-6 m			8 m	0:00:00	0 kph	356° true
+Trackpoint	N10 38.713 W61 02.054		-4 m			8 m	0:00:00	0 kph	338° true
+Trackpoint	N10 38.718 W61 02.053		-4 m			9 m	0:00:00	0 kph	6° true
+Trackpoint	N10 38.723 W61 02.055		-3 m			10 m	0:00:00	0 kph	347° true
+Trackpoint	N10 38.726 W61 02.052		-1 m			7 m	0:00:00	0 kph	35° true
+Trackpoint	N10 38.744 W61 02.051		1 m			33 m	0:00:00	0 kph	4° true
+Trackpoint	N10 38.754 W61 02.053		2 m			20 m	0:00:00	0 kph	353° true
+Trackpoint	N10 38.757 W61 02.055		3 m			6 m	0:00:00	0 kph	323° true
+Trackpoint	N10 38.762 W61 02.055		1 m			9 m	0:00:00	0 kph	360° true
+Trackpoint	N10 38.765 W61 02.057		2 m			7 m	0:00:00	0 kph	327° true
+Trackpoint	N10 38.769 W61 02.057		1 m			7 m	0:00:00	0 kph	354° true
+Trackpoint	N10 38.773 W61 02.061		-1 m			10 m	0:00:00	0 kph	316° true
+Trackpoint	N10 38.780 W61 02.062		-0 m			13 m	0:00:00	0 kph	354° true
+Trackpoint	N10 38.790 W61 02.065		0 m			20 m	0:00:00	0 kph	342° true
+Trackpoint	N10 38.795 W61 02.065		1 m			9 m	0:00:00	0 kph	4° true
+Trackpoint	N10 38.798 W61 02.067		-1 m			8 m	0:00:00	0 kph	322° true
+Trackpoint	N10 38.811 W61 02.071		-2 m			24 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.834 W61 02.072		-2 m			44 m	0:00:00	0 kph	357° true
+Trackpoint	N10 38.844 W61 02.076		-2 m			20 m	0:00:00	0 kph	341° true
+Trackpoint	N10 38.848 W61 02.075		-2 m			7 m	0:00:00	0 kph	16° true
+Trackpoint	N10 38.855 W61 02.075		-3 m			12 m	0:00:00	0 kph	355° true
+Trackpoint	N10 38.861 W61 02.078		-5 m			13 m	0:00:00	0 kph	336° true
+Trackpoint	N10 38.869 W61 02.079		-6 m			15 m	0:00:00	0 kph	355° true
+Trackpoint	N10 38.873 W61 02.081		-7 m			8 m	0:00:00	0 kph	325° true
+Trackpoint	N10 38.878 W61 02.083		-9 m			10 m	0:00:00	0 kph	349° true
+Trackpoint	N10 38.881 W61 02.080		-10 m			6 m	0:00:00	0 kph	37° true
+Trackpoint	N10 38.894 W61 02.084		-4 m			26 m	0:00:00	0 kph	344° true
+Trackpoint	N10 38.900 W61 02.085		-4 m			11 m	0:00:00	0 kph	351° true
+Trackpoint	N10 38.903 W61 02.084		-2 m			6 m	0:00:00	0 kph	21° true
+Trackpoint	N10 38.907 W61 02.087		-1 m			9 m	0:00:00	0 kph	329° true
+Trackpoint	N10 38.907 W61 02.086		-1 m			2 m	0:00:00	0 kph	80° true
+Trackpoint	N10 38.915 W61 02.089		-6 m			15 m	0:00:00	0 kph	336° true
+Trackpoint	N10 38.923 W61 02.086		-3 m			16 m	0:00:00	0 kph	16° true
+Trackpoint	N10 38.925 W61 02.088		-5 m			4 m	0:00:00	0 kph	317° true
+Trackpoint	N10 38.929 W61 02.088		-7 m			8 m	0:00:00	0 kph	0° true
+Trackpoint	N10 38.933 W61 02.091		-9 m			10 m	0:00:00	0 kph	321° true
+Trackpoint	N10 38.940 W61 02.091		-10 m			12 m	0:00:00	0 kph	1° true
+Trackpoint	N10 38.943 W61 02.089		-9 m			7 m	0:00:00	0 kph	36° true
+Trackpoint	N10 38.951 W61 02.088		-9 m			15 m	0:00:00	0 kph	5° true
+Trackpoint	N10 38.956 W61 02.091		-9 m			11 m	0:00:00	0 kph	329° true
+Trackpoint	N10 38.961 W61 02.091		-9 m			9 m	0:00:00	0 kph	9° true
+Trackpoint	N10 38.965 W61 02.091		-9 m			7 m	0:00:00	0 kph	355° true
+Trackpoint	N10 38.965 W61 02.092		-9 m			3 m	0:00:00	0 kph	289° true
+Trackpoint	N10 38.973 W61 02.092		-11 m			13 m	0:00:00	0 kph	2° true
+Trackpoint	N10 38.977 W61 02.093		-11 m			9 m	0:00:00	0 kph	345° true
+Trackpoint	N10 38.980 W61 02.095		-10 m			6 m	0:00:00	0 kph	323° true
+Trackpoint	N10 38.984 W61 02.096		-10 m			8 m	0:00:00	0 kph	356° true
+Trackpoint	N10 38.988 W61 02.101		-9 m			12 m	0:00:00	0 kph	308° true
+Trackpoint	N10 38.991 W61 02.102		-8 m			5 m	0:00:00	0 kph	335° true
+Trackpoint	N10 39.004 W61 02.102		-2 m			24 m	0:00:00	0 kph	358° true
+Trackpoint	N10 39.011 W61 02.104		-1 m			14 m	0:00:00	0 kph	349° true
+Trackpoint	N10 39.012 W61 02.103		-0 m			2 m	0:00:00	0 kph	69° true
+Trackpoint	N10 39.018 W61 02.107		-2 m			15 m	0:00:00	0 kph	322° true
+Trackpoint	N10 39.020 W61 02.111		-5 m			7 m	0:00:00	0 kph	301° true
+Trackpoint	N10 39.021 W61 02.110		-5 m			2 m	0:00:00	0 kph	44° true
+Trackpoint	N10 39.026 W61 02.111		-5 m			10 m	0:00:00	0 kph	344° true
+Trackpoint	N10 39.036 W61 02.110		-2 m			20 m	0:00:00	0 kph	7° true
+Trackpoint	N10 39.040 W61 02.113		-1 m			8 m	0:00:00	0 kph	318° true
+Trackpoint	N10 39.044 W61 02.112		-0 m			8 m	0:00:00	0 kph	13° true
+Trackpoint	N10 39.052 W61 02.114		-1 m			16 m	0:00:00	0 kph	348° true
+Trackpoint	N10 39.053 W61 02.115		-2 m			2 m	0:00:00	0 kph	311° true
+Trackpoint	N10 39.058 W61 02.114		-5 m			9 m	0:00:00	0 kph	3° true
+Trackpoint	N10 39.064 W61 02.116		-5 m			12 m	0:00:00	0 kph	348° true
+Trackpoint	N10 39.065 W61 02.115		-4 m			2 m	0:00:00	0 kph	55° true
+Trackpoint	N10 39.073 W61 02.118		-5 m			15 m	0:00:00	0 kph	341° true
+Trackpoint	N10 39.077 W61 02.117		-3 m			9 m	0:00:00	0 kph	11° true
+Trackpoint	N10 39.084 W61 02.119		-2 m			13 m	0:00:00	0 kph	341° true
+Trackpoint	N10 39.086 W61 02.119		-3 m			3 m	0:00:00	0 kph	11° true
+Trackpoint	N10 39.087 W61 02.121		-2 m			5 m	0:00:00	0 kph	298° true
+Trackpoint	N10 39.091 W61 02.124		-3 m			9 m	0:00:00	0 kph	335° true
+Trackpoint	N10 39.095 W61 02.123		-3 m			6 m	0:00:00	0 kph	5° true
+Trackpoint	N10 39.097 W61 02.122		-3 m			5 m	0:00:00	0 kph	32° true
+Trackpoint	N10 39.100 W61 02.122		-3 m			5 m	0:00:00	0 kph	356° true
+Trackpoint	N10 39.105 W61 02.120		-6 m			10 m	0:00:00	0 kph	23° true
+Trackpoint	N10 39.111 W61 02.123		-5 m			12 m	0:00:00	0 kph	333° true
+Trackpoint	N10 39.124 W61 02.125		-4 m			24 m	0:00:00	0 kph	348° true
+Trackpoint	N10 39.127 W61 02.127		-3 m			7 m	0:00:00	0 kph	330° true
+Trackpoint	N10 39.127 W61 02.128		-3 m			2 m	0:00:00	0 kph	284° true
+
+Track	ACTIVE LOG	02/06/2010 06:56:35 	0:59:54	3.7 km	4 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N10 37.361 W61 01.752	02/06/2010 06:56:35 	-3 m	
+Trackpoint	N10 37.363 W61 01.753	02/06/2010 06:56:39 	-3 m			3 m	0:00:04	3 kph	315° true
+Trackpoint	N10 37.363 W61 01.753	02/06/2010 06:56:41 	-3 m			1 m	0:00:02	2 kph	2° true
+Trackpoint	N10 37.364 W61 01.754	02/06/2010 06:56:43 	-3 m			2 m	0:00:02	3 kph	316° true
+Trackpoint	N10 37.365 W61 01.754	02/06/2010 06:56:45 	-3 m			1 m	0:00:02	2 kph	353° true
+Trackpoint	N10 37.365 W61 01.754	02/06/2010 06:56:47 	-3 m			2 m	0:00:02	3 kph	336° true
+Trackpoint	N10 37.367 W61 01.754	02/06/2010 06:56:49 	-3 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 37.367 W61 01.754	02/06/2010 06:56:51 	-4 m			1 m	0:00:02	2 kph	351° true
+Trackpoint	N10 37.368 W61 01.754	02/06/2010 06:56:53 	-4 m			1 m	0:00:02	3 kph	332° true
+Trackpoint	N10 37.369 W61 01.754	02/06/2010 06:56:55 	-4 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 37.370 W61 01.754	02/06/2010 06:56:57 	-4 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 37.371 W61 01.755	02/06/2010 06:56:59 	-4 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 37.372 W61 01.755	02/06/2010 06:57:01 	-4 m			2 m	0:00:02	3 kph	352° true
+Trackpoint	N10 37.373 W61 01.755	02/06/2010 06:57:03 	-3 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 37.374 W61 01.755	02/06/2010 06:57:05 	-3 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 37.376 W61 01.755	02/06/2010 06:57:07 	-2 m			4 m	0:00:02	8 kph	3° true
+Trackpoint	N10 37.377 W61 01.756	02/06/2010 06:57:09 	-2 m			2 m	0:00:02	3 kph	291° true
+Trackpoint	N10 37.379 W61 01.757	02/06/2010 06:57:11 	-1 m			4 m	0:00:02	7 kph	343° true
+Trackpoint	N10 37.380 W61 01.757	02/06/2010 06:57:13 	-0 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 37.381 W61 01.757	02/06/2010 06:57:15 	-1 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.382 W61 01.758	02/06/2010 06:57:17 	-1 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 37.382 W61 01.758	02/06/2010 06:57:19 	-1 m			2 m	0:00:02	3 kph	329° true
+Trackpoint	N10 37.383 W61 01.759	02/06/2010 06:57:21 	-0 m			2 m	0:00:02	3 kph	330° true
+Trackpoint	N10 37.384 W61 01.759	02/06/2010 06:57:23 	-0 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.385 W61 01.759	02/06/2010 06:57:25 	0 m			1 m	0:00:02	3 kph	325° true
+Trackpoint	N10 37.386 W61 01.760	02/06/2010 06:57:27 	1 m			3 m	0:00:02	5 kph	351° true
+Trackpoint	N10 37.387 W61 01.760	02/06/2010 06:57:29 	1 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 37.388 W61 01.760	02/06/2010 06:57:31 	2 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.389 W61 01.760	02/06/2010 06:57:33 	2 m			1 m	0:00:02	2 kph	353° true
+Trackpoint	N10 37.390 W61 01.760	02/06/2010 06:57:35 	1 m			1 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.390 W61 01.761	02/06/2010 06:57:37 	2 m			1 m	0:00:02	2 kph	351° true
+Trackpoint	N10 37.391 W61 01.761	02/06/2010 06:57:39 	2 m			1 m	0:00:02	2 kph	334° true
+Trackpoint	N10 37.392 W61 01.761	02/06/2010 06:57:41 	2 m			2 m	0:00:02	3 kph	343° true
+Trackpoint	N10 37.393 W61 01.762	02/06/2010 06:57:43 	3 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 37.394 W61 01.762	02/06/2010 06:57:45 	2 m			2 m	0:00:02	3 kph	326° true
+Trackpoint	N10 37.395 W61 01.762	02/06/2010 06:57:47 	2 m			2 m	0:00:02	4 kph	360° true
+Trackpoint	N10 37.396 W61 01.762	02/06/2010 06:57:49 	2 m			2 m	0:00:02	4 kph	355° true
+Trackpoint	N10 37.397 W61 01.762	02/06/2010 06:57:51 	3 m			0 m	0:00:02	0 kph	345° true
+Trackpoint	N10 37.397 W61 01.762	02/06/2010 06:57:53 	3 m			1 m	0:00:02	3 kph	350° true
+Trackpoint	N10 37.398 W61 01.763	02/06/2010 06:57:55 	4 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 37.399 W61 01.763	02/06/2010 06:57:57 	4 m			2 m	0:00:02	3 kph	347° true
+Trackpoint	N10 37.400 W61 01.763	02/06/2010 06:57:59 	4 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 37.401 W61 01.764	02/06/2010 06:58:01 	4 m			2 m	0:00:02	3 kph	347° true
+Trackpoint	N10 37.402 W61 01.764	02/06/2010 06:58:03 	4 m			1 m	0:00:02	2 kph	359° true
+Trackpoint	N10 37.402 W61 01.764	02/06/2010 06:58:05 	3 m			1 m	0:00:02	2 kph	300° true
+Trackpoint	N10 37.402 W61 01.765	02/06/2010 06:58:07 	2 m			1 m	0:00:02	3 kph	295° true
+Trackpoint	N10 37.404 W61 01.764	02/06/2010 06:58:09 	2 m			3 m	0:00:02	6 kph	23° true
+Trackpoint	N10 37.405 W61 01.764	02/06/2010 06:58:11 	2 m			2 m	0:00:02	4 kph	10° true
+Trackpoint	N10 37.406 W61 01.765	02/06/2010 06:58:13 	3 m			2 m	0:00:02	4 kph	317° true
+Trackpoint	N10 37.407 W61 01.765	02/06/2010 06:58:15 	3 m			3 m	0:00:02	5 kph	339° true
+Trackpoint	N10 37.408 W61 01.766	02/06/2010 06:58:17 	3 m			2 m	0:00:02	4 kph	322° true
+Trackpoint	N10 37.410 W61 01.766	02/06/2010 06:58:19 	2 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 37.410 W61 01.766	02/06/2010 06:58:21 	3 m			1 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.411 W61 01.767	02/06/2010 06:58:23 	2 m			2 m	0:00:02	3 kph	320° true
+Trackpoint	N10 37.412 W61 01.767	02/06/2010 06:58:25 	2 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.414 W61 01.768	02/06/2010 06:58:27 	4 m			3 m	0:00:02	6 kph	340° true
+Trackpoint	N10 37.416 W61 01.768	02/06/2010 06:58:29 	4 m			3 m	0:00:02	6 kph	350° true
+Trackpoint	N10 37.417 W61 01.769	02/06/2010 06:58:31 	4 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 37.418 W61 01.769	02/06/2010 06:58:33 	4 m			2 m	0:00:02	3 kph	356° true
+Trackpoint	N10 37.419 W61 01.769	02/06/2010 06:58:35 	5 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 37.420 W61 01.769	02/06/2010 06:58:37 	5 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 37.421 W61 01.769	02/06/2010 06:58:39 	5 m			2 m	0:00:02	4 kph	349° true
+Trackpoint	N10 37.423 W61 01.769	02/06/2010 06:58:41 	5 m			3 m	0:00:02	5 kph	9° true
+Trackpoint	N10 37.423 W61 01.769	02/06/2010 06:58:43 	4 m			1 m	0:00:02	1.4 kph	294° true
+Trackpoint	N10 37.424 W61 01.770	02/06/2010 06:58:45 	4 m			2 m	0:00:02	3 kph	322° true
+Trackpoint	N10 37.426 W61 01.770	02/06/2010 06:58:47 	5 m			4 m	0:00:02	7 kph	343° true
+Trackpoint	N10 37.426 W61 01.770	02/06/2010 06:58:49 	4 m			1 m	0:00:02	1.5 kph	67° true
+Trackpoint	N10 37.427 W61 01.770	02/06/2010 06:58:51 	4 m			2 m	0:00:02	4 kph	9° true
+Trackpoint	N10 37.428 W61 01.770	02/06/2010 06:58:53 	4 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 37.429 W61 01.770	02/06/2010 06:58:55 	3 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 37.430 W61 01.770	02/06/2010 06:58:57 	3 m			2 m	0:00:02	3 kph	350° true
+Trackpoint	N10 37.431 W61 01.771	02/06/2010 06:58:59 	3 m			2 m	0:00:02	3 kph	358° true
+Trackpoint	N10 37.433 W61 01.770	02/06/2010 06:59:01 	3 m			3 m	0:00:02	6 kph	3° true
+Trackpoint	N10 37.434 W61 01.770	02/06/2010 06:59:03 	2 m			3 m	0:00:02	5 kph	9° true
+Trackpoint	N10 37.435 W61 01.770	02/06/2010 06:59:05 	1 m			2 m	0:00:02	3 kph	352° true
+Trackpoint	N10 37.437 W61 01.770	02/06/2010 06:59:07 	1 m			2 m	0:00:02	4 kph	357° true
+Trackpoint	N10 37.437 W61 01.771	02/06/2010 06:59:09 	1 m			1 m	0:00:02	2 kph	339° true
+Trackpoint	N10 37.438 W61 01.771	02/06/2010 06:59:11 	-0 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.441 W61 01.771	02/06/2010 06:59:13 	-3 m			5 m	0:00:02	9 kph	354° true
+Trackpoint	N10 37.442 W61 01.772	02/06/2010 06:59:15 	-3 m			2 m	0:00:02	4 kph	318° true
+Trackpoint	N10 37.443 W61 01.772	02/06/2010 06:59:17 	-4 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.445 W61 01.772	02/06/2010 06:59:19 	-4 m			3 m	0:00:02	5 kph	353° true
+Trackpoint	N10 37.445 W61 01.773	02/06/2010 06:59:21 	-2 m			2 m	0:00:02	3 kph	301° true
+Trackpoint	N10 37.446 W61 01.773	02/06/2010 06:59:23 	-1 m			1 m	0:00:02	2 kph	342° true
+Trackpoint	N10 37.447 W61 01.773	02/06/2010 06:59:25 	-1 m			2 m	0:00:02	4 kph	0° true
+Trackpoint	N10 37.448 W61 01.774	02/06/2010 06:59:27 	-1 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.449 W61 01.774	02/06/2010 06:59:29 	-1 m			3 m	0:00:02	5 kph	360° true
+Trackpoint	N10 37.450 W61 01.774	02/06/2010 06:59:31 	-0 m			1 m	0:00:02	2 kph	341° true
+Trackpoint	N10 37.451 W61 01.774	02/06/2010 06:59:33 	-0 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 37.452 W61 01.774	02/06/2010 06:59:35 	0 m			2 m	0:00:02	4 kph	5° true
+Trackpoint	N10 37.453 W61 01.775	02/06/2010 06:59:37 	1 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 37.454 W61 01.775	02/06/2010 06:59:39 	1 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 37.455 W61 01.775	02/06/2010 06:59:41 	1 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 37.456 W61 01.776	02/06/2010 06:59:43 	1 m			2 m	0:00:02	4 kph	333° true
+Trackpoint	N10 37.457 W61 01.776	02/06/2010 06:59:45 	1 m			2 m	0:00:02	4 kph	329° true
+Trackpoint	N10 37.458 W61 01.777	02/06/2010 06:59:47 	2 m			2 m	0:00:02	4 kph	335° true
+Trackpoint	N10 37.459 W61 01.777	02/06/2010 06:59:49 	2 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.460 W61 01.778	02/06/2010 06:59:51 	3 m			1 m	0:00:02	1.5 kph	323° true
+Trackpoint	N10 37.461 W61 01.778	02/06/2010 06:59:53 	3 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 37.462 W61 01.778	02/06/2010 06:59:55 	2 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 37.464 W61 01.778	02/06/2010 06:59:57 	2 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 37.464 W61 01.778	02/06/2010 06:59:59 	3 m			1 m	0:00:02	2 kph	359° true
+Trackpoint	N10 37.465 W61 01.779	02/06/2010 07:00:01 	3 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 37.467 W61 01.779	02/06/2010 07:00:03 	3 m			2 m	0:00:02	4 kph	3° true
+Trackpoint	N10 37.468 W61 01.778	02/06/2010 07:00:05 	3 m			2 m	0:00:02	3 kph	3° true
+Trackpoint	N10 37.469 W61 01.778	02/06/2010 07:00:07 	3 m			2 m	0:00:02	4 kph	22° true
+Trackpoint	N10 37.470 W61 01.778	02/06/2010 07:00:09 	3 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 37.470 W61 01.777	02/06/2010 07:00:11 	3 m			1 m	0:00:02	2 kph	69° true
+Trackpoint	N10 37.471 W61 01.777	02/06/2010 07:00:13 	2 m			2 m	0:00:02	3 kph	1° true
+Trackpoint	N10 37.473 W61 01.779	02/06/2010 07:00:15 	2 m			4 m	0:00:02	7 kph	323° true
+Trackpoint	N10 37.473 W61 01.779	02/06/2010 07:00:17 	1 m			2 m	0:00:02	4 kph	314° true
+Trackpoint	N10 37.475 W61 01.780	02/06/2010 07:00:19 	1 m			3 m	0:00:02	5 kph	324° true
+Trackpoint	N10 37.475 W61 01.781	02/06/2010 07:00:21 	1 m			2 m	0:00:02	3 kph	319° true
+Trackpoint	N10 37.477 W61 01.782	02/06/2010 07:00:23 	1 m			4 m	0:00:02	6 kph	329° true
+Trackpoint	N10 37.478 W61 01.783	02/06/2010 07:00:25 	0 m			3 m	0:00:02	5 kph	331° true
+Trackpoint	N10 37.479 W61 01.783	02/06/2010 07:00:27 	1 m			2 m	0:00:02	3 kph	337° true
+Trackpoint	N10 37.480 W61 01.783	02/06/2010 07:00:29 	-1 m			1 m	0:00:02	3 kph	340° true
+Trackpoint	N10 37.481 W61 01.783	02/06/2010 07:00:31 	-1 m			3 m	0:00:02	5 kph	352° true
+Trackpoint	N10 37.482 W61 01.784	02/06/2010 07:00:33 	-1 m			1 m	0:00:02	2 kph	331° true
+Trackpoint	N10 37.483 W61 01.784	02/06/2010 07:00:35 	-1 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 37.484 W61 01.784	02/06/2010 07:00:37 	-0 m			2 m	0:00:02	4 kph	23° true
+Trackpoint	N10 37.486 W61 01.784	02/06/2010 07:00:39 	-0 m			3 m	0:00:02	5 kph	0° true
+Trackpoint	N10 37.487 W61 01.784	02/06/2010 07:00:41 	-1 m			1 m	0:00:02	3 kph	329° true
+Trackpoint	N10 37.488 W61 01.784	02/06/2010 07:00:43 	-0 m			2 m	0:00:02	4 kph	17° true
+Trackpoint	N10 37.488 W61 01.784	02/06/2010 07:00:45 	0 m			2 m	0:00:02	3 kph	339° true
+Trackpoint	N10 37.489 W61 01.784	02/06/2010 07:00:47 	0 m			1 m	0:00:02	1.0 kph	326° true
+Trackpoint	N10 37.490 W61 01.785	02/06/2010 07:00:49 	1 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 37.491 W61 01.786	02/06/2010 07:00:51 	1 m			4 m	0:00:02	7 kph	316° true
+Trackpoint	N10 37.492 W61 01.786	02/06/2010 07:00:53 	1 m			2 m	0:00:02	3 kph	356° true
+Trackpoint	N10 37.494 W61 01.786	02/06/2010 07:00:55 	2 m			3 m	0:00:02	6 kph	354° true
+Trackpoint	N10 37.496 W61 01.786	02/06/2010 07:00:57 	2 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 37.497 W61 01.787	02/06/2010 07:00:59 	2 m			4 m	0:00:02	7 kph	329° true
+Trackpoint	N10 37.498 W61 01.787	02/06/2010 07:01:01 	1 m			1 m	0:00:02	1.3 kph	345° true
+Trackpoint	N10 37.498 W61 01.788	02/06/2010 07:01:03 	1 m			2 m	0:00:02	3 kph	299° true
+Trackpoint	N10 37.499 W61 01.789	02/06/2010 07:01:05 	0 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 37.500 W61 01.789	02/06/2010 07:01:07 	1 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 37.500 W61 01.789	02/06/2010 07:01:09 	1 m			1 m	0:00:02	2 kph	283° true
+Trackpoint	N10 37.501 W61 01.789	02/06/2010 07:01:11 	1 m			2 m	0:00:02	3 kph	357° true
+Trackpoint	N10 37.502 W61 01.790	02/06/2010 07:01:13 	2 m			1 m	0:00:02	2 kph	323° true
+Trackpoint	N10 37.503 W61 01.789	02/06/2010 07:01:15 	1 m			2 m	0:00:02	3 kph	11° true
+Trackpoint	N10 37.503 W61 01.790	02/06/2010 07:01:17 	1 m			2 m	0:00:02	3 kph	321° true
+Trackpoint	N10 37.504 W61 01.790	02/06/2010 07:01:19 	0 m			1 m	0:00:02	2 kph	355° true
+Trackpoint	N10 37.505 W61 01.790	02/06/2010 07:01:21 	0 m			1 m	0:00:02	3 kph	44° true
+Trackpoint	N10 37.505 W61 01.790	02/06/2010 07:01:23 	0 m			1 m	0:00:02	2 kph	288° true
+Trackpoint	N10 37.506 W61 01.790	02/06/2010 07:01:25 	-0 m			3 m	0:00:02	6 kph	10° true
+Trackpoint	N10 37.508 W61 01.790	02/06/2010 07:01:27 	-0 m			3 m	0:00:02	6 kph	356° true
+Trackpoint	N10 37.510 W61 01.790	02/06/2010 07:01:29 	-0 m			3 m	0:00:02	6 kph	348° true
+Trackpoint	N10 37.512 W61 01.791	02/06/2010 07:01:31 	-1 m			4 m	0:00:02	7 kph	327° true
+Trackpoint	N10 37.513 W61 01.791	02/06/2010 07:01:33 	-1 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 37.514 W61 01.792	02/06/2010 07:01:35 	-0 m			2 m	0:00:02	4 kph	331° true
+Trackpoint	N10 37.515 W61 01.792	02/06/2010 07:01:37 	-1 m			3 m	0:00:02	5 kph	351° true
+Trackpoint	N10 37.516 W61 01.792	02/06/2010 07:01:39 	-1 m			1 m	0:00:02	2 kph	349° true
+Trackpoint	N10 37.517 W61 01.792	02/06/2010 07:01:41 	-1 m			3 m	0:00:02	5 kph	1° true
+Trackpoint	N10 37.518 W61 01.793	02/06/2010 07:01:43 	-2 m			2 m	0:00:02	3 kph	343° true
+Trackpoint	N10 37.519 W61 01.793	02/06/2010 07:01:45 	-2 m			1 m	0:00:02	3 kph	356° true
+Trackpoint	N10 37.521 W61 01.793	02/06/2010 07:01:47 	-2 m			4 m	0:00:02	6 kph	353° true
+Trackpoint	N10 37.522 W61 01.793	02/06/2010 07:01:49 	-2 m			1 m	0:00:02	3 kph	21° true
+Trackpoint	N10 37.523 W61 01.793	02/06/2010 07:01:51 	-2 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 37.524 W61 01.793	02/06/2010 07:01:53 	-2 m			2 m	0:00:02	4 kph	19° true
+Trackpoint	N10 37.524 W61 01.793	02/06/2010 07:01:55 	-3 m			1 m	0:00:02	3 kph	311° true
+Trackpoint	N10 37.525 W61 01.793	02/06/2010 07:01:57 	-2 m			1 m	0:00:02	2 kph	2° true
+Trackpoint	N10 37.524 W61 01.794	02/06/2010 07:01:59 	-2 m			1 m	0:00:02	2 kph	249° true
+Trackpoint	N10 37.524 W61 01.793	02/06/2010 07:02:01 	-1 m			0 m	0:00:02	0 kph	111° true
+Trackpoint	N10 37.524 W61 01.794	02/06/2010 07:02:03 	-0 m			1 m	0:00:02	2 kph	235° true
+Trackpoint	N10 37.524 W61 01.794	02/06/2010 07:02:05 	-0 m			1 m	0:00:02	2 kph	242° true
+Trackpoint	N10 37.524 W61 01.793	02/06/2010 07:02:07 	-1 m			2 m	0:00:02	3 kph	83° true
+Trackpoint	N10 37.524 W61 01.793	02/06/2010 07:02:09 	-1 m			1 m	0:00:02	2 kph	20° true
+Trackpoint	N10 37.525 W61 01.793	02/06/2010 07:02:11 	-2 m			2 m	0:00:02	3 kph	34° true
+Trackpoint	N10 37.526 W61 01.793	02/06/2010 07:02:13 	-2 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.527 W61 01.793	02/06/2010 07:02:15 	-2 m			2 m	0:00:02	3 kph	353° true
+Trackpoint	N10 37.529 W61 01.793	02/06/2010 07:02:17 	-2 m			3 m	0:00:02	5 kph	356° true
+Trackpoint	N10 37.530 W61 01.793	02/06/2010 07:02:19 	-3 m			3 m	0:00:02	5 kph	348° true
+Trackpoint	N10 37.532 W61 01.794	02/06/2010 07:02:21 	-4 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 37.533 W61 01.794	02/06/2010 07:02:23 	-4 m			3 m	0:00:02	5 kph	10° true
+Trackpoint	N10 37.534 W61 01.794	02/06/2010 07:02:25 	-4 m			1 m	0:00:02	3 kph	342° true
+Trackpoint	N10 37.534 W61 01.794	02/06/2010 07:02:27 	-3 m			1 m	0:00:02	2 kph	299° true
+Trackpoint	N10 37.536 W61 01.794	02/06/2010 07:02:29 	-2 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.536 W61 01.795	02/06/2010 07:02:31 	-3 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 37.537 W61 01.795	02/06/2010 07:02:33 	-3 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 37.538 W61 01.796	02/06/2010 07:02:35 	-2 m			2 m	0:00:02	3 kph	298° true
+Trackpoint	N10 37.538 W61 01.797	02/06/2010 07:02:37 	-3 m			2 m	0:00:02	4 kph	313° true
+Trackpoint	N10 37.539 W61 01.798	02/06/2010 07:02:39 	-2 m			2 m	0:00:02	4 kph	301° true
+Trackpoint	N10 37.540 W61 01.798	02/06/2010 07:02:41 	-1 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 37.541 W61 01.798	02/06/2010 07:02:43 	-1 m			2 m	0:00:02	4 kph	22° true
+Trackpoint	N10 37.542 W61 01.798	02/06/2010 07:02:45 	-1 m			2 m	0:00:02	4 kph	5° true
+Trackpoint	N10 37.543 W61 01.798	02/06/2010 07:02:47 	-1 m			2 m	0:00:02	4 kph	338° true
+Trackpoint	N10 37.545 W61 01.798	02/06/2010 07:02:49 	-1 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 37.546 W61 01.799	02/06/2010 07:02:51 	-1 m			3 m	0:00:02	5 kph	344° true
+Trackpoint	N10 37.547 W61 01.799	02/06/2010 07:02:53 	-1 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 37.548 W61 01.799	02/06/2010 07:02:55 	-0 m			2 m	0:00:02	3 kph	3° true
+Trackpoint	N10 37.549 W61 01.799	02/06/2010 07:02:57 	-0 m			2 m	0:00:02	3 kph	7° true
+Trackpoint	N10 37.549 W61 01.799	02/06/2010 07:02:59 	-1 m			1 m	0:00:02	2 kph	287° true
+Trackpoint	N10 37.550 W61 01.800	02/06/2010 07:03:01 	-0 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.550 W61 01.800	02/06/2010 07:03:03 	-1 m			0 m	0:00:02	0 kph	296° true
+Trackpoint	N10 37.551 W61 01.800	02/06/2010 07:03:05 	-1 m			1 m	0:00:02	3 kph	359° true
+Trackpoint	N10 37.552 W61 01.800	02/06/2010 07:03:07 	-1 m			2 m	0:00:02	3 kph	6° true
+Trackpoint	N10 37.552 W61 01.800	02/06/2010 07:03:09 	-1 m			1 m	0:00:02	2 kph	4° true
+Trackpoint	N10 37.553 W61 01.800	02/06/2010 07:03:11 	-2 m			2 m	0:00:02	3 kph	333° true
+Trackpoint	N10 37.554 W61 01.800	02/06/2010 07:03:13 	-2 m			1 m	0:00:02	2 kph	320° true
+Trackpoint	N10 37.554 W61 01.801	02/06/2010 07:03:15 	-2 m			1 m	0:00:02	2 kph	320° true
+Trackpoint	N10 37.555 W61 01.801	02/06/2010 07:03:17 	-3 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 37.555 W61 01.801	02/06/2010 07:03:19 	-3 m			1 m	0:00:02	2 kph	354° true
+Trackpoint	N10 37.556 W61 01.801	02/06/2010 07:03:21 	-3 m			1 m	0:00:02	2 kph	345° true
+Trackpoint	N10 37.557 W61 01.802	02/06/2010 07:03:23 	-3 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 37.558 W61 01.802	02/06/2010 07:03:25 	-3 m			2 m	0:00:02	3 kph	353° true
+Trackpoint	N10 37.559 W61 01.802	02/06/2010 07:03:27 	-3 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 37.559 W61 01.803	02/06/2010 07:03:29 	-4 m			2 m	0:00:02	3 kph	307° true
+Trackpoint	N10 37.560 W61 01.803	02/06/2010 07:03:31 	-3 m			1 m	0:00:02	2 kph	6° true
+Trackpoint	N10 37.561 W61 01.802	02/06/2010 07:03:33 	-3 m			2 m	0:00:02	3 kph	35° true
+Trackpoint	N10 37.562 W61 01.803	02/06/2010 07:03:35 	-3 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 37.562 W61 01.803	02/06/2010 07:03:37 	-4 m			1 m	0:00:02	2 kph	335° true
+Trackpoint	N10 37.562 W61 01.803	02/06/2010 07:03:39 	-3 m			1 m	0:00:02	1.2 kph	40° true
+Trackpoint	N10 37.564 W61 01.803	02/06/2010 07:03:41 	-3 m			2 m	0:00:02	4 kph	1° true
+Trackpoint	N10 37.564 W61 01.803	02/06/2010 07:03:43 	-3 m			1 m	0:00:02	3 kph	336° true
+Trackpoint	N10 37.566 W61 01.803	02/06/2010 07:03:45 	-3 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.566 W61 01.804	02/06/2010 07:03:47 	-3 m			1 m	0:00:02	3 kph	331° true
+Trackpoint	N10 37.567 W61 01.804	02/06/2010 07:03:49 	-3 m			2 m	0:00:02	3 kph	342° true
+Trackpoint	N10 37.568 W61 01.804	02/06/2010 07:03:51 	-3 m			2 m	0:00:02	3 kph	1° true
+Trackpoint	N10 37.569 W61 01.804	02/06/2010 07:03:53 	-3 m			2 m	0:00:02	3 kph	17° true
+Trackpoint	N10 37.569 W61 01.804	02/06/2010 07:03:55 	-3 m			1 m	0:00:02	2 kph	291° true
+Trackpoint	N10 37.570 W61 01.804	02/06/2010 07:03:57 	-3 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 37.571 W61 01.804	02/06/2010 07:03:59 	-3 m			2 m	0:00:02	4 kph	349° true
+Trackpoint	N10 37.572 W61 01.805	02/06/2010 07:04:01 	-3 m			1 m	0:00:02	1.3 kph	356° true
+Trackpoint	N10 37.572 W61 01.805	02/06/2010 07:04:03 	-3 m			1 m	0:00:02	2 kph	333° true
+Trackpoint	N10 37.573 W61 01.805	02/06/2010 07:04:05 	-3 m			1 m	0:00:02	2 kph	13° true
+Trackpoint	N10 37.575 W61 01.805	02/06/2010 07:04:07 	-3 m			3 m	0:00:02	6 kph	355° true
+Trackpoint	N10 37.575 W61 01.805	02/06/2010 07:04:09 	-3 m			0 m	0:00:02	0 kph	332° true
+Trackpoint	N10 37.575 W61 01.805	02/06/2010 07:04:11 	-2 m			1 m	0:00:02	1.0 kph	27° true
+Trackpoint	N10 37.576 W61 01.805	02/06/2010 07:04:13 	-1 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 37.576 W61 01.806	02/06/2010 07:04:15 	0 m			2 m	0:00:02	3 kph	320° true
+Trackpoint	N10 37.577 W61 01.806	02/06/2010 07:04:17 	1 m			1 m	0:00:02	2 kph	318° true
+Trackpoint	N10 37.578 W61 01.806	02/06/2010 07:04:19 	1 m			1 m	0:00:02	3 kph	347° true
+Trackpoint	N10 37.578 W61 01.806	02/06/2010 07:04:21 	1 m			1 m	0:00:02	3 kph	341° true
+Trackpoint	N10 37.579 W61 01.807	02/06/2010 07:04:23 	1 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.580 W61 01.807	02/06/2010 07:04:25 	1 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.581 W61 01.807	02/06/2010 07:04:27 	2 m			2 m	0:00:02	3 kph	3° true
+Trackpoint	N10 37.582 W61 01.807	02/06/2010 07:04:29 	0 m			2 m	0:00:02	3 kph	356° true
+Trackpoint	N10 37.583 W61 01.807	02/06/2010 07:04:31 	0 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 37.585 W61 01.807	02/06/2010 07:04:33 	0 m			3 m	0:00:02	5 kph	2° true
+Trackpoint	N10 37.585 W61 01.807	02/06/2010 07:04:35 	-0 m			2 m	0:00:02	3 kph	342° true
+Trackpoint	N10 37.586 W61 01.808	02/06/2010 07:04:37 	-1 m			2 m	0:00:02	4 kph	314° true
+Trackpoint	N10 37.587 W61 01.808	02/06/2010 07:04:39 	-0 m			2 m	0:00:02	3 kph	339° true
+Trackpoint	N10 37.589 W61 01.809	02/06/2010 07:04:41 	-0 m			3 m	0:00:02	5 kph	343° true
+Trackpoint	N10 37.589 W61 01.809	02/06/2010 07:04:43 	-0 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 37.591 W61 01.809	02/06/2010 07:04:45 	0 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 37.592 W61 01.809	02/06/2010 07:04:47 	0 m			2 m	0:00:02	4 kph	30° true
+Trackpoint	N10 37.592 W61 01.809	02/06/2010 07:04:49 	1 m			1 m	0:00:02	2 kph	346° true
+Trackpoint	N10 37.593 W61 01.809	02/06/2010 07:04:51 	-2 m			2 m	0:00:02	3 kph	339° true
+Trackpoint	N10 37.595 W61 01.810	02/06/2010 07:04:53 	-3 m			5 m	0:00:02	8 kph	338° true
+Trackpoint	N10 37.596 W61 01.810	02/06/2010 07:04:55 	-3 m			1 m	0:00:02	2 kph	25° true
+Trackpoint	N10 37.598 W61 01.811	02/06/2010 07:04:57 	-3 m			5 m	0:00:02	8 kph	339° true
+Trackpoint	N10 37.599 W61 01.811	02/06/2010 07:04:59 	-4 m			1 m	0:00:02	3 kph	349° true
+Trackpoint	N10 37.599 W61 01.811	02/06/2010 07:05:01 	-4 m			1 m	0:00:02	1.2 kph	74° true
+Trackpoint	N10 37.601 W61 01.811	02/06/2010 07:05:03 	-3 m			3 m	0:00:02	5 kph	342° true
+Trackpoint	N10 37.602 W61 01.811	02/06/2010 07:05:05 	-2 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 37.603 W61 01.811	02/06/2010 07:05:07 	-1 m			2 m	0:00:02	4 kph	353° true
+Trackpoint	N10 37.605 W61 01.811	02/06/2010 07:05:09 	-0 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 37.606 W61 01.812	02/06/2010 07:05:11 	-0 m			2 m	0:00:02	4 kph	327° true
+Trackpoint	N10 37.607 W61 01.813	02/06/2010 07:05:13 	0 m			2 m	0:00:02	4 kph	331° true
+Trackpoint	N10 37.607 W61 01.813	02/06/2010 07:05:15 	-0 m			2 m	0:00:02	3 kph	331° true
+Trackpoint	N10 37.609 W61 01.814	02/06/2010 07:05:17 	1 m			3 m	0:00:02	6 kph	332° true
+Trackpoint	N10 37.610 W61 01.814	02/06/2010 07:05:19 	1 m			2 m	0:00:02	3 kph	22° true
+Trackpoint	N10 37.611 W61 01.814	02/06/2010 07:05:21 	1 m			2 m	0:00:02	4 kph	338° true
+Trackpoint	N10 37.611 W61 01.814	02/06/2010 07:05:23 	1 m			1 m	0:00:02	2 kph	55° true
+Trackpoint	N10 37.612 W61 01.814	02/06/2010 07:05:25 	1 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 37.613 W61 01.814	02/06/2010 07:05:27 	1 m			1 m	0:00:02	2 kph	323° true
+Trackpoint	N10 37.615 W61 01.815	02/06/2010 07:05:29 	1 m			4 m	0:00:02	7 kph	333° true
+Trackpoint	N10 37.615 W61 01.815	02/06/2010 07:05:31 	-0 m			1 m	0:00:02	2 kph	41° true
+Trackpoint	N10 37.618 W61 01.816	02/06/2010 07:05:33 	-0 m			5 m	0:00:02	8 kph	340° true
+Trackpoint	N10 37.619 W61 01.815	02/06/2010 07:05:35 	-0 m			2 m	0:00:02	3 kph	17° true
+Trackpoint	N10 37.620 W61 01.816	02/06/2010 07:05:37 	-1 m			3 m	0:00:02	5 kph	341° true
+Trackpoint	N10 37.620 W61 01.816	02/06/2010 07:05:39 	-2 m			1 m	0:00:02	1.2 kph	350° true
+Trackpoint	N10 37.622 W61 01.816	02/06/2010 07:05:41 	-3 m			3 m	0:00:02	6 kph	350° true
+Trackpoint	N10 37.622 W61 01.816	02/06/2010 07:05:43 	-3 m			1 m	0:00:02	1.2 kph	317° true
+Trackpoint	N10 37.624 W61 01.817	02/06/2010 07:05:45 	-3 m			3 m	0:00:02	6 kph	335° true
+Trackpoint	N10 37.625 W61 01.817	02/06/2010 07:05:47 	-3 m			2 m	0:00:02	3 kph	353° true
+Trackpoint	N10 37.626 W61 01.818	02/06/2010 07:05:49 	-3 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 37.627 W61 01.817	02/06/2010 07:05:51 	-2 m			2 m	0:00:02	4 kph	5° true
+Trackpoint	N10 37.628 W61 01.818	02/06/2010 07:05:53 	-2 m			1 m	0:00:02	3 kph	354° true
+Trackpoint	N10 37.630 W61 01.818	02/06/2010 07:05:55 	-2 m			4 m	0:00:02	6 kph	337° true
+Trackpoint	N10 37.629 W61 01.818	02/06/2010 07:05:57 	-1 m			1 m	0:00:02	2 kph	170° true
+Trackpoint	N10 37.630 W61 01.819	02/06/2010 07:05:59 	-1 m			3 m	0:00:02	6 kph	316° true
+Trackpoint	N10 37.631 W61 01.819	02/06/2010 07:06:01 	-2 m			1 m	0:00:02	2 kph	18° true
+Trackpoint	N10 37.632 W61 01.820	02/06/2010 07:06:03 	-1 m			3 m	0:00:02	5 kph	340° true
+Trackpoint	N10 37.633 W61 01.820	02/06/2010 07:06:05 	-0 m			2 m	0:00:02	3 kph	332° true
+Trackpoint	N10 37.636 W61 01.822	02/06/2010 07:06:07 	-0 m			5 m	0:00:02	9 kph	328° true
+Trackpoint	N10 37.636 W61 01.822	02/06/2010 07:06:09 	-0 m			1 m	0:00:02	1.2 kph	346° true
+Trackpoint	N10 37.637 W61 01.822	02/06/2010 07:06:11 	0 m			2 m	0:00:02	3 kph	321° true
+Trackpoint	N10 37.638 W61 01.824	02/06/2010 07:06:13 	1 m			4 m	0:00:02	7 kph	320° true
+Trackpoint	N10 37.638 W61 01.823	02/06/2010 07:06:15 	1 m			2 m	0:00:02	3 kph	78° true
+Trackpoint	N10 37.640 W61 01.823	02/06/2010 07:06:17 	0 m			3 m	0:00:02	6 kph	352° true
+Trackpoint	N10 37.641 W61 01.823	02/06/2010 07:06:19 	1 m			1 m	0:00:02	2 kph	29° true
+Trackpoint	N10 37.643 W61 01.823	02/06/2010 07:06:21 	1 m			3 m	0:00:02	5 kph	355° true
+Trackpoint	N10 37.644 W61 01.822	02/06/2010 07:06:23 	1 m			2 m	0:00:02	4 kph	18° true
+Trackpoint	N10 37.644 W61 01.822	02/06/2010 07:06:25 	1 m			1 m	0:00:02	2 kph	358° true
+Trackpoint	N10 37.645 W61 01.823	02/06/2010 07:06:27 	1 m			2 m	0:00:02	4 kph	312° true
+Trackpoint	N10 37.646 W61 01.823	02/06/2010 07:06:29 	1 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 37.647 W61 01.824	02/06/2010 07:06:31 	-0 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 37.648 W61 01.824	02/06/2010 07:06:33 	-0 m			3 m	0:00:02	5 kph	357° true
+Trackpoint	N10 37.649 W61 01.824	02/06/2010 07:06:35 	-1 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 37.650 W61 01.825	02/06/2010 07:06:37 	0 m			2 m	0:00:02	4 kph	328° true
+Trackpoint	N10 37.651 W61 01.825	02/06/2010 07:06:39 	0 m			1 m	0:00:02	2 kph	340° true
+Trackpoint	N10 37.652 W61 01.825	02/06/2010 07:06:41 	1 m			2 m	0:00:02	3 kph	333° true
+Trackpoint	N10 37.652 W61 01.825	02/06/2010 07:06:43 	1 m			1 m	0:00:02	2 kph	352° true
+Trackpoint	N10 37.653 W61 01.826	02/06/2010 07:06:45 	1 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.655 W61 01.826	02/06/2010 07:06:47 	1 m			3 m	0:00:02	5 kph	334° true
+Trackpoint	N10 37.655 W61 01.827	02/06/2010 07:06:49 	0 m			2 m	0:00:02	3 kph	343° true
+Trackpoint	N10 37.656 W61 01.827	02/06/2010 07:06:51 	-0 m			1 m	0:00:02	2 kph	333° true
+Trackpoint	N10 37.657 W61 01.827	02/06/2010 07:06:53 	0 m			1 m	0:00:02	2 kph	4° true
+Trackpoint	N10 37.659 W61 01.828	02/06/2010 07:06:55 	0 m			4 m	0:00:02	7 kph	338° true
+Trackpoint	N10 37.659 W61 01.828	02/06/2010 07:06:57 	1 m			1 m	0:00:02	2 kph	310° true
+Trackpoint	N10 37.660 W61 01.829	02/06/2010 07:06:59 	1 m			2 m	0:00:02	4 kph	326° true
+Trackpoint	N10 37.661 W61 01.829	02/06/2010 07:07:01 	2 m			2 m	0:00:02	4 kph	17° true
+Trackpoint	N10 37.662 W61 01.829	02/06/2010 07:07:03 	3 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.663 W61 01.829	02/06/2010 07:07:05 	3 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 37.664 W61 01.829	02/06/2010 07:07:07 	4 m			2 m	0:00:02	4 kph	16° true
+Trackpoint	N10 37.666 W61 01.829	02/06/2010 07:07:09 	4 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 37.667 W61 01.830	02/06/2010 07:07:11 	4 m			3 m	0:00:02	6 kph	333° true
+Trackpoint	N10 37.668 W61 01.830	02/06/2010 07:07:13 	4 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 37.670 W61 01.830	02/06/2010 07:07:15 	4 m			4 m	0:00:02	7 kph	3° true
+Trackpoint	N10 37.671 W61 01.829	02/06/2010 07:07:17 	4 m			1 m	0:00:02	2 kph	31° true
+Trackpoint	N10 37.672 W61 01.830	02/06/2010 07:07:19 	4 m			3 m	0:00:02	6 kph	346° true
+Trackpoint	N10 37.674 W61 01.831	02/06/2010 07:07:21 	3 m			4 m	0:00:02	6 kph	339° true
+Trackpoint	N10 37.676 W61 01.831	02/06/2010 07:07:23 	3 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 37.677 W61 01.830	02/06/2010 07:07:25 	0 m			2 m	0:00:02	3 kph	21° true
+Trackpoint	N10 37.676 W61 01.830	02/06/2010 07:07:27 	1 m			0 m	0:00:02	0 kph	237° true
+Trackpoint	N10 37.676 W61 01.830	02/06/2010 07:07:29 	2 m			0 m	0:00:02	0 kph	203° true
+Trackpoint	N10 37.676 W61 01.831	02/06/2010 07:07:31 	2 m			0 m	0:00:02	0 kph	237° true
+Trackpoint	N10 37.676 W61 01.831	02/06/2010 07:07:33 	2 m			0 m	0:00:02	0 kph	38° true
+Trackpoint	N10 37.677 W61 01.831	02/06/2010 07:07:35 	3 m			1 m	0:00:02	1.5 kph	352° true
+Trackpoint	N10 37.677 W61 01.831	02/06/2010 07:07:37 	3 m			2 m	0:00:02	3 kph	333° true
+Trackpoint	N10 37.678 W61 01.831	02/06/2010 07:07:39 	2 m			2 m	0:00:02	3 kph	26° true
+Trackpoint	N10 37.679 W61 01.831	02/06/2010 07:07:41 	1 m			1 m	0:00:02	2 kph	354° true
+Trackpoint	N10 37.679 W61 01.831	02/06/2010 07:07:43 	1 m			1 m	0:00:02	2 kph	16° true
+Trackpoint	N10 37.681 W61 01.831	02/06/2010 07:07:45 	1 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 37.681 W61 01.831	02/06/2010 07:07:47 	0 m			1 m	0:00:02	2 kph	350° true
+Trackpoint	N10 37.683 W61 01.831	02/06/2010 07:07:49 	-1 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 37.684 W61 01.831	02/06/2010 07:07:51 	-1 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 37.685 W61 01.832	02/06/2010 07:07:53 	-1 m			3 m	0:00:02	5 kph	337° true
+Trackpoint	N10 37.686 W61 01.833	02/06/2010 07:07:55 	-2 m			2 m	0:00:02	3 kph	300° true
+Trackpoint	N10 37.686 W61 01.833	02/06/2010 07:07:57 	-2 m			1 m	0:00:02	2 kph	319° true
+Trackpoint	N10 37.687 W61 01.833	02/06/2010 07:07:59 	-3 m			2 m	0:00:02	4 kph	20° true
+Trackpoint	N10 37.688 W61 01.832	02/06/2010 07:08:01 	-3 m			2 m	0:00:02	3 kph	43° true
+Trackpoint	N10 37.689 W61 01.832	02/06/2010 07:08:03 	-4 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 37.690 W61 01.832	02/06/2010 07:08:05 	-4 m			2 m	0:00:02	4 kph	22° true
+Trackpoint	N10 37.692 W61 01.832	02/06/2010 07:08:07 	-4 m			3 m	0:00:02	6 kph	357° true
+Trackpoint	N10 37.693 W61 01.832	02/06/2010 07:08:09 	-4 m			2 m	0:00:02	4 kph	357° true
+Trackpoint	N10 37.694 W61 01.833	02/06/2010 07:08:11 	-5 m			2 m	0:00:02	4 kph	315° true
+Trackpoint	N10 37.695 W61 01.833	02/06/2010 07:08:13 	-5 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 37.696 W61 01.834	02/06/2010 07:08:15 	-5 m			3 m	0:00:02	5 kph	344° true
+Trackpoint	N10 37.697 W61 01.834	02/06/2010 07:08:17 	-5 m			2 m	0:00:02	3 kph	322° true
+Trackpoint	N10 37.698 W61 01.835	02/06/2010 07:08:19 	-5 m			2 m	0:00:02	4 kph	300° true
+Trackpoint	N10 37.698 W61 01.835	02/06/2010 07:08:21 	-5 m			1 m	0:00:02	1.5 kph	34° true
+Trackpoint	N10 37.700 W61 01.836	02/06/2010 07:08:23 	-5 m			3 m	0:00:02	6 kph	337° true
+Trackpoint	N10 37.701 W61 01.836	02/06/2010 07:08:25 	-5 m			3 m	0:00:02	5 kph	329° true
+Trackpoint	N10 37.702 W61 01.837	02/06/2010 07:08:27 	-5 m			3 m	0:00:02	5 kph	321° true
+Trackpoint	N10 37.703 W61 01.837	02/06/2010 07:08:29 	-6 m			2 m	0:00:02	4 kph	360° true
+Trackpoint	N10 37.704 W61 01.837	02/06/2010 07:08:31 	-6 m			2 m	0:00:02	4 kph	8° true
+Trackpoint	N10 37.705 W61 01.838	02/06/2010 07:08:33 	-6 m			2 m	0:00:02	3 kph	309° true
+Trackpoint	N10 37.706 W61 01.839	02/06/2010 07:08:35 	-6 m			3 m	0:00:02	5 kph	324° true
+Trackpoint	N10 37.707 W61 01.839	02/06/2010 07:08:37 	-6 m			2 m	0:00:02	4 kph	356° true
+Trackpoint	N10 37.707 W61 01.839	02/06/2010 07:08:39 	-5 m			1 m	0:00:02	2 kph	2° true
+Trackpoint	N10 37.708 W61 01.839	02/06/2010 07:08:41 	-5 m			1 m	0:00:02	2 kph	297° true
+Trackpoint	N10 37.709 W61 01.840	02/06/2010 07:08:43 	-5 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 37.710 W61 01.839	02/06/2010 07:08:45 	-5 m			3 m	0:00:02	6 kph	14° true
+Trackpoint	N10 37.712 W61 01.840	02/06/2010 07:08:47 	-6 m			3 m	0:00:02	5 kph	338° true
+Trackpoint	N10 37.712 W61 01.841	02/06/2010 07:08:49 	-7 m			2 m	0:00:02	4 kph	301° true
+Trackpoint	N10 37.713 W61 01.841	02/06/2010 07:08:51 	-7 m			2 m	0:00:02	4 kph	317° true
+Trackpoint	N10 37.714 W61 01.842	02/06/2010 07:08:53 	-7 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 37.715 W61 01.842	02/06/2010 07:08:55 	-6 m			2 m	0:00:02	3 kph	325° true
+Trackpoint	N10 37.716 W61 01.843	02/06/2010 07:08:57 	-5 m			3 m	0:00:02	5 kph	343° true
+Trackpoint	N10 37.717 W61 01.842	02/06/2010 07:08:59 	-5 m			2 m	0:00:02	4 kph	14° true
+Trackpoint	N10 37.719 W61 01.842	02/06/2010 07:09:01 	-4 m			3 m	0:00:02	5 kph	9° true
+Trackpoint	N10 37.720 W61 01.843	02/06/2010 07:09:03 	-4 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 37.720 W61 01.843	02/06/2010 07:09:05 	-3 m			1 m	0:00:02	2 kph	340° true
+Trackpoint	N10 37.722 W61 01.843	02/06/2010 07:09:07 	-3 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 37.722 W61 01.844	02/06/2010 07:09:09 	-2 m			1 m	0:00:02	1.3 kph	324° true
+Trackpoint	N10 37.724 W61 01.844	02/06/2010 07:09:11 	-2 m			4 m	0:00:02	7 kph	342° true
+Trackpoint	N10 37.725 W61 01.845	02/06/2010 07:09:13 	-1 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 37.725 W61 01.844	02/06/2010 07:09:15 	-0 m			1 m	0:00:02	2 kph	26° true
+Trackpoint	N10 37.726 W61 01.845	02/06/2010 07:09:17 	-0 m			1 m	0:00:02	2 kph	316° true
+Trackpoint	N10 37.727 W61 01.845	02/06/2010 07:09:19 	0 m			2 m	0:00:02	3 kph	16° true
+Trackpoint	N10 37.728 W61 01.845	02/06/2010 07:09:21 	-0 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 37.729 W61 01.846	02/06/2010 07:09:23 	-0 m			2 m	0:00:02	3 kph	311° true
+Trackpoint	N10 37.730 W61 01.846	02/06/2010 07:09:25 	-0 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 37.731 W61 01.845	02/06/2010 07:09:27 	-1 m			2 m	0:00:02	4 kph	14° true
+Trackpoint	N10 37.732 W61 01.845	02/06/2010 07:09:29 	-1 m			2 m	0:00:02	4 kph	16° true
+Trackpoint	N10 37.734 W61 01.846	02/06/2010 07:09:31 	-1 m			4 m	0:00:02	7 kph	334° true
+Trackpoint	N10 37.735 W61 01.845	02/06/2010 07:09:33 	-2 m			2 m	0:00:02	3 kph	38° true
+Trackpoint	N10 37.736 W61 01.845	02/06/2010 07:09:35 	-0 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 37.737 W61 01.845	02/06/2010 07:09:37 	-0 m			2 m	0:00:02	3 kph	343° true
+Trackpoint	N10 37.738 W61 01.847	02/06/2010 07:09:39 	-1 m			3 m	0:00:02	5 kph	317° true
+Trackpoint	N10 37.739 W61 01.847	02/06/2010 07:09:41 	-0 m			1 m	0:00:02	2 kph	345° true
+Trackpoint	N10 37.740 W61 01.847	02/06/2010 07:09:43 	-1 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 37.741 W61 01.847	02/06/2010 07:09:45 	-1 m			2 m	0:00:02	3 kph	323° true
+Trackpoint	N10 37.742 W61 01.848	02/06/2010 07:09:47 	-2 m			3 m	0:00:02	6 kph	329° true
+Trackpoint	N10 37.744 W61 01.848	02/06/2010 07:09:49 	-1 m			3 m	0:00:02	5 kph	2° true
+Trackpoint	N10 37.744 W61 01.848	02/06/2010 07:09:51 	-2 m			1 m	0:00:02	2 kph	48° true
+Trackpoint	N10 37.745 W61 01.848	02/06/2010 07:09:53 	-2 m			1 m	0:00:02	2 kph	357° true
+Trackpoint	N10 37.746 W61 01.848	02/06/2010 07:09:55 	-2 m			2 m	0:00:02	3 kph	358° true
+Trackpoint	N10 37.747 W61 01.848	02/06/2010 07:09:57 	-1 m			2 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.748 W61 01.849	02/06/2010 07:09:59 	-0 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 37.749 W61 01.849	02/06/2010 07:10:01 	-0 m			1 m	0:00:02	2 kph	357° true
+Trackpoint	N10 37.750 W61 01.849	02/06/2010 07:10:03 	0 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 37.750 W61 01.849	02/06/2010 07:10:05 	1 m			1 m	0:00:02	1.4 kph	357° true
+Trackpoint	N10 37.752 W61 01.850	02/06/2010 07:10:07 	1 m			3 m	0:00:02	5 kph	341° true
+Trackpoint	N10 37.753 W61 01.850	02/06/2010 07:10:09 	1 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 37.754 W61 01.849	02/06/2010 07:10:11 	2 m			2 m	0:00:02	4 kph	14° true
+Trackpoint	N10 37.756 W61 01.849	02/06/2010 07:10:13 	3 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 37.757 W61 01.849	02/06/2010 07:10:15 	3 m			2 m	0:00:02	4 kph	9° true
+Trackpoint	N10 37.758 W61 01.849	02/06/2010 07:10:17 	3 m			3 m	0:00:02	5 kph	360° true
+Trackpoint	N10 37.759 W61 01.849	02/06/2010 07:10:19 	2 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 37.760 W61 01.850	02/06/2010 07:10:21 	2 m			2 m	0:00:02	4 kph	333° true
+Trackpoint	N10 37.761 W61 01.850	02/06/2010 07:10:23 	2 m			1 m	0:00:02	2 kph	323° true
+Trackpoint	N10 37.762 W61 01.850	02/06/2010 07:10:25 	1 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 37.763 W61 01.851	02/06/2010 07:10:27 	2 m			3 m	0:00:02	5 kph	332° true
+Trackpoint	N10 37.764 W61 01.851	02/06/2010 07:10:29 	1 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 37.765 W61 01.852	02/06/2010 07:10:31 	1 m			3 m	0:00:02	5 kph	344° true
+Trackpoint	N10 37.766 W61 01.852	02/06/2010 07:10:33 	1 m			1 m	0:00:02	2 kph	17° true
+Trackpoint	N10 37.767 W61 01.852	02/06/2010 07:10:35 	1 m			3 m	0:00:02	5 kph	335° true
+Trackpoint	N10 37.768 W61 01.853	02/06/2010 07:10:37 	1 m			3 m	0:00:02	5 kph	336° true
+Trackpoint	N10 37.770 W61 01.853	02/06/2010 07:10:39 	1 m			3 m	0:00:02	5 kph	13° true
+Trackpoint	N10 37.771 W61 01.853	02/06/2010 07:10:41 	1 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 37.772 W61 01.854	02/06/2010 07:10:43 	1 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.774 W61 01.854	02/06/2010 07:10:45 	1 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 37.775 W61 01.854	02/06/2010 07:10:47 	0 m			3 m	0:00:02	5 kph	352° true
+Trackpoint	N10 37.776 W61 01.854	02/06/2010 07:10:49 	1 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 37.777 W61 01.854	02/06/2010 07:10:51 	1 m			1 m	0:00:02	1.4 kph	317° true
+Trackpoint	N10 37.777 W61 01.855	02/06/2010 07:10:53 	2 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 37.778 W61 01.855	02/06/2010 07:10:55 	2 m			1 m	0:00:02	3 kph	353° true
+Trackpoint	N10 37.780 W61 01.855	02/06/2010 07:10:57 	2 m			3 m	0:00:02	5 kph	360° true
+Trackpoint	N10 37.780 W61 01.855	02/06/2010 07:10:59 	2 m			1 m	0:00:02	2 kph	321° true
+Trackpoint	N10 37.781 W61 01.856	02/06/2010 07:11:01 	2 m			2 m	0:00:02	4 kph	317° true
+Trackpoint	N10 37.782 W61 01.857	02/06/2010 07:11:03 	3 m			2 m	0:00:02	4 kph	319° true
+Trackpoint	N10 37.783 W61 01.858	02/06/2010 07:11:05 	2 m			3 m	0:00:02	5 kph	319° true
+Trackpoint	N10 37.784 W61 01.858	02/06/2010 07:11:07 	2 m			2 m	0:00:02	3 kph	337° true
+Trackpoint	N10 37.785 W61 01.859	02/06/2010 07:11:09 	2 m			2 m	0:00:02	3 kph	328° true
+Trackpoint	N10 37.786 W61 01.859	02/06/2010 07:11:11 	1 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 37.787 W61 01.860	02/06/2010 07:11:13 	1 m			3 m	0:00:02	5 kph	336° true
+Trackpoint	N10 37.789 W61 01.860	02/06/2010 07:11:15 	0 m			2 m	0:00:02	4 kph	5° true
+Trackpoint	N10 37.790 W61 01.860	02/06/2010 07:11:17 	-1 m			2 m	0:00:02	3 kph	349° true
+Trackpoint	N10 37.791 W61 01.860	02/06/2010 07:11:19 	-0 m			3 m	0:00:02	5 kph	341° true
+Trackpoint	N10 37.793 W61 01.861	02/06/2010 07:11:21 	-1 m			4 m	0:00:02	7 kph	347° true
+Trackpoint	N10 37.794 W61 01.861	02/06/2010 07:11:23 	-2 m			3 m	0:00:02	5 kph	346° true
+Trackpoint	N10 37.795 W61 01.863	02/06/2010 07:11:25 	-3 m			3 m	0:00:02	6 kph	305° true
+Trackpoint	N10 37.796 W61 01.863	02/06/2010 07:11:27 	-3 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 37.797 W61 01.863	02/06/2010 07:11:29 	-3 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 37.799 W61 01.863	02/06/2010 07:11:31 	-2 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 37.800 W61 01.862	02/06/2010 07:11:33 	-1 m			2 m	0:00:02	4 kph	36° true
+Trackpoint	N10 37.801 W61 01.862	02/06/2010 07:11:35 	-2 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 37.802 W61 01.862	02/06/2010 07:11:37 	-2 m			2 m	0:00:02	4 kph	349° true
+Trackpoint	N10 37.803 W61 01.862	02/06/2010 07:11:39 	-1 m			1 m	0:00:02	2 kph	36° true
+Trackpoint	N10 37.804 W61 01.863	02/06/2010 07:11:41 	-1 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 37.805 W61 01.863	02/06/2010 07:11:43 	-1 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.806 W61 01.863	02/06/2010 07:11:45 	-1 m			2 m	0:00:02	4 kph	355° true
+Trackpoint	N10 37.808 W61 01.863	02/06/2010 07:11:47 	-1 m			3 m	0:00:02	5 kph	0° true
+Trackpoint	N10 37.808 W61 01.863	02/06/2010 07:11:49 	-1 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 37.810 W61 01.864	02/06/2010 07:11:51 	0 m			3 m	0:00:02	5 kph	342° true
+Trackpoint	N10 37.811 W61 01.862	02/06/2010 07:11:53 	-0 m			3 m	0:00:02	6 kph	43° true
+Trackpoint	N10 37.813 W61 01.862	02/06/2010 07:11:55 	0 m			4 m	0:00:02	7 kph	4° true
+Trackpoint	N10 37.814 W61 01.863	02/06/2010 07:11:57 	1 m			2 m	0:00:02	3 kph	333° true
+Trackpoint	N10 37.815 W61 01.863	02/06/2010 07:11:59 	-1 m			2 m	0:00:02	3 kph	323° true
+Trackpoint	N10 37.815 W61 01.864	02/06/2010 07:12:01 	-2 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 37.817 W61 01.865	02/06/2010 07:12:03 	-1 m			3 m	0:00:02	5 kph	315° true
+Trackpoint	N10 37.818 W61 01.865	02/06/2010 07:12:05 	-2 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 37.819 W61 01.865	02/06/2010 07:12:07 	-2 m			3 m	0:00:02	5 kph	337° true
+Trackpoint	N10 37.820 W61 01.864	02/06/2010 07:12:09 	-4 m			3 m	0:00:02	5 kph	39° true
+Trackpoint	N10 37.822 W61 01.864	02/06/2010 07:12:11 	-4 m			3 m	0:00:02	6 kph	356° true
+Trackpoint	N10 37.823 W61 01.864	02/06/2010 07:12:13 	-4 m			1 m	0:00:02	2 kph	15° true
+Trackpoint	N10 37.824 W61 01.864	02/06/2010 07:12:15 	-6 m			3 m	0:00:02	5 kph	14° true
+Trackpoint	N10 37.825 W61 01.864	02/06/2010 07:12:17 	-6 m			1 m	0:00:02	3 kph	357° true
+Trackpoint	N10 37.825 W61 01.865	02/06/2010 07:12:19 	-5 m			2 m	0:00:02	3 kph	314° true
+Trackpoint	N10 37.827 W61 01.865	02/06/2010 07:12:21 	-4 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 37.827 W61 01.866	02/06/2010 07:12:23 	-3 m			2 m	0:00:02	4 kph	289° true
+Trackpoint	N10 37.828 W61 01.867	02/06/2010 07:12:25 	-3 m			2 m	0:00:02	3 kph	329° true
+Trackpoint	N10 37.829 W61 01.867	02/06/2010 07:12:27 	-3 m			3 m	0:00:02	6 kph	345° true
+Trackpoint	N10 37.830 W61 01.867	02/06/2010 07:12:29 	-3 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 37.831 W61 01.868	02/06/2010 07:12:31 	-3 m			2 m	0:00:02	4 kph	320° true
+Trackpoint	N10 37.832 W61 01.868	02/06/2010 07:12:33 	-3 m			2 m	0:00:02	3 kph	358° true
+Trackpoint	N10 37.833 W61 01.868	02/06/2010 07:12:35 	-2 m			2 m	0:00:02	4 kph	357° true
+Trackpoint	N10 37.834 W61 01.868	02/06/2010 07:12:37 	-1 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 37.836 W61 01.869	02/06/2010 07:12:39 	-1 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 37.836 W61 01.869	02/06/2010 07:12:41 	-1 m			2 m	0:00:02	3 kph	323° true
+Trackpoint	N10 37.838 W61 01.870	02/06/2010 07:12:43 	-1 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 37.838 W61 01.870	02/06/2010 07:12:45 	-1 m			2 m	0:00:02	3 kph	327° true
+Trackpoint	N10 37.839 W61 01.870	02/06/2010 07:12:47 	-0 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 37.840 W61 01.871	02/06/2010 07:12:49 	-0 m			2 m	0:00:02	4 kph	321° true
+Trackpoint	N10 37.841 W61 01.871	02/06/2010 07:12:51 	-0 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 37.842 W61 01.872	02/06/2010 07:12:53 	0 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 37.843 W61 01.872	02/06/2010 07:12:55 	0 m			1 m	0:00:02	2 kph	350° true
+Trackpoint	N10 37.844 W61 01.873	02/06/2010 07:12:57 	1 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 37.845 W61 01.872	02/06/2010 07:12:59 	1 m			2 m	0:00:02	4 kph	27° true
+Trackpoint	N10 37.846 W61 01.873	02/06/2010 07:13:01 	1 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 37.847 W61 01.872	02/06/2010 07:13:03 	0 m			1 m	0:00:02	3 kph	44° true
+Trackpoint	N10 37.849 W61 01.872	02/06/2010 07:13:05 	1 m			4 m	0:00:02	6 kph	11° true
+Trackpoint	N10 37.850 W61 01.871	02/06/2010 07:13:07 	1 m			2 m	0:00:02	4 kph	23° true
+Trackpoint	N10 37.852 W61 01.871	02/06/2010 07:13:09 	1 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 37.853 W61 01.872	02/06/2010 07:13:11 	0 m			2 m	0:00:02	4 kph	329° true
+Trackpoint	N10 37.853 W61 01.872	02/06/2010 07:13:13 	0 m			1 m	0:00:02	3 kph	13° true
+Trackpoint	N10 37.856 W61 01.872	02/06/2010 07:13:15 	0 m			4 m	0:00:02	8 kph	344° true
+Trackpoint	N10 37.857 W61 01.873	02/06/2010 07:13:17 	-1 m			3 m	0:00:02	5 kph	357° true
+Trackpoint	N10 37.858 W61 01.873	02/06/2010 07:13:19 	-2 m			2 m	0:00:02	3 kph	360° true
+Trackpoint	N10 37.860 W61 01.873	02/06/2010 07:13:21 	-2 m			5 m	0:00:02	8 kph	354° true
+Trackpoint	N10 37.861 W61 01.873	02/06/2010 07:13:23 	-2 m			1 m	0:00:02	1.4 kph	352° true
+Trackpoint	N10 37.862 W61 01.873	02/06/2010 07:13:25 	-1 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 37.863 W61 01.874	02/06/2010 07:13:27 	-2 m			3 m	0:00:02	6 kph	331° true
+Trackpoint	N10 37.864 W61 01.874	02/06/2010 07:13:29 	-2 m			1 m	0:00:02	2 kph	18° true
+Trackpoint	N10 37.866 W61 01.874	02/06/2010 07:13:31 	-0 m			4 m	0:00:02	7 kph	352° true
+Trackpoint	N10 37.866 W61 01.875	02/06/2010 07:13:33 	-2 m			1 m	0:00:02	2 kph	270° true
+Trackpoint	N10 37.867 W61 01.875	02/06/2010 07:13:35 	-2 m			3 m	0:00:02	5 kph	0° true
+Trackpoint	N10 37.868 W61 01.874	02/06/2010 07:13:37 	-2 m			2 m	0:00:02	3 kph	28° true
+Trackpoint	N10 37.870 W61 01.875	02/06/2010 07:13:39 	-3 m			4 m	0:00:02	6 kph	331° true
+Trackpoint	N10 37.871 W61 01.876	02/06/2010 07:13:41 	-4 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 37.871 W61 01.876	02/06/2010 07:13:43 	-5 m			0 m	0:00:02	0 kph	19° true
+Trackpoint	N10 37.873 W61 01.876	02/06/2010 07:13:45 	-5 m			2 m	0:00:02	4 kph	333° true
+Trackpoint	N10 37.873 W61 01.876	02/06/2010 07:13:47 	-5 m			1 m	0:00:02	2 kph	28° true
+Trackpoint	N10 37.875 W61 01.877	02/06/2010 07:13:49 	-5 m			3 m	0:00:02	6 kph	345° true
+Trackpoint	N10 37.876 W61 01.876	02/06/2010 07:13:51 	-5 m			2 m	0:00:02	4 kph	11° true
+Trackpoint	N10 37.877 W61 01.877	02/06/2010 07:13:53 	-4 m			2 m	0:00:02	4 kph	338° true
+Trackpoint	N10 37.878 W61 01.877	02/06/2010 07:13:55 	-4 m			2 m	0:00:02	3 kph	7° true
+Trackpoint	N10 37.880 W61 01.877	02/06/2010 07:13:57 	-4 m			4 m	0:00:02	7 kph	343° true
+Trackpoint	N10 37.881 W61 01.877	02/06/2010 07:13:59 	-4 m			2 m	0:00:02	4 kph	21° true
+Trackpoint	N10 37.882 W61 01.877	02/06/2010 07:14:01 	-4 m			2 m	0:00:02	4 kph	17° true
+Trackpoint	N10 37.884 W61 01.876	02/06/2010 07:14:03 	-5 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 37.885 W61 01.877	02/06/2010 07:14:05 	-5 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 37.886 W61 01.877	02/06/2010 07:14:07 	-5 m			3 m	0:00:02	5 kph	5° true
+Trackpoint	N10 37.887 W61 01.876	02/06/2010 07:14:09 	-7 m			2 m	0:00:02	3 kph	10° true
+Trackpoint	N10 37.888 W61 01.877	02/06/2010 07:14:11 	-7 m			3 m	0:00:02	5 kph	321° true
+Trackpoint	N10 37.889 W61 01.878	02/06/2010 07:14:13 	-8 m			1 m	0:00:02	2 kph	327° true
+Trackpoint	N10 37.890 W61 01.878	02/06/2010 07:14:15 	-8 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 37.892 W61 01.878	02/06/2010 07:14:17 	-7 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 37.893 W61 01.879	02/06/2010 07:14:19 	-7 m			2 m	0:00:02	4 kph	311° true
+Trackpoint	N10 37.894 W61 01.880	02/06/2010 07:14:21 	-7 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 37.895 W61 01.879	02/06/2010 07:14:23 	-7 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 37.896 W61 01.880	02/06/2010 07:14:25 	-8 m			2 m	0:00:02	4 kph	338° true
+Trackpoint	N10 37.897 W61 01.880	02/06/2010 07:14:27 	-8 m			3 m	0:00:02	5 kph	342° true
+Trackpoint	N10 37.899 W61 01.881	02/06/2010 07:14:29 	-9 m			3 m	0:00:02	5 kph	336° true
+Trackpoint	N10 37.900 W61 01.881	02/06/2010 07:14:31 	-9 m			3 m	0:00:02	6 kph	347° true
+Trackpoint	N10 37.901 W61 01.881	02/06/2010 07:14:33 	-10 m			2 m	0:00:02	3 kph	4° true
+Trackpoint	N10 37.902 W61 01.881	02/06/2010 07:14:35 	-10 m			2 m	0:00:02	3 kph	6° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:37 	-10 m			1 m	0:00:02	3 kph	3° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:39 	-9 m			1 m	0:00:02	1.4 kph	344° true
+Trackpoint	N10 37.904 W61 01.881	02/06/2010 07:14:41 	-8 m			0 m	0:00:02	0 kph	31° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:43 	-8 m			1 m	0:00:02	1.5 kph	141° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:45 	-8 m			0 m	0:00:02	0 kph	111° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:47 	-8 m			0 m	0:00:02	0 kph	109° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:49 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:51 	-8 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:53 	-8 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:55 	-8 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:57 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:14:59 	-8 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:01 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:03 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:05 	-8 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:07 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:09 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:11 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:13 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:15 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:17 	-8 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:19 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:21 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:23 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:25 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:27 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:29 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:31 	-8 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:33 	-8 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:35 	-8 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:37 	-8 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:39 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:41 	-7 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:43 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:45 	-7 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:47 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:49 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:51 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:53 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:55 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:57 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:15:59 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:01 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:03 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:05 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:07 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:09 	-7 m			0 m	0:00:02	0 kph	243° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:11 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:13 	-7 m			0 m	0:00:02	0 kph	315° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:15 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:17 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:19 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:21 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:23 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:25 	-7 m			0 m	0:00:02	0 kph	315° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:27 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:29 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:31 	-7 m			0 m	0:00:02	0 kph	243° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:33 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:35 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:37 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:39 	-7 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:41 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:43 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:45 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:47 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:49 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:51 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:53 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:55 	-7 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:57 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:16:59 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:01 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:03 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:05 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:07 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:09 	-7 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:11 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:13 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:15 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:17 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:19 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:21 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:23 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:25 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:27 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:29 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:31 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:33 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:35 	-7 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:37 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:39 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:41 	-7 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:43 	-7 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:45 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:47 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:49 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:51 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:53 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:55 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:57 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:17:59 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:01 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:03 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:05 	-7 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:07 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:09 	-7 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:11 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:13 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 37.903 W61 01.881	02/06/2010 07:18:15 	-7 m			0 m	0:00:02	0 kph	169° true
+Trackpoint	N10 37.903 W61 01.880	02/06/2010 07:18:17 	-7 m			1 m	0:00:02	3 kph	36° true
+Trackpoint	N10 37.904 W61 01.881	02/06/2010 07:18:19 	-8 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 37.905 W61 01.881	02/06/2010 07:18:21 	-8 m			1 m	0:00:02	3 kph	312° true
+Trackpoint	N10 37.906 W61 01.882	02/06/2010 07:18:23 	-8 m			3 m	0:00:02	6 kph	312° true
+Trackpoint	N10 37.907 W61 01.883	02/06/2010 07:18:25 	-8 m			2 m	0:00:02	4 kph	327° true
+Trackpoint	N10 37.908 W61 01.883	02/06/2010 07:18:27 	-7 m			2 m	0:00:02	4 kph	4° true
+Trackpoint	N10 37.909 W61 01.883	02/06/2010 07:18:29 	-5 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.911 W61 01.884	02/06/2010 07:18:31 	-4 m			4 m	0:00:02	7 kph	333° true
+Trackpoint	N10 37.911 W61 01.884	02/06/2010 07:18:33 	-3 m			0 m	0:00:02	0 kph	285° true
+Trackpoint	N10 37.913 W61 01.886	02/06/2010 07:18:35 	-3 m			4 m	0:00:02	8 kph	328° true
+Trackpoint	N10 37.913 W61 01.885	02/06/2010 07:18:37 	-2 m			0 m	0:00:02	0 kph	107° true
+Trackpoint	N10 37.914 W61 01.886	02/06/2010 07:18:39 	-1 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 37.915 W61 01.886	02/06/2010 07:18:41 	-1 m			1 m	0:00:02	1.3 kph	334° true
+Trackpoint	N10 37.916 W61 01.887	02/06/2010 07:18:43 	-1 m			3 m	0:00:02	5 kph	328° true
+Trackpoint	N10 37.916 W61 01.887	02/06/2010 07:18:45 	-1 m			1 m	0:00:02	2 kph	7° true
+Trackpoint	N10 37.918 W61 01.888	02/06/2010 07:18:47 	-1 m			3 m	0:00:02	5 kph	342° true
+Trackpoint	N10 37.919 W61 01.888	02/06/2010 07:18:49 	-2 m			1 m	0:00:02	3 kph	334° true
+Trackpoint	N10 37.920 W61 01.888	02/06/2010 07:18:51 	-2 m			2 m	0:00:02	3 kph	342° true
+Trackpoint	N10 37.921 W61 01.889	02/06/2010 07:18:53 	-3 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 37.922 W61 01.889	02/06/2010 07:18:55 	-2 m			1 m	0:00:02	2 kph	357° true
+Trackpoint	N10 37.923 W61 01.889	02/06/2010 07:18:57 	-2 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 37.923 W61 01.889	02/06/2010 07:18:59 	-2 m			1 m	0:00:02	2 kph	348° true
+Trackpoint	N10 37.924 W61 01.890	02/06/2010 07:19:01 	-3 m			2 m	0:00:02	4 kph	325° true
+Trackpoint	N10 37.925 W61 01.890	02/06/2010 07:19:03 	-3 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 37.926 W61 01.891	02/06/2010 07:19:05 	-3 m			2 m	0:00:02	3 kph	331° true
+Trackpoint	N10 37.926 W61 01.891	02/06/2010 07:19:07 	-3 m			1 m	0:00:02	2 kph	355° true
+Trackpoint	N10 37.928 W61 01.891	02/06/2010 07:19:09 	-3 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 37.929 W61 01.891	02/06/2010 07:19:11 	-3 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.929 W61 01.891	02/06/2010 07:19:13 	-3 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 37.930 W61 01.892	02/06/2010 07:19:15 	-4 m			1 m	0:00:02	2 kph	313° true
+Trackpoint	N10 37.930 W61 01.892	02/06/2010 07:19:17 	-4 m			1 m	0:00:02	2 kph	334° true
+Trackpoint	N10 37.931 W61 01.892	02/06/2010 07:19:19 	-4 m			1 m	0:00:02	2 kph	1° true
+Trackpoint	N10 37.931 W61 01.892	02/06/2010 07:19:21 	-4 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 37.932 W61 01.893	02/06/2010 07:19:23 	-4 m			2 m	0:00:02	3 kph	322° true
+Trackpoint	N10 37.933 W61 01.893	02/06/2010 07:19:25 	-4 m			1 m	0:00:02	2 kph	317° true
+Trackpoint	N10 37.933 W61 01.894	02/06/2010 07:19:27 	-4 m			2 m	0:00:02	4 kph	323° true
+Trackpoint	N10 37.935 W61 01.895	02/06/2010 07:19:29 	-4 m			3 m	0:00:02	5 kph	328° true
+Trackpoint	N10 37.936 W61 01.893	02/06/2010 07:19:31 	-3 m			4 m	0:00:02	7 kph	31° true
+Trackpoint	N10 37.936 W61 01.893	02/06/2010 07:19:33 	-2 m			1 m	0:00:02	2 kph	115° true
+Trackpoint	N10 37.937 W61 01.893	02/06/2010 07:19:35 	-2 m			2 m	0:00:02	4 kph	11° true
+Trackpoint	N10 37.938 W61 01.892	02/06/2010 07:19:37 	-2 m			2 m	0:00:02	3 kph	40° true
+Trackpoint	N10 37.939 W61 01.892	02/06/2010 07:19:39 	-2 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 37.940 W61 01.893	02/06/2010 07:19:41 	-1 m			2 m	0:00:02	3 kph	291° true
+Trackpoint	N10 37.941 W61 01.893	02/06/2010 07:19:43 	-2 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.942 W61 01.893	02/06/2010 07:19:45 	-1 m			2 m	0:00:02	4 kph	9° true
+Trackpoint	N10 37.943 W61 01.893	02/06/2010 07:19:47 	-0 m			1 m	0:00:02	2 kph	18° true
+Trackpoint	N10 37.944 W61 01.893	02/06/2010 07:19:49 	0 m			1 m	0:00:02	3 kph	356° true
+Trackpoint	N10 37.945 W61 01.893	02/06/2010 07:19:51 	1 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 37.946 W61 01.893	02/06/2010 07:19:53 	0 m			2 m	0:00:02	3 kph	24° true
+Trackpoint	N10 37.948 W61 01.893	02/06/2010 07:19:55 	1 m			4 m	0:00:02	8 kph	350° true
+Trackpoint	N10 37.950 W61 01.893	02/06/2010 07:19:57 	2 m			2 m	0:00:02	4 kph	3° true
+Trackpoint	N10 37.951 W61 01.893	02/06/2010 07:19:59 	1 m			2 m	0:00:02	4 kph	7° true
+Trackpoint	N10 37.952 W61 01.893	02/06/2010 07:20:01 	2 m			3 m	0:00:02	5 kph	351° true
+Trackpoint	N10 37.953 W61 01.894	02/06/2010 07:20:03 	2 m			1 m	0:00:02	2 kph	320° true
+Trackpoint	N10 37.954 W61 01.894	02/06/2010 07:20:05 	2 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 37.955 W61 01.894	02/06/2010 07:20:07 	1 m			2 m	0:00:02	3 kph	10° true
+Trackpoint	N10 37.955 W61 01.894	02/06/2010 07:20:09 	1 m			1 m	0:00:02	3 kph	4° true
+Trackpoint	N10 37.956 W61 01.894	02/06/2010 07:20:11 	1 m			2 m	0:00:02	4 kph	0° true
+Trackpoint	N10 37.958 W61 01.894	02/06/2010 07:20:13 	1 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 37.959 W61 01.894	02/06/2010 07:20:15 	1 m			2 m	0:00:02	4 kph	4° true
+Trackpoint	N10 37.960 W61 01.894	02/06/2010 07:20:17 	0 m			3 m	0:00:02	5 kph	348° true
+Trackpoint	N10 37.962 W61 01.895	02/06/2010 07:20:19 	0 m			3 m	0:00:02	5 kph	338° true
+Trackpoint	N10 37.963 W61 01.895	02/06/2010 07:20:21 	0 m			3 m	0:00:02	5 kph	355° true
+Trackpoint	N10 37.964 W61 01.895	02/06/2010 07:20:23 	1 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 37.965 W61 01.895	02/06/2010 07:20:25 	1 m			1 m	0:00:02	3 kph	349° true
+Trackpoint	N10 37.966 W61 01.896	02/06/2010 07:20:27 	0 m			3 m	0:00:02	5 kph	326° true
+Trackpoint	N10 37.967 W61 01.897	02/06/2010 07:20:29 	-0 m			2 m	0:00:02	4 kph	329° true
+Trackpoint	N10 37.969 W61 01.897	02/06/2010 07:20:31 	-1 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 37.970 W61 01.898	02/06/2010 07:20:33 	-1 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 37.971 W61 01.898	02/06/2010 07:20:35 	-1 m			1 m	0:00:02	3 kph	346° true
+Trackpoint	N10 37.972 W61 01.898	02/06/2010 07:20:37 	-1 m			3 m	0:00:02	5 kph	340° true
+Trackpoint	N10 37.973 W61 01.898	02/06/2010 07:20:39 	-2 m			2 m	0:00:02	3 kph	15° true
+Trackpoint	N10 37.974 W61 01.898	02/06/2010 07:20:41 	-2 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 37.975 W61 01.898	02/06/2010 07:20:43 	-4 m			2 m	0:00:02	4 kph	357° true
+Trackpoint	N10 37.976 W61 01.898	02/06/2010 07:20:45 	-3 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 37.977 W61 01.898	02/06/2010 07:20:47 	-5 m			0 m	0:00:02	0 kph	24° true
+Trackpoint	N10 37.978 W61 01.899	02/06/2010 07:20:49 	-5 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 37.979 W61 01.900	02/06/2010 07:20:51 	-6 m			2 m	0:00:02	4 kph	308° true
+Trackpoint	N10 37.979 W61 01.901	02/06/2010 07:20:53 	-7 m			2 m	0:00:02	4 kph	316° true
+Trackpoint	N10 37.982 W61 01.902	02/06/2010 07:20:55 	-8 m			4 m	0:00:02	7 kph	339° true
+Trackpoint	N10 37.983 W61 01.902	02/06/2010 07:20:57 	-7 m			2 m	0:00:02	4 kph	4° true
+Trackpoint	N10 37.984 W61 01.901	02/06/2010 07:20:59 	-7 m			3 m	0:00:02	5 kph	21° true
+Trackpoint	N10 37.987 W61 01.901	02/06/2010 07:21:01 	-7 m			5 m	0:00:02	9 kph	357° true
+Trackpoint	N10 37.988 W61 01.902	02/06/2010 07:21:03 	-7 m			3 m	0:00:02	5 kph	332° true
+Trackpoint	N10 37.989 W61 01.902	02/06/2010 07:21:05 	-6 m			1 m	0:00:02	2 kph	0° true
+Trackpoint	N10 37.990 W61 01.903	02/06/2010 07:21:07 	-6 m			3 m	0:00:02	5 kph	325° true
+Trackpoint	N10 37.990 W61 01.903	02/06/2010 07:21:09 	-6 m			1 m	0:00:02	2 kph	279° true
+Trackpoint	N10 37.991 W61 01.904	02/06/2010 07:21:11 	-5 m			2 m	0:00:02	3 kph	305° true
+Trackpoint	N10 37.992 W61 01.904	02/06/2010 07:21:13 	-5 m			3 m	0:00:02	6 kph	355° true
+Trackpoint	N10 37.993 W61 01.905	02/06/2010 07:21:15 	-6 m			1 m	0:00:02	2 kph	333° true
+Trackpoint	N10 37.994 W61 01.905	02/06/2010 07:21:17 	-5 m			2 m	0:00:02	4 kph	318° true
+Trackpoint	N10 37.995 W61 01.905	02/06/2010 07:21:19 	-6 m			3 m	0:00:02	5 kph	25° true
+Trackpoint	N10 37.997 W61 01.905	02/06/2010 07:21:21 	-7 m			3 m	0:00:02	6 kph	346° true
+Trackpoint	N10 37.998 W61 01.905	02/06/2010 07:21:23 	-7 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 37.999 W61 01.906	02/06/2010 07:21:25 	-7 m			3 m	0:00:02	6 kph	340° true
+Trackpoint	N10 38.000 W61 01.906	02/06/2010 07:21:27 	-7 m			1 m	0:00:02	2 kph	41° true
+Trackpoint	N10 38.001 W61 01.907	02/06/2010 07:21:29 	-7 m			3 m	0:00:02	5 kph	323° true
+Trackpoint	N10 38.002 W61 01.907	02/06/2010 07:21:31 	-7 m			1 m	0:00:02	2 kph	344° true
+Trackpoint	N10 38.003 W61 01.907	02/06/2010 07:21:33 	-7 m			3 m	0:00:02	6 kph	344° true
+Trackpoint	N10 38.004 W61 01.907	02/06/2010 07:21:35 	-8 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 38.005 W61 01.908	02/06/2010 07:21:37 	-8 m			2 m	0:00:02	4 kph	329° true
+Trackpoint	N10 38.006 W61 01.908	02/06/2010 07:21:39 	-8 m			2 m	0:00:02	3 kph	357° true
+Trackpoint	N10 38.007 W61 01.908	02/06/2010 07:21:41 	-8 m			2 m	0:00:02	4 kph	353° true
+Trackpoint	N10 38.008 W61 01.908	02/06/2010 07:21:43 	-7 m			3 m	0:00:02	5 kph	24° true
+Trackpoint	N10 38.010 W61 01.908	02/06/2010 07:21:45 	-7 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 38.012 W61 01.908	02/06/2010 07:21:47 	-6 m			4 m	0:00:02	8 kph	353° true
+Trackpoint	N10 38.013 W61 01.909	02/06/2010 07:21:49 	-6 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 38.014 W61 01.908	02/06/2010 07:21:51 	-4 m			2 m	0:00:02	4 kph	22° true
+Trackpoint	N10 38.015 W61 01.908	02/06/2010 07:21:53 	-3 m			1 m	0:00:02	2 kph	357° true
+Trackpoint	N10 38.015 W61 01.908	02/06/2010 07:21:55 	-2 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 38.016 W61 01.908	02/06/2010 07:21:57 	-2 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 38.018 W61 01.909	02/06/2010 07:21:59 	-2 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 38.018 W61 01.909	02/06/2010 07:22:01 	-1 m			1 m	0:00:02	2 kph	325° true
+Trackpoint	N10 38.019 W61 01.909	02/06/2010 07:22:03 	-1 m			2 m	0:00:02	3 kph	6° true
+Trackpoint	N10 38.020 W61 01.909	02/06/2010 07:22:05 	-1 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 38.020 W61 01.910	02/06/2010 07:22:07 	-2 m			2 m	0:00:02	4 kph	291° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:09 	-2 m			1 m	0:00:02	2 kph	225° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:11 	-4 m			1 m	0:00:02	2 kph	238° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:13 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:15 	-4 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:17 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:19 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:21 	-4 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:23 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:25 	-4 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:27 	-4 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:29 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:31 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:33 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:35 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:37 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:39 	-4 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:41 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:43 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:45 	-4 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:47 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:49 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:51 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:53 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:55 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:57 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:22:59 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:01 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:03 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:05 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:07 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:09 	-4 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:11 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:13 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:15 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:17 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:19 	-4 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:21 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:23 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:25 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:27 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:29 	-4 m			0 m	0:00:02	0 kph	225° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:31 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:33 	-4 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:35 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:37 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:39 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:41 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:43 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:45 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:47 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:49 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:51 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:53 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:55 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:57 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:23:59 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:01 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:03 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:05 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:07 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:09 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:11 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:13 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:15 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:17 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:19 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:21 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:23 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:25 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:27 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:29 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:31 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:33 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:35 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:37 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:39 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:41 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:43 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:45 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:47 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:49 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:51 	-4 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:53 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:55 	-4 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:57 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:24:59 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:01 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:03 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:05 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:07 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:09 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:11 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:13 	-4 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:15 	-4 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.020 W61 01.911	02/06/2010 07:25:17 	-4 m			0 m	0:00:02	0 kph	61° true
+Trackpoint	N10 38.020 W61 01.910	02/06/2010 07:25:19 	-4 m			2 m	0:00:02	3 kph	37° true
+Trackpoint	N10 38.021 W61 01.910	02/06/2010 07:25:21 	-4 m			2 m	0:00:02	3 kph	358° true
+Trackpoint	N10 38.022 W61 01.910	02/06/2010 07:25:23 	-4 m			2 m	0:00:02	3 kph	32° true
+Trackpoint	N10 38.024 W61 01.910	02/06/2010 07:25:25 	-4 m			2 m	0:00:02	4 kph	0° true
+Trackpoint	N10 38.025 W61 01.910	02/06/2010 07:25:27 	-4 m			3 m	0:00:02	5 kph	348° true
+Trackpoint	N10 38.025 W61 01.910	02/06/2010 07:25:29 	-4 m			1 m	0:00:02	1.3 kph	59° true
+Trackpoint	N10 38.027 W61 01.910	02/06/2010 07:25:31 	-4 m			4 m	0:00:02	7 kph	342° true
+Trackpoint	N10 38.028 W61 01.910	02/06/2010 07:25:33 	-5 m			2 m	0:00:02	3 kph	9° true
+Trackpoint	N10 38.030 W61 01.910	02/06/2010 07:25:35 	-5 m			3 m	0:00:02	6 kph	13° true
+Trackpoint	N10 38.031 W61 01.909	02/06/2010 07:25:37 	-5 m			1 m	0:00:02	3 kph	35° true
+Trackpoint	N10 38.031 W61 01.910	02/06/2010 07:25:39 	-5 m			2 m	0:00:02	3 kph	331° true
+Trackpoint	N10 38.032 W61 01.910	02/06/2010 07:25:41 	-5 m			2 m	0:00:02	4 kph	4° true
+Trackpoint	N10 38.034 W61 01.910	02/06/2010 07:25:43 	-5 m			3 m	0:00:02	6 kph	347° true
+Trackpoint	N10 38.035 W61 01.910	02/06/2010 07:25:45 	-5 m			2 m	0:00:02	3 kph	33° true
+Trackpoint	N10 38.036 W61 01.910	02/06/2010 07:25:47 	-5 m			3 m	0:00:02	5 kph	332° true
+Trackpoint	N10 38.037 W61 01.910	02/06/2010 07:25:49 	-5 m			2 m	0:00:02	3 kph	34° true
+Trackpoint	N10 38.038 W61 01.910	02/06/2010 07:25:51 	-5 m			2 m	0:00:02	3 kph	327° true
+Trackpoint	N10 38.039 W61 01.910	02/06/2010 07:25:53 	-5 m			2 m	0:00:02	3 kph	350° true
+Trackpoint	N10 38.040 W61 01.910	02/06/2010 07:25:55 	-5 m			3 m	0:00:02	6 kph	7° true
+Trackpoint	N10 38.041 W61 01.910	02/06/2010 07:25:57 	-5 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 38.043 W61 01.910	02/06/2010 07:25:59 	-5 m			3 m	0:00:02	5 kph	355° true
+Trackpoint	N10 38.043 W61 01.910	02/06/2010 07:26:01 	-5 m			1 m	0:00:02	2 kph	31° true
+Trackpoint	N10 38.044 W61 01.910	02/06/2010 07:26:03 	-4 m			2 m	0:00:02	4 kph	346° true
+Trackpoint	N10 38.045 W61 01.910	02/06/2010 07:26:05 	-5 m			2 m	0:00:02	4 kph	33° true
+Trackpoint	N10 38.047 W61 01.911	02/06/2010 07:26:07 	-5 m			3 m	0:00:02	6 kph	334° true
+Trackpoint	N10 38.048 W61 01.911	02/06/2010 07:26:09 	-4 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 38.049 W61 01.912	02/06/2010 07:26:11 	-4 m			2 m	0:00:02	4 kph	328° true
+Trackpoint	N10 38.051 W61 01.912	02/06/2010 07:26:13 	-5 m			3 m	0:00:02	6 kph	347° true
+Trackpoint	N10 38.051 W61 01.912	02/06/2010 07:26:15 	-7 m			1 m	0:00:02	2 kph	333° true
+Trackpoint	N10 38.053 W61 01.913	02/06/2010 07:26:17 	-7 m			2 m	0:00:02	4 kph	344° true
+Trackpoint	N10 38.053 W61 01.913	02/06/2010 07:26:19 	-7 m			1 m	0:00:02	2 kph	7° true
+Trackpoint	N10 38.054 W61 01.913	02/06/2010 07:26:21 	-7 m			2 m	0:00:02	4 kph	325° true
+Trackpoint	N10 38.055 W61 01.914	02/06/2010 07:26:23 	-7 m			2 m	0:00:02	4 kph	315° true
+Trackpoint	N10 38.056 W61 01.914	02/06/2010 07:26:25 	-7 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 38.057 W61 01.914	02/06/2010 07:26:27 	-7 m			2 m	0:00:02	3 kph	1° true
+Trackpoint	N10 38.058 W61 01.915	02/06/2010 07:26:29 	-6 m			3 m	0:00:02	5 kph	340° true
+Trackpoint	N10 38.060 W61 01.917	02/06/2010 07:26:31 	-6 m			4 m	0:00:02	8 kph	311° true
+Trackpoint	N10 38.061 W61 01.917	02/06/2010 07:26:33 	-5 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 38.061 W61 01.917	02/06/2010 07:26:35 	-5 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 38.063 W61 01.918	02/06/2010 07:26:37 	-4 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 38.064 W61 01.918	02/06/2010 07:26:39 	-4 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 38.064 W61 01.918	02/06/2010 07:26:41 	-3 m			1 m	0:00:02	3 kph	336° true
+Trackpoint	N10 38.065 W61 01.918	02/06/2010 07:26:43 	-3 m			2 m	0:00:02	3 kph	347° true
+Trackpoint	N10 38.066 W61 01.919	02/06/2010 07:26:45 	-3 m			1 m	0:00:02	2 kph	349° true
+Trackpoint	N10 38.067 W61 01.919	02/06/2010 07:26:47 	-4 m			1 m	0:00:02	2 kph	337° true
+Trackpoint	N10 38.068 W61 01.919	02/06/2010 07:26:49 	-5 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 38.069 W61 01.920	02/06/2010 07:26:51 	-5 m			2 m	0:00:02	4 kph	318° true
+Trackpoint	N10 38.070 W61 01.920	02/06/2010 07:26:53 	-5 m			3 m	0:00:02	5 kph	353° true
+Trackpoint	N10 38.071 W61 01.921	02/06/2010 07:26:55 	-5 m			2 m	0:00:02	3 kph	344° true
+Trackpoint	N10 38.072 W61 01.921	02/06/2010 07:26:57 	-5 m			1 m	0:00:02	3 kph	352° true
+Trackpoint	N10 38.073 W61 01.921	02/06/2010 07:26:59 	-5 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 38.075 W61 01.922	02/06/2010 07:27:01 	-5 m			3 m	0:00:02	5 kph	337° true
+Trackpoint	N10 38.076 W61 01.921	02/06/2010 07:27:03 	-5 m			2 m	0:00:02	3 kph	20° true
+Trackpoint	N10 38.076 W61 01.922	02/06/2010 07:27:05 	-5 m			1 m	0:00:02	1.4 kph	264° true
+Trackpoint	N10 38.077 W61 01.922	02/06/2010 07:27:07 	-4 m			3 m	0:00:02	6 kph	343° true
+Trackpoint	N10 38.078 W61 01.923	02/06/2010 07:27:09 	-4 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 38.080 W61 01.923	02/06/2010 07:27:11 	-4 m			2 m	0:00:02	4 kph	338° true
+Trackpoint	N10 38.081 W61 01.924	02/06/2010 07:27:13 	-4 m			3 m	0:00:02	5 kph	328° true
+Trackpoint	N10 38.082 W61 01.924	02/06/2010 07:27:15 	-5 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 38.083 W61 01.925	02/06/2010 07:27:17 	-6 m			2 m	0:00:02	4 kph	322° true
+Trackpoint	N10 38.083 W61 01.925	02/06/2010 07:27:19 	-5 m			1 m	0:00:02	3 kph	6° true
+Trackpoint	N10 38.084 W61 01.925	02/06/2010 07:27:21 	-5 m			1 m	0:00:02	3 kph	344° true
+Trackpoint	N10 38.085 W61 01.926	02/06/2010 07:27:23 	-6 m			3 m	0:00:02	5 kph	331° true
+Trackpoint	N10 38.086 W61 01.926	02/06/2010 07:27:25 	-5 m			1 m	0:00:02	2 kph	318° true
+Trackpoint	N10 38.087 W61 01.927	02/06/2010 07:27:27 	-5 m			3 m	0:00:02	6 kph	323° true
+Trackpoint	N10 38.088 W61 01.927	02/06/2010 07:27:29 	-5 m			2 m	0:00:02	3 kph	358° true
+Trackpoint	N10 38.089 W61 01.928	02/06/2010 07:27:31 	-5 m			2 m	0:00:02	4 kph	302° true
+Trackpoint	N10 38.091 W61 01.930	02/06/2010 07:27:33 	-6 m			4 m	0:00:02	7 kph	326° true
+Trackpoint	N10 38.091 W61 01.930	02/06/2010 07:27:35 	-5 m			1 m	0:00:02	0.9 kph	16° true
+Trackpoint	N10 38.092 W61 01.930	02/06/2010 07:27:37 	-6 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 38.093 W61 01.930	02/06/2010 07:27:39 	-5 m			2 m	0:00:02	4 kph	331° true
+Trackpoint	N10 38.094 W61 01.931	02/06/2010 07:27:41 	-6 m			3 m	0:00:02	5 kph	355° true
+Trackpoint	N10 38.096 W61 01.931	02/06/2010 07:27:43 	-6 m			3 m	0:00:02	5 kph	337° true
+Trackpoint	N10 38.096 W61 01.932	02/06/2010 07:27:45 	-6 m			1 m	0:00:02	2 kph	302° true
+Trackpoint	N10 38.097 W61 01.932	02/06/2010 07:27:47 	-6 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 38.098 W61 01.933	02/06/2010 07:27:49 	-5 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 38.100 W61 01.933	02/06/2010 07:27:51 	-5 m			4 m	0:00:02	7 kph	344° true
+Trackpoint	N10 38.101 W61 01.934	02/06/2010 07:27:53 	-6 m			2 m	0:00:02	4 kph	319° true
+Trackpoint	N10 38.102 W61 01.935	02/06/2010 07:27:55 	-5 m			3 m	0:00:02	5 kph	340° true
+Trackpoint	N10 38.104 W61 01.934	02/06/2010 07:27:57 	-5 m			2 m	0:00:02	4 kph	24° true
+Trackpoint	N10 38.105 W61 01.934	02/06/2010 07:27:59 	-6 m			4 m	0:00:02	7 kph	19° true
+Trackpoint	N10 38.107 W61 01.934	02/06/2010 07:28:01 	-6 m			3 m	0:00:02	6 kph	355° true
+Trackpoint	N10 38.108 W61 01.934	02/06/2010 07:28:03 	-6 m			1 m	0:00:02	3 kph	14° true
+Trackpoint	N10 38.109 W61 01.934	02/06/2010 07:28:05 	-6 m			2 m	0:00:02	4 kph	335° true
+Trackpoint	N10 38.110 W61 01.934	02/06/2010 07:28:07 	-7 m			3 m	0:00:02	5 kph	7° true
+Trackpoint	N10 38.111 W61 01.934	02/06/2010 07:28:09 	-7 m			1 m	0:00:02	3 kph	304° true
+Trackpoint	N10 38.113 W61 01.935	02/06/2010 07:28:11 	-7 m			3 m	0:00:02	6 kph	346° true
+Trackpoint	N10 38.113 W61 01.935	02/06/2010 07:28:13 	-6 m			2 m	0:00:02	3 kph	313° true
+Trackpoint	N10 38.115 W61 01.936	02/06/2010 07:28:15 	-6 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 38.116 W61 01.936	02/06/2010 07:28:17 	-6 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 38.116 W61 01.936	02/06/2010 07:28:19 	-4 m			1 m	0:00:02	1.3 kph	101° true
+Trackpoint	N10 38.117 W61 01.936	02/06/2010 07:28:21 	-3 m			2 m	0:00:02	3 kph	3° true
+Trackpoint	N10 38.119 W61 01.935	02/06/2010 07:28:23 	-4 m			4 m	0:00:02	6 kph	28° true
+Trackpoint	N10 38.120 W61 01.935	02/06/2010 07:28:25 	-4 m			2 m	0:00:02	4 kph	360° true
+Trackpoint	N10 38.122 W61 01.935	02/06/2010 07:28:27 	-3 m			3 m	0:00:02	5 kph	5° true
+Trackpoint	N10 38.124 W61 01.935	02/06/2010 07:28:29 	-5 m			4 m	0:00:02	8 kph	9° true
+Trackpoint	N10 38.125 W61 01.935	02/06/2010 07:28:31 	-6 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 38.125 W61 01.935	02/06/2010 07:28:33 	-7 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 38.127 W61 01.935	02/06/2010 07:28:35 	-7 m			3 m	0:00:02	6 kph	12° true
+Trackpoint	N10 38.128 W61 01.934	02/06/2010 07:28:37 	-6 m			1 m	0:00:02	2 kph	41° true
+Trackpoint	N10 38.129 W61 01.934	02/06/2010 07:28:39 	-5 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 38.131 W61 01.934	02/06/2010 07:28:41 	-3 m			4 m	0:00:02	8 kph	5° true
+Trackpoint	N10 38.132 W61 01.934	02/06/2010 07:28:43 	-5 m			2 m	0:00:02	4 kph	8° true
+Trackpoint	N10 38.133 W61 01.934	02/06/2010 07:28:45 	-5 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 38.135 W61 01.934	02/06/2010 07:28:47 	-4 m			4 m	0:00:02	6 kph	5° true
+Trackpoint	N10 38.135 W61 01.934	02/06/2010 07:28:49 	-4 m			1 m	0:00:02	1.3 kph	39° true
+Trackpoint	N10 38.137 W61 01.933	02/06/2010 07:28:51 	-3 m			2 m	0:00:02	4 kph	18° true
+Trackpoint	N10 38.138 W61 01.933	02/06/2010 07:28:53 	-3 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 38.140 W61 01.933	02/06/2010 07:28:55 	-3 m			3 m	0:00:02	6 kph	13° true
+Trackpoint	N10 38.141 W61 01.933	02/06/2010 07:28:57 	-1 m			2 m	0:00:02	4 kph	16° true
+Trackpoint	N10 38.143 W61 01.933	02/06/2010 07:28:59 	-1 m			3 m	0:00:02	6 kph	359° true
+Trackpoint	N10 38.145 W61 01.933	02/06/2010 07:29:01 	-1 m			4 m	0:00:02	7 kph	350° true
+Trackpoint	N10 38.145 W61 01.932	02/06/2010 07:29:03 	-4 m			1 m	0:00:02	3 kph	72° true
+Trackpoint	N10 38.146 W61 01.933	02/06/2010 07:29:05 	-3 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 38.148 W61 01.933	02/06/2010 07:29:07 	-4 m			4 m	0:00:02	7 kph	341° true
+Trackpoint	N10 38.149 W61 01.933	02/06/2010 07:29:09 	-4 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 38.150 W61 01.934	02/06/2010 07:29:11 	-3 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 38.152 W61 01.933	02/06/2010 07:29:13 	-4 m			3 m	0:00:02	6 kph	7° true
+Trackpoint	N10 38.153 W61 01.934	02/06/2010 07:29:15 	-4 m			2 m	0:00:02	4 kph	344° true
+Trackpoint	N10 38.154 W61 01.934	02/06/2010 07:29:17 	-4 m			2 m	0:00:02	3 kph	4° true
+Trackpoint	N10 38.156 W61 01.934	02/06/2010 07:29:19 	-4 m			3 m	0:00:02	5 kph	353° true
+Trackpoint	N10 38.156 W61 01.934	02/06/2010 07:29:21 	-4 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 38.157 W61 01.935	02/06/2010 07:29:23 	-4 m			3 m	0:00:02	5 kph	326° true
+Trackpoint	N10 38.158 W61 01.935	02/06/2010 07:29:25 	-4 m			1 m	0:00:02	2 kph	302° true
+Trackpoint	N10 38.159 W61 01.935	02/06/2010 07:29:27 	-4 m			2 m	0:00:02	4 kph	4° true
+Trackpoint	N10 38.159 W61 01.936	02/06/2010 07:29:29 	-4 m			1 m	0:00:02	2 kph	316° true
+Trackpoint	N10 38.161 W61 01.936	02/06/2010 07:29:31 	-4 m			4 m	0:00:02	7 kph	351° true
+Trackpoint	N10 38.162 W61 01.936	02/06/2010 07:29:33 	-3 m			1 m	0:00:02	2 kph	344° true
+Trackpoint	N10 38.162 W61 01.936	02/06/2010 07:29:35 	-3 m			2 m	0:00:02	3 kph	345° true
+Trackpoint	N10 38.164 W61 01.936	02/06/2010 07:29:37 	-2 m			3 m	0:00:02	5 kph	4° true
+Trackpoint	N10 38.165 W61 01.936	02/06/2010 07:29:39 	-2 m			2 m	0:00:02	3 kph	21° true
+Trackpoint	N10 38.166 W61 01.937	02/06/2010 07:29:41 	-2 m			3 m	0:00:02	6 kph	330° true
+Trackpoint	N10 38.168 W61 01.938	02/06/2010 07:29:43 	-2 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 38.169 W61 01.938	02/06/2010 07:29:45 	-2 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 38.169 W61 01.939	02/06/2010 07:29:47 	-1 m			1 m	0:00:02	2 kph	335° true
+Trackpoint	N10 38.171 W61 01.939	02/06/2010 07:29:49 	-2 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 38.172 W61 01.940	02/06/2010 07:29:51 	-2 m			3 m	0:00:02	5 kph	330° true
+Trackpoint	N10 38.173 W61 01.939	02/06/2010 07:29:53 	-2 m			2 m	0:00:02	3 kph	46° true
+Trackpoint	N10 38.174 W61 01.940	02/06/2010 07:29:55 	-2 m			3 m	0:00:02	5 kph	326° true
+Trackpoint	N10 38.175 W61 01.940	02/06/2010 07:29:57 	-2 m			2 m	0:00:02	3 kph	353° true
+Trackpoint	N10 38.176 W61 01.940	02/06/2010 07:29:59 	-3 m			3 m	0:00:02	5 kph	353° true
+Trackpoint	N10 38.177 W61 01.941	02/06/2010 07:30:01 	-2 m			2 m	0:00:02	4 kph	321° true
+Trackpoint	N10 38.178 W61 01.941	02/06/2010 07:30:03 	-1 m			1 m	0:00:02	2 kph	314° true
+Trackpoint	N10 38.179 W61 01.944	02/06/2010 07:30:05 	-1 m			4 m	0:00:02	7 kph	289° true
+Trackpoint	N10 38.180 W61 01.944	02/06/2010 07:30:07 	-2 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 38.180 W61 01.945	02/06/2010 07:30:09 	-1 m			1 m	0:00:02	2 kph	304° true
+Trackpoint	N10 38.181 W61 01.945	02/06/2010 07:30:11 	-2 m			2 m	0:00:02	3 kph	342° true
+Trackpoint	N10 38.182 W61 01.945	02/06/2010 07:30:13 	-1 m			1 m	0:00:02	2 kph	317° true
+Trackpoint	N10 38.182 W61 01.945	02/06/2010 07:30:15 	-1 m			2 m	0:00:02	3 kph	14° true
+Trackpoint	N10 38.183 W61 01.946	02/06/2010 07:30:17 	-1 m			1 m	0:00:02	3 kph	319° true
+Trackpoint	N10 38.184 W61 01.946	02/06/2010 07:30:19 	-1 m			2 m	0:00:02	3 kph	356° true
+Trackpoint	N10 38.186 W61 01.945	02/06/2010 07:30:21 	-1 m			3 m	0:00:02	6 kph	8° true
+Trackpoint	N10 38.187 W61 01.945	02/06/2010 07:30:23 	-0 m			2 m	0:00:02	4 kph	13° true
+Trackpoint	N10 38.188 W61 01.945	02/06/2010 07:30:25 	-0 m			2 m	0:00:02	4 kph	358° true
+Trackpoint	N10 38.190 W61 01.945	02/06/2010 07:30:27 	-2 m			4 m	0:00:02	7 kph	355° true
+Trackpoint	N10 38.191 W61 01.946	02/06/2010 07:30:29 	-2 m			2 m	0:00:02	4 kph	326° true
+Trackpoint	N10 38.192 W61 01.946	02/06/2010 07:30:31 	-2 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 38.193 W61 01.946	02/06/2010 07:30:33 	-3 m			3 m	0:00:02	5 kph	4° true
+Trackpoint	N10 38.194 W61 01.946	02/06/2010 07:30:35 	-3 m			2 m	0:00:02	3 kph	22° true
+Trackpoint	N10 38.196 W61 01.946	02/06/2010 07:30:37 	-3 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 38.198 W61 01.946	02/06/2010 07:30:39 	-3 m			4 m	0:00:02	7 kph	2° true
+Trackpoint	N10 38.199 W61 01.947	02/06/2010 07:30:41 	-4 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 38.200 W61 01.947	02/06/2010 07:30:43 	-3 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 38.201 W61 01.947	02/06/2010 07:30:45 	-3 m			2 m	0:00:02	4 kph	345° true
+Trackpoint	N10 38.203 W61 01.947	02/06/2010 07:30:47 	-3 m			3 m	0:00:02	5 kph	2° true
+Trackpoint	N10 38.205 W61 01.948	02/06/2010 07:30:49 	-2 m			3 m	0:00:02	6 kph	348° true
+Trackpoint	N10 38.207 W61 01.948	02/06/2010 07:30:51 	-1 m			5 m	0:00:02	9 kph	6° true
+Trackpoint	N10 38.208 W61 01.947	02/06/2010 07:30:53 	-0 m			2 m	0:00:02	3 kph	43° true
+Trackpoint	N10 38.209 W61 01.947	02/06/2010 07:30:55 	1 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 38.211 W61 01.947	02/06/2010 07:30:57 	2 m			4 m	0:00:02	8 kph	5° true
+Trackpoint	N10 38.213 W61 01.946	02/06/2010 07:30:59 	2 m			3 m	0:00:02	6 kph	24° true
+Trackpoint	N10 38.214 W61 01.946	02/06/2010 07:31:01 	3 m			1 m	0:00:02	2 kph	358° true
+Trackpoint	N10 38.215 W61 01.946	02/06/2010 07:31:03 	2 m			1 m	0:00:02	3 kph	4° true
+Trackpoint	N10 38.215 W61 01.947	02/06/2010 07:31:05 	2 m			2 m	0:00:02	4 kph	324° true
+Trackpoint	N10 38.216 W61 01.947	02/06/2010 07:31:07 	1 m			2 m	0:00:02	3 kph	7° true
+Trackpoint	N10 38.217 W61 01.947	02/06/2010 07:31:09 	1 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 38.218 W61 01.947	02/06/2010 07:31:11 	1 m			2 m	0:00:02	3 kph	5° true
+Trackpoint	N10 38.219 W61 01.947	02/06/2010 07:31:13 	2 m			1 m	0:00:02	2 kph	296° true
+Trackpoint	N10 38.219 W61 01.948	02/06/2010 07:31:15 	1 m			2 m	0:00:02	4 kph	309° true
+Trackpoint	N10 38.220 W61 01.948	02/06/2010 07:31:17 	0 m			2 m	0:00:02	3 kph	352° true
+Trackpoint	N10 38.222 W61 01.949	02/06/2010 07:31:19 	1 m			3 m	0:00:02	5 kph	339° true
+Trackpoint	N10 38.223 W61 01.950	02/06/2010 07:31:21 	0 m			3 m	0:00:02	5 kph	338° true
+Trackpoint	N10 38.224 W61 01.950	02/06/2010 07:31:23 	0 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 38.226 W61 01.950	02/06/2010 07:31:25 	-1 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 38.226 W61 01.949	02/06/2010 07:31:27 	-1 m			1 m	0:00:02	3 kph	35° true
+Trackpoint	N10 38.228 W61 01.950	02/06/2010 07:31:29 	-1 m			3 m	0:00:02	5 kph	348° true
+Trackpoint	N10 38.229 W61 01.950	02/06/2010 07:31:31 	-2 m			3 m	0:00:02	6 kph	348° true
+Trackpoint	N10 38.230 W61 01.951	02/06/2010 07:31:33 	-2 m			2 m	0:00:02	4 kph	330° true
+Trackpoint	N10 38.231 W61 01.950	02/06/2010 07:31:35 	-2 m			1 m	0:00:02	3 kph	8° true
+Trackpoint	N10 38.232 W61 01.951	02/06/2010 07:31:37 	-2 m			2 m	0:00:02	4 kph	325° true
+Trackpoint	N10 38.233 W61 01.952	02/06/2010 07:31:39 	-1 m			1 m	0:00:02	3 kph	337° true
+Trackpoint	N10 38.234 W61 01.952	02/06/2010 07:31:41 	-1 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 38.235 W61 01.952	02/06/2010 07:31:43 	-2 m			2 m	0:00:02	4 kph	317° true
+Trackpoint	N10 38.235 W61 01.953	02/06/2010 07:31:45 	-1 m			1 m	0:00:02	2 kph	339° true
+Trackpoint	N10 38.236 W61 01.953	02/06/2010 07:31:47 	-2 m			2 m	0:00:02	4 kph	349° true
+Trackpoint	N10 38.238 W61 01.953	02/06/2010 07:31:49 	-2 m			3 m	0:00:02	6 kph	341° true
+Trackpoint	N10 38.239 W61 01.954	02/06/2010 07:31:51 	-1 m			1 m	0:00:02	2 kph	318° true
+Trackpoint	N10 38.240 W61 01.954	02/06/2010 07:31:53 	0 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 38.241 W61 01.954	02/06/2010 07:31:55 	0 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 38.242 W61 01.955	02/06/2010 07:31:57 	1 m			3 m	0:00:02	5 kph	320° true
+Trackpoint	N10 38.243 W61 01.956	02/06/2010 07:31:59 	1 m			2 m	0:00:02	4 kph	324° true
+Trackpoint	N10 38.244 W61 01.956	02/06/2010 07:32:01 	0 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 38.245 W61 01.957	02/06/2010 07:32:03 	1 m			2 m	0:00:02	4 kph	343° true
+Trackpoint	N10 38.246 W61 01.956	02/06/2010 07:32:05 	0 m			3 m	0:00:02	6 kph	28° true
+Trackpoint	N10 38.247 W61 01.955	02/06/2010 07:32:07 	-0 m			2 m	0:00:02	4 kph	37° true
+Trackpoint	N10 38.248 W61 01.955	02/06/2010 07:32:09 	-1 m			2 m	0:00:02	3 kph	3° true
+Trackpoint	N10 38.249 W61 01.956	02/06/2010 07:32:11 	-1 m			2 m	0:00:02	3 kph	336° true
+Trackpoint	N10 38.250 W61 01.956	02/06/2010 07:32:13 	-3 m			2 m	0:00:02	3 kph	337° true
+Trackpoint	N10 38.251 W61 01.956	02/06/2010 07:32:15 	-4 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.252 W61 01.956	02/06/2010 07:32:17 	-4 m			1 m	0:00:02	2 kph	11° true
+Trackpoint	N10 38.253 W61 01.957	02/06/2010 07:32:19 	-3 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.255 W61 01.957	02/06/2010 07:32:21 	-3 m			4 m	0:00:02	8 kph	1° true
+Trackpoint	N10 38.256 W61 01.958	02/06/2010 07:32:23 	-3 m			2 m	0:00:02	4 kph	310° true
+Trackpoint	N10 38.257 W61 01.959	02/06/2010 07:32:25 	-5 m			2 m	0:00:02	4 kph	315° true
+Trackpoint	N10 38.259 W61 01.959	02/06/2010 07:32:27 	-6 m			5 m	0:00:02	9 kph	343° true
+Trackpoint	N10 38.261 W61 01.959	02/06/2010 07:32:29 	-6 m			3 m	0:00:02	5 kph	25° true
+Trackpoint	N10 38.262 W61 01.959	02/06/2010 07:32:31 	-7 m			2 m	0:00:02	4 kph	335° true
+Trackpoint	N10 38.264 W61 01.960	02/06/2010 07:32:33 	-8 m			4 m	0:00:02	7 kph	330° true
+Trackpoint	N10 38.264 W61 01.960	02/06/2010 07:32:35 	-8 m			1 m	0:00:02	2 kph	5° true
+Trackpoint	N10 38.266 W61 01.961	02/06/2010 07:32:37 	-8 m			3 m	0:00:02	6 kph	347° true
+Trackpoint	N10 38.267 W61 01.961	02/06/2010 07:32:39 	-9 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 38.268 W61 01.961	02/06/2010 07:32:41 	-8 m			1 m	0:00:02	1.4 kph	329° true
+Trackpoint	N10 38.269 W61 01.962	02/06/2010 07:32:43 	-8 m			3 m	0:00:02	6 kph	334° true
+Trackpoint	N10 38.270 W61 01.962	02/06/2010 07:32:45 	-9 m			2 m	0:00:02	3 kph	346° true
+Trackpoint	N10 38.271 W61 01.963	02/06/2010 07:32:47 	-8 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 38.274 W61 01.964	02/06/2010 07:32:49 	-9 m			4 m	0:00:02	8 kph	343° true
+Trackpoint	N10 38.274 W61 01.963	02/06/2010 07:32:51 	-9 m			1 m	0:00:02	2 kph	13° true
+Trackpoint	N10 38.276 W61 01.964	02/06/2010 07:32:53 	-9 m			3 m	0:00:02	5 kph	333° true
+Trackpoint	N10 38.277 W61 01.965	02/06/2010 07:32:55 	-9 m			4 m	0:00:02	6 kph	338° true
+Trackpoint	N10 38.278 W61 01.965	02/06/2010 07:32:57 	-10 m			1 m	0:00:02	2 kph	13° true
+Trackpoint	N10 38.279 W61 01.965	02/06/2010 07:32:59 	-9 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 38.280 W61 01.966	02/06/2010 07:33:01 	-11 m			3 m	0:00:02	6 kph	322° true
+Trackpoint	N10 38.281 W61 01.966	02/06/2010 07:33:03 	-10 m			1 m	0:00:02	2 kph	64° true
+Trackpoint	N10 38.282 W61 01.965	02/06/2010 07:33:05 	-11 m			3 m	0:00:02	6 kph	3° true
+Trackpoint	N10 38.284 W61 01.966	02/06/2010 07:33:07 	-11 m			3 m	0:00:02	6 kph	339° true
+Trackpoint	N10 38.285 W61 01.967	02/06/2010 07:33:09 	-10 m			2 m	0:00:02	3 kph	306° true
+Trackpoint	N10 38.285 W61 01.967	02/06/2010 07:33:11 	-9 m			1 m	0:00:02	1.4 kph	326° true
+Trackpoint	N10 38.286 W61 01.968	02/06/2010 07:33:13 	-9 m			2 m	0:00:02	3 kph	312° true
+Trackpoint	N10 38.286 W61 01.969	02/06/2010 07:33:15 	-10 m			2 m	0:00:02	4 kph	292° true
+Trackpoint	N10 38.287 W61 01.969	02/06/2010 07:33:17 	-9 m			1 m	0:00:02	2 kph	337° true
+Trackpoint	N10 38.289 W61 01.969	02/06/2010 07:33:19 	-9 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 38.289 W61 01.970	02/06/2010 07:33:21 	-9 m			2 m	0:00:02	3 kph	352° true
+Trackpoint	N10 38.290 W61 01.970	02/06/2010 07:33:23 	-9 m			1 m	0:00:02	1.3 kph	14° true
+Trackpoint	N10 38.290 W61 01.970	02/06/2010 07:33:25 	-9 m			0 m	0:00:02	0 kph	7° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:27 	-8 m			0 m	0:00:02	0 kph	93° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:29 	-8 m			0 m	0:00:02	0 kph	130° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:31 	-8 m			0 m	0:00:02	0 kph	206° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:33 	-8 m			0 m	0:00:02	0 kph	59° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:35 	-8 m			0 m	0:00:02	0 kph	290° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:37 	-8 m			0 m	0:00:02	0 kph	87° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:39 	-8 m			0 m	0:00:02	0 kph	107° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:41 	-8 m			0 m	0:00:02	0 kph	130° true
+Trackpoint	N10 38.290 W61 01.969	02/06/2010 07:33:43 	-8 m			0 m	0:00:02	0 kph	204° true
+Trackpoint	N10 38.291 W61 01.969	02/06/2010 07:33:45 	-7 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.292 W61 01.969	02/06/2010 07:33:47 	-7 m			3 m	0:00:02	5 kph	11° true
+Trackpoint	N10 38.294 W61 01.969	02/06/2010 07:33:49 	-7 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 38.294 W61 01.969	02/06/2010 07:33:51 	-8 m			2 m	0:00:02	3 kph	29° true
+Trackpoint	N10 38.294 W61 01.970	02/06/2010 07:33:53 	-8 m			2 m	0:00:02	4 kph	266° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:33:55 	-8 m			2 m	0:00:02	4 kph	358° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:33:57 	-7 m			1 m	0:00:02	1.3 kph	279° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:33:59 	-7 m			0 m	0:00:02	0 kph	349° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:01 	-7 m			0 m	0:00:02	0 kph	245° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:03 	-7 m			0 m	0:00:02	0 kph	269° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:05 	-7 m			0 m	0:00:02	0 kph	284° true
+Trackpoint	N10 38.297 W61 01.971	02/06/2010 07:34:07 	-7 m			1 m	0:00:02	2 kph	335° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:09 	-7 m			1 m	0:00:02	2 kph	128° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:11 	-7 m			0 m	0:00:02	0 kph	94° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:13 	-7 m			0 m	0:00:02	0 kph	210° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:15 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.296 W61 01.971	02/06/2010 07:34:17 	-7 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:19 	-7 m			1 m	0:00:02	1.3 kph	69° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:21 	-7 m			0 m	0:00:02	0 kph	270° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:23 	-7 m			0 m	0:00:02	0 kph	339° true
+Trackpoint	N10 38.296 W61 01.970	02/06/2010 07:34:25 	-7 m			0 m	0:00:02	0 kph	334° true
+Trackpoint	N10 38.297 W61 01.970	02/06/2010 07:34:27 	-7 m			1 m	0:00:02	1.5 kph	355° true
+Trackpoint	N10 38.297 W61 01.971	02/06/2010 07:34:29 	-7 m			1 m	0:00:02	2 kph	344° true
+Trackpoint	N10 38.298 W61 01.971	02/06/2010 07:34:31 	-7 m			1 m	0:00:02	2 kph	338° true
+Trackpoint	N10 38.299 W61 01.971	02/06/2010 07:34:33 	-7 m			1 m	0:00:02	2 kph	325° true
+Trackpoint	N10 38.299 W61 01.971	02/06/2010 07:34:35 	-7 m			0 m	0:00:02	0 kph	317° true
+Trackpoint	N10 38.299 W61 01.972	02/06/2010 07:34:37 	-7 m			1 m	0:00:02	2 kph	311° true
+Trackpoint	N10 38.299 W61 01.972	02/06/2010 07:34:39 	-7 m			1 m	0:00:02	2 kph	305° true
+Trackpoint	N10 38.299 W61 01.972	02/06/2010 07:34:41 	-7 m			1 m	0:00:02	2 kph	186° true
+Trackpoint	N10 38.299 W61 01.973	02/06/2010 07:34:43 	-7 m			1 m	0:00:02	1.4 kph	229° true
+Trackpoint	N10 38.298 W61 01.973	02/06/2010 07:34:45 	-6 m			1 m	0:00:02	2 kph	254° true
+Trackpoint	N10 38.298 W61 01.973	02/06/2010 07:34:47 	-6 m			1 m	0:00:02	1.1 kph	243° true
+Trackpoint	N10 38.298 W61 01.974	02/06/2010 07:34:49 	-7 m			1 m	0:00:02	1.3 kph	233° true
+Trackpoint	N10 38.298 W61 01.972	02/06/2010 07:34:51 	-6 m			3 m	0:00:02	6 kph	92° true
+Trackpoint	N10 38.299 W61 01.972	02/06/2010 07:34:53 	-6 m			3 m	0:00:02	5 kph	347° true
+Trackpoint	N10 38.301 W61 01.972	02/06/2010 07:34:55 	-6 m			3 m	0:00:02	5 kph	7° true
+Trackpoint	N10 38.302 W61 01.971	02/06/2010 07:34:57 	-6 m			2 m	0:00:02	3 kph	38° true
+Trackpoint	N10 38.302 W61 01.971	02/06/2010 07:34:59 	-6 m			2 m	0:00:02	3 kph	47° true
+Trackpoint	N10 38.303 W61 01.971	02/06/2010 07:35:01 	-6 m			2 m	0:00:02	4 kph	5° true
+Trackpoint	N10 38.304 W61 01.971	02/06/2010 07:35:03 	-6 m			1 m	0:00:02	2 kph	293° true
+Trackpoint	N10 38.305 W61 01.971	02/06/2010 07:35:05 	-5 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 38.305 W61 01.972	02/06/2010 07:35:07 	-5 m			1 m	0:00:02	2 kph	343° true
+Trackpoint	N10 38.307 W61 01.973	02/06/2010 07:35:09 	-5 m			3 m	0:00:02	6 kph	328° true
+Trackpoint	N10 38.308 W61 01.972	02/06/2010 07:35:11 	-5 m			2 m	0:00:02	4 kph	21° true
+Trackpoint	N10 38.309 W61 01.971	02/06/2010 07:35:13 	-5 m			3 m	0:00:02	5 kph	47° true
+Trackpoint	N10 38.310 W61 01.971	02/06/2010 07:35:15 	-5 m			3 m	0:00:02	5 kph	15° true
+Trackpoint	N10 38.311 W61 01.970	02/06/2010 07:35:17 	-5 m			2 m	0:00:02	3 kph	38° true
+Trackpoint	N10 38.311 W61 01.971	02/06/2010 07:35:19 	-5 m			1 m	0:00:02	2 kph	281° true
+Trackpoint	N10 38.312 W61 01.971	02/06/2010 07:35:21 	-4 m			1 m	0:00:02	2 kph	347° true
+Trackpoint	N10 38.313 W61 01.971	02/06/2010 07:35:23 	-6 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 38.314 W61 01.971	02/06/2010 07:35:25 	-7 m			2 m	0:00:02	3 kph	11° true
+Trackpoint	N10 38.315 W61 01.971	02/06/2010 07:35:27 	-7 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 38.317 W61 01.971	02/06/2010 07:35:29 	-7 m			3 m	0:00:02	5 kph	7° true
+Trackpoint	N10 38.318 W61 01.971	02/06/2010 07:35:31 	-8 m			2 m	0:00:02	4 kph	21° true
+Trackpoint	N10 38.319 W61 01.970	02/06/2010 07:35:33 	-8 m			3 m	0:00:02	5 kph	16° true
+Trackpoint	N10 38.320 W61 01.971	02/06/2010 07:35:35 	-8 m			1 m	0:00:02	3 kph	339° true
+Trackpoint	N10 38.322 W61 01.972	02/06/2010 07:35:37 	-7 m			4 m	0:00:02	7 kph	330° true
+Trackpoint	N10 38.323 W61 01.971	02/06/2010 07:35:39 	-7 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 38.324 W61 01.972	02/06/2010 07:35:41 	-8 m			2 m	0:00:02	3 kph	335° true
+Trackpoint	N10 38.325 W61 01.972	02/06/2010 07:35:43 	-8 m			2 m	0:00:02	3 kph	6° true
+Trackpoint	N10 38.326 W61 01.972	02/06/2010 07:35:45 	-8 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 38.327 W61 01.972	02/06/2010 07:35:47 	-8 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 38.329 W61 01.972	02/06/2010 07:35:49 	-8 m			2 m	0:00:02	4 kph	353° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:35:51 	-8 m			2 m	0:00:02	4 kph	14° true
+Trackpoint	N10 38.331 W61 01.972	02/06/2010 07:35:53 	-8 m			1 m	0:00:02	2 kph	15° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:35:55 	-8 m			0 m	0:00:02	0 kph	144° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:35:57 	-8 m			0 m	0:00:02	0 kph	156° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:35:59 	-8 m			0 m	0:00:02	0 kph	33° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:01 	-8 m			0 m	0:00:02	0 kph	233° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:03 	-8 m			0 m	0:00:02	0 kph	209° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:05 	-8 m			0 m	0:00:02	0 kph	189° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:07 	-8 m			0 m	0:00:02	0 kph	209° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:09 	-8 m			0 m	0:00:02	0 kph	208° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:11 	-8 m			0 m	0:00:02	0 kph	193° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:13 	-8 m			0 m	0:00:02	0 kph	221° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:15 	-8 m			0 m	0:00:02	0 kph	242° true
+Trackpoint	N10 38.330 W61 01.972	02/06/2010 07:36:17 	-8 m			0 m	0:00:02	0 kph	282° true
+Trackpoint	N10 38.330 W61 01.973	02/06/2010 07:36:19 	-8 m			0 m	0:00:02	0 kph	269° true
+Trackpoint	N10 38.329 W61 01.973	02/06/2010 07:36:21 	-8 m			0 m	0:00:02	0 kph	146° true
+Trackpoint	N10 38.330 W61 01.973	02/06/2010 07:36:23 	-8 m			1 m	0:00:02	2 kph	334° true
+Trackpoint	N10 38.330 W61 01.974	02/06/2010 07:36:25 	-8 m			1 m	0:00:02	2 kph	295° true
+Trackpoint	N10 38.330 W61 01.974	02/06/2010 07:36:27 	-8 m			1 m	0:00:02	2 kph	249° true
+Trackpoint	N10 38.331 W61 01.974	02/06/2010 07:36:29 	-8 m			1 m	0:00:02	2 kph	336° true
+Trackpoint	N10 38.332 W61 01.974	02/06/2010 07:36:31 	-9 m			3 m	0:00:02	5 kph	27° true
+Trackpoint	N10 38.333 W61 01.974	02/06/2010 07:36:33 	-9 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 38.334 W61 01.973	02/06/2010 07:36:35 	-9 m			2 m	0:00:02	4 kph	58° true
+Trackpoint	N10 38.334 W61 01.973	02/06/2010 07:36:37 	-9 m			1 m	0:00:02	1.5 kph	345° true
+Trackpoint	N10 38.335 W61 01.973	02/06/2010 07:36:39 	-9 m			1 m	0:00:02	1.4 kph	347° true
+Trackpoint	N10 38.335 W61 01.973	02/06/2010 07:36:41 	-9 m			1 m	0:00:02	2 kph	339° true
+Trackpoint	N10 38.336 W61 01.974	02/06/2010 07:36:43 	-9 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 38.337 W61 01.974	02/06/2010 07:36:45 	-9 m			2 m	0:00:02	3 kph	317° true
+Trackpoint	N10 38.337 W61 01.975	02/06/2010 07:36:47 	-9 m			2 m	0:00:02	3 kph	323° true
+Trackpoint	N10 38.338 W61 01.976	02/06/2010 07:36:49 	-9 m			2 m	0:00:02	3 kph	295° true
+Trackpoint	N10 38.338 W61 01.976	02/06/2010 07:36:51 	-9 m			1 m	0:00:02	2 kph	271° true
+Trackpoint	N10 38.338 W61 01.976	02/06/2010 07:36:53 	-9 m			0 m	0:00:02	0 kph	102° true
+Trackpoint	N10 38.338 W61 01.976	02/06/2010 07:36:55 	-9 m			1 m	0:00:02	2 kph	49° true
+Trackpoint	N10 38.337 W61 01.975	02/06/2010 07:36:57 	-7 m			1 m	0:00:02	2 kph	150° true
+Trackpoint	N10 38.337 W61 01.975	02/06/2010 07:36:59 	-7 m			1 m	0:00:02	2 kph	87° true
+Trackpoint	N10 38.337 W61 01.975	02/06/2010 07:37:01 	-6 m			0 m	0:00:02	0 kph	35° true
+Trackpoint	N10 38.338 W61 01.975	02/06/2010 07:37:03 	-6 m			0 m	0:00:02	0 kph	347° true
+Trackpoint	N10 38.338 W61 01.975	02/06/2010 07:37:05 	-5 m			0 m	0:00:02	0 kph	306° true
+Trackpoint	N10 38.338 W61 01.975	02/06/2010 07:37:07 	-5 m			0 m	0:00:02	0 kph	294° true
+Trackpoint	N10 38.338 W61 01.975	02/06/2010 07:37:09 	-5 m			0 m	0:00:02	0 kph	30° true
+Trackpoint	N10 38.338 W61 01.975	02/06/2010 07:37:11 	-4 m			1 m	0:00:02	2 kph	346° true
+Trackpoint	N10 38.339 W61 01.975	02/06/2010 07:37:13 	-4 m			0 m	0:00:02	0 kph	52° true
+Trackpoint	N10 38.338 W61 01.974	02/06/2010 07:37:15 	-4 m			1 m	0:00:02	2 kph	96° true
+Trackpoint	N10 38.339 W61 01.975	02/06/2010 07:37:17 	-4 m			2 m	0:00:02	3 kph	318° true
+Trackpoint	N10 38.340 W61 01.976	02/06/2010 07:37:19 	-3 m			2 m	0:00:02	4 kph	297° true
+Trackpoint	N10 38.341 W61 01.975	02/06/2010 07:37:21 	-3 m			2 m	0:00:02	4 kph	21° true
+Trackpoint	N10 38.342 W61 01.976	02/06/2010 07:37:23 	-3 m			2 m	0:00:02	4 kph	344° true
+Trackpoint	N10 38.343 W61 01.975	02/06/2010 07:37:25 	-3 m			2 m	0:00:02	4 kph	21° true
+Trackpoint	N10 38.344 W61 01.976	02/06/2010 07:37:27 	-3 m			2 m	0:00:02	4 kph	309° true
+Trackpoint	N10 38.345 W61 01.977	02/06/2010 07:37:29 	-3 m			2 m	0:00:02	3 kph	307° true
+Trackpoint	N10 38.346 W61 01.977	02/06/2010 07:37:31 	-3 m			2 m	0:00:02	3 kph	353° true
+Trackpoint	N10 38.345 W61 01.977	02/06/2010 07:37:33 	-3 m			1 m	0:00:02	1.2 kph	133° true
+Trackpoint	N10 38.345 W61 01.977	02/06/2010 07:37:35 	-3 m			0 m	0:00:02	0 kph	133° true
+Trackpoint	N10 38.345 W61 01.977	02/06/2010 07:37:37 	-3 m			0 m	0:00:02	0 kph	122° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:39 	-3 m			0 m	0:00:02	0 kph	116° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:41 	-3 m			0 m	0:00:02	0 kph	91° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:43 	-3 m			0 m	0:00:02	0 kph	129° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:45 	-3 m			0 m	0:00:02	0 kph	266° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:47 	-3 m			0 m	0:00:02	0 kph	310° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:49 	-3 m			0 m	0:00:02	0 kph	5° true
+Trackpoint	N10 38.345 W61 01.976	02/06/2010 07:37:51 	-3 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.345 W61 01.977	02/06/2010 07:37:53 	-3 m			1 m	0:00:02	1.4 kph	307° true
+Trackpoint	N10 38.347 W61 01.977	02/06/2010 07:37:55 	-2 m			3 m	0:00:02	6 kph	342° true
+Trackpoint	N10 38.347 W61 01.978	02/06/2010 07:37:57 	-3 m			2 m	0:00:02	3 kph	268° true
+Trackpoint	N10 38.348 W61 01.978	02/06/2010 07:37:59 	-3 m			1 m	0:00:02	1.2 kph	349° true
+Trackpoint	N10 38.348 W61 01.978	02/06/2010 07:38:01 	-3 m			0 m	0:00:02	0 kph	71° true
+Trackpoint	N10 38.348 W61 01.978	02/06/2010 07:38:03 	-3 m			1 m	0:00:02	2 kph	94° true
+Trackpoint	N10 38.348 W61 01.977	02/06/2010 07:38:05 	-3 m			1 m	0:00:02	2 kph	68° true
+Trackpoint	N10 38.348 W61 01.978	02/06/2010 07:38:07 	-3 m			2 m	0:00:02	3 kph	317° true
+Trackpoint	N10 38.349 W61 01.978	02/06/2010 07:38:09 	-3 m			1 m	0:00:02	1.1 kph	323° true
+Trackpoint	N10 38.349 W61 01.978	02/06/2010 07:38:11 	-3 m			2 m	0:00:02	3 kph	320° true
+Trackpoint	N10 38.349 W61 01.979	02/06/2010 07:38:13 	-3 m			0 m	0:00:02	0 kph	281° true
+Trackpoint	N10 38.349 W61 01.979	02/06/2010 07:38:15 	-3 m			0 m	0:00:02	0 kph	266° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:17 	-3 m			1 m	0:00:02	2 kph	321° true
+Trackpoint	N10 38.351 W61 01.979	02/06/2010 07:38:19 	-3 m			1 m	0:00:02	2 kph	348° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:21 	-3 m			0 m	0:00:02	0 kph	227° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:23 	-3 m			0 m	0:00:02	0 kph	104° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:25 	-3 m			0 m	0:00:02	0 kph	117° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:27 	-3 m			0 m	0:00:02	0 kph	39° true
+Trackpoint	N10 38.351 W61 01.979	02/06/2010 07:38:29 	-3 m			0 m	0:00:02	0 kph	24° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:31 	-3 m			0 m	0:00:02	0 kph	230° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:38:33 	-3 m			1 m	0:00:02	1.4 kph	204° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:35 	-3 m			0 m	0:00:02	0 kph	301° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:37 	-3 m			0 m	0:00:02	0 kph	201° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:39 	-3 m			0 m	0:00:02	0 kph	231° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:41 	-3 m			0 m	0:00:02	0 kph	246° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:43 	-3 m			0 m	0:00:02	0 kph	302° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:45 	-3 m			0 m	0:00:02	0 kph	112° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:47 	-3 m			0 m	0:00:02	0 kph	45° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:49 	-3 m			0 m	0:00:02	0 kph	123° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:51 	-3 m			0 m	0:00:02	0 kph	135° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:53 	-3 m			0 m	0:00:02	0 kph	289° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:55 	-3 m			0 m	0:00:02	0 kph	107° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:57 	-3 m			0 m	0:00:02	0 kph	104° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:38:59 	-3 m			0 m	0:00:02	0 kph	130° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:39:01 	-3 m			0 m	0:00:02	0 kph	180° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:03 	-3 m			0 m	0:00:02	0 kph	130° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:05 	-3 m			0 m	0:00:02	0 kph	151° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:07 	-3 m			0 m	0:00:02	0 kph	188° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:09 	-3 m			0 m	0:00:02	0 kph	114° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:11 	-3 m			0 m	0:00:02	0 kph	131° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:13 	-3 m			0 m	0:00:02	0 kph	275° true
+Trackpoint	N10 38.350 W61 01.979	02/06/2010 07:39:15 	-3 m			0 m	0:00:02	0 kph	293° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:39:17 	-3 m			1 m	0:00:02	1.1 kph	337° true
+Trackpoint	N10 38.350 W61 01.980	02/06/2010 07:39:19 	-3 m			1 m	0:00:02	1.5 kph	349° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:21 	-3 m			0 m	0:00:02	0 kph	340° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:23 	-3 m			0 m	0:00:02	0 kph	26° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:25 	-3 m			0 m	0:00:02	0 kph	56° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:27 	-3 m			0 m	0:00:02	0 kph	18° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:29 	-3 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:31 	-3 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:33 	-3 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:35 	-3 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:37 	-3 m			0 m	0:00:02	0 kph	90° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:39 	-3 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:41 	-3 m			0 m	0:00:02	0 kph	315° true
+Trackpoint	N10 38.351 W61 01.980	02/06/2010 07:39:43 	-3 m			0 m	0:00:02	0 kph	0° true
+Trackpoint	N10 38.351 W61 01.979	02/06/2010 07:39:45 	-3 m			2 m	0:00:02	3 kph	38° true
+Trackpoint	N10 38.353 W61 01.980	02/06/2010 07:39:47 	-3 m			3 m	0:00:02	6 kph	336° true
+Trackpoint	N10 38.354 W61 01.980	02/06/2010 07:39:49 	-3 m			2 m	0:00:02	3 kph	10° true
+Trackpoint	N10 38.356 W61 01.980	02/06/2010 07:39:51 	-3 m			3 m	0:00:02	6 kph	337° true
+Trackpoint	N10 38.357 W61 01.980	02/06/2010 07:39:53 	-2 m			4 m	0:00:02	6 kph	21° true
+Trackpoint	N10 38.359 W61 01.980	02/06/2010 07:39:55 	-3 m			2 m	0:00:02	4 kph	9° true
+Trackpoint	N10 38.360 W61 01.981	02/06/2010 07:39:57 	-3 m			4 m	0:00:02	7 kph	324° true
+Trackpoint	N10 38.361 W61 01.981	02/06/2010 07:39:59 	-3 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.363 W61 01.981	02/06/2010 07:40:01 	-3 m			3 m	0:00:02	5 kph	359° true
+Trackpoint	N10 38.364 W61 01.982	02/06/2010 07:40:03 	-3 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 38.365 W61 01.982	02/06/2010 07:40:05 	-3 m			2 m	0:00:02	3 kph	359° true
+Trackpoint	N10 38.367 W61 01.983	02/06/2010 07:40:07 	-3 m			5 m	0:00:02	8 kph	323° true
+Trackpoint	N10 38.368 W61 01.984	02/06/2010 07:40:09 	-3 m			2 m	0:00:02	4 kph	354° true
+Trackpoint	N10 38.369 W61 01.984	02/06/2010 07:40:11 	-2 m			3 m	0:00:02	5 kph	355° true
+Trackpoint	N10 38.371 W61 01.984	02/06/2010 07:40:13 	-3 m			3 m	0:00:02	6 kph	350° true
+Trackpoint	N10 38.371 W61 01.984	02/06/2010 07:40:15 	-4 m			1 m	0:00:02	1.2 kph	172° true
+Trackpoint	N10 38.372 W61 01.984	02/06/2010 07:40:17 	-4 m			2 m	0:00:02	3 kph	351° true
+Trackpoint	N10 38.374 W61 01.985	02/06/2010 07:40:19 	-5 m			4 m	0:00:02	8 kph	334° true
+Trackpoint	N10 38.375 W61 01.985	02/06/2010 07:40:21 	-6 m			2 m	0:00:02	3 kph	341° true
+Trackpoint	N10 38.376 W61 01.986	02/06/2010 07:40:23 	-7 m			3 m	0:00:02	5 kph	343° true
+Trackpoint	N10 38.379 W61 01.987	02/06/2010 07:40:25 	-8 m			6 m	0:00:02	10 kph	330° true
+Trackpoint	N10 38.379 W61 01.988	02/06/2010 07:40:27 	-6 m			1 m	0:00:02	2 kph	303° true
+Trackpoint	N10 38.380 W61 01.988	02/06/2010 07:40:29 	-6 m			2 m	0:00:02	4 kph	11° true
+Trackpoint	N10 38.382 W61 01.988	02/06/2010 07:40:31 	-5 m			4 m	0:00:02	7 kph	351° true
+Trackpoint	N10 38.383 W61 01.988	02/06/2010 07:40:33 	-4 m			2 m	0:00:02	3 kph	21° true
+Trackpoint	N10 38.383 W61 01.988	02/06/2010 07:40:35 	-4 m			0 m	0:00:02	0 kph	28° true
+Trackpoint	N10 38.386 W61 01.989	02/06/2010 07:40:37 	-3 m			5 m	0:00:02	9 kph	337° true
+Trackpoint	N10 38.387 W61 01.988	02/06/2010 07:40:39 	-3 m			2 m	0:00:02	4 kph	13° true
+Trackpoint	N10 38.389 W61 01.989	02/06/2010 07:40:41 	-3 m			4 m	0:00:02	7 kph	355° true
+Trackpoint	N10 38.391 W61 01.990	02/06/2010 07:40:43 	-4 m			4 m	0:00:02	7 kph	326° true
+Trackpoint	N10 38.391 W61 01.990	02/06/2010 07:40:45 	-3 m			1 m	0:00:02	2 kph	19° true
+Trackpoint	N10 38.392 W61 01.990	02/06/2010 07:40:47 	-4 m			1 m	0:00:02	2 kph	309° true
+Trackpoint	N10 38.392 W61 01.991	02/06/2010 07:40:49 	-5 m			2 m	0:00:02	3 kph	322° true
+Trackpoint	N10 38.393 W61 01.990	02/06/2010 07:40:51 	-5 m			1 m	0:00:02	2 kph	34° true
+Trackpoint	N10 38.394 W61 01.991	02/06/2010 07:40:53 	-6 m			3 m	0:00:02	6 kph	336° true
+Trackpoint	N10 38.397 W61 01.991	02/06/2010 07:40:55 	-7 m			4 m	0:00:02	8 kph	355° true
+Trackpoint	N10 38.397 W61 01.992	02/06/2010 07:40:57 	-8 m			1 m	0:00:02	1.4 kph	328° true
+Trackpoint	N10 38.398 W61 01.992	02/06/2010 07:40:59 	-7 m			2 m	0:00:02	4 kph	335° true
+Trackpoint	N10 38.401 W61 01.993	02/06/2010 07:41:01 	-7 m			4 m	0:00:02	8 kph	348° true
+Trackpoint	N10 38.402 W61 01.993	02/06/2010 07:41:03 	-8 m			2 m	0:00:02	4 kph	7° true
+Trackpoint	N10 38.402 W61 01.992	02/06/2010 07:41:05 	-8 m			1 m	0:00:02	3 kph	60° true
+Trackpoint	N10 38.404 W61 01.994	02/06/2010 07:41:07 	-8 m			5 m	0:00:02	9 kph	321° true
+Trackpoint	N10 38.405 W61 01.994	02/06/2010 07:41:09 	-9 m			2 m	0:00:02	4 kph	356° true
+Trackpoint	N10 38.407 W61 01.995	02/06/2010 07:41:11 	-9 m			4 m	0:00:02	8 kph	307° true
+Trackpoint	N10 38.408 W61 01.997	02/06/2010 07:41:13 	-9 m			3 m	0:00:02	5 kph	307° true
+Trackpoint	N10 38.408 W61 01.996	02/06/2010 07:41:15 	-9 m			1 m	0:00:02	3 kph	39° true
+Trackpoint	N10 38.408 W61 01.997	02/06/2010 07:41:17 	-9 m			1 m	0:00:02	1.1 kph	278° true
+Trackpoint	N10 38.410 W61 01.997	02/06/2010 07:41:19 	-9 m			3 m	0:00:02	5 kph	343° true
+Trackpoint	N10 38.412 W61 01.997	02/06/2010 07:41:21 	-7 m			5 m	0:00:02	8 kph	10° true
+Trackpoint	N10 38.412 W61 01.996	02/06/2010 07:41:23 	-5 m			1 m	0:00:02	2 kph	68° true
+Trackpoint	N10 38.413 W61 01.997	02/06/2010 07:41:25 	-4 m			2 m	0:00:02	3 kph	327° true
+Trackpoint	N10 38.415 W61 01.997	02/06/2010 07:41:27 	-5 m			4 m	0:00:02	8 kph	350° true
+Trackpoint	N10 38.418 W61 01.997	02/06/2010 07:41:29 	-3 m			5 m	0:00:02	9 kph	356° true
+Trackpoint	N10 38.422 W61 01.998	02/06/2010 07:41:31 	-3 m			7 m	0:00:02	12 kph	350° true
+Trackpoint	N10 38.425 W61 01.999	02/06/2010 07:41:33 	-4 m			6 m	0:00:02	10 kph	343° true
+Trackpoint	N10 38.427 W61 01.998	02/06/2010 07:41:35 	-2 m			5 m	0:00:02	8 kph	10° true
+Trackpoint	N10 38.430 W61 01.998	02/06/2010 07:41:37 	-1 m			6 m	0:00:02	11 kph	3° true
+Trackpoint	N10 38.434 W61 01.997	02/06/2010 07:41:39 	-0 m			7 m	0:00:02	13 kph	10° true
+Trackpoint	N10 38.438 W61 01.997	02/06/2010 07:41:41 	-1 m			6 m	0:00:02	11 kph	359° true
+Trackpoint	N10 38.441 W61 01.997	02/06/2010 07:41:43 	0 m			6 m	0:00:02	12 kph	0° true
+Trackpoint	N10 38.444 W61 01.998	02/06/2010 07:41:45 	-2 m			6 m	0:00:02	10 kph	351° true
+Trackpoint	N10 38.448 W61 01.999	02/06/2010 07:41:47 	-1 m			7 m	0:00:02	12 kph	349° true
+Trackpoint	N10 38.452 W61 01.999	02/06/2010 07:41:49 	-3 m			7 m	0:00:02	12 kph	351° true
+Trackpoint	N10 38.455 W61 02.000	02/06/2010 07:41:51 	-4 m			7 m	0:00:02	12 kph	349° true
+Trackpoint	N10 38.458 W61 02.000	02/06/2010 07:41:53 	-4 m			5 m	0:00:02	9 kph	354° true
+Trackpoint	N10 38.459 W61 01.999	02/06/2010 07:41:55 	-4 m			3 m	0:00:02	6 kph	25° true
+Trackpoint	N10 38.462 W61 01.999	02/06/2010 07:41:57 	-5 m			4 m	0:00:02	8 kph	360° true
+Trackpoint	N10 38.464 W61 02.000	02/06/2010 07:41:59 	-2 m			4 m	0:00:02	8 kph	350° true
+Trackpoint	N10 38.466 W61 02.000	02/06/2010 07:42:01 	-0 m			4 m	0:00:02	7 kph	348° true
+Trackpoint	N10 38.469 W61 02.000	02/06/2010 07:42:03 	3 m			5 m	0:00:02	9 kph	13° true
+Trackpoint	N10 38.473 W61 02.001	02/06/2010 07:42:05 	2 m			8 m	0:00:02	15 kph	348° true
+Trackpoint	N10 38.479 W61 02.001	02/06/2010 07:42:07 	1 m			11 m	0:00:02	21 kph	354° true
+Trackpoint	N10 38.485 W61 02.003	02/06/2010 07:42:09 	3 m			11 m	0:00:02	19 kph	348° true
+Trackpoint	N10 38.490 W61 02.004	02/06/2010 07:42:11 	5 m			9 m	0:00:02	16 kph	344° true
+Trackpoint	N10 38.491 W61 02.005	02/06/2010 07:42:13 	6 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 38.492 W61 02.004	02/06/2010 07:42:15 	6 m			3 m	0:00:02	5 kph	40° true
+Trackpoint	N10 38.495 W61 02.005	02/06/2010 07:42:17 	7 m			6 m	0:00:02	10 kph	333° true
+Trackpoint	N10 38.497 W61 02.005	02/06/2010 07:42:19 	8 m			4 m	0:00:02	7 kph	351° true
+Trackpoint	N10 38.497 W61 02.006	02/06/2010 07:42:21 	8 m			1 m	0:00:02	1.1 kph	280° true
+Trackpoint	N10 38.497 W61 02.006	02/06/2010 07:42:23 	8 m			2 m	0:00:02	3 kph	316° true
+Trackpoint	N10 38.499 W61 02.007	02/06/2010 07:42:25 	8 m			3 m	0:00:02	6 kph	318° true
+Trackpoint	N10 38.500 W61 02.007	02/06/2010 07:42:27 	8 m			3 m	0:00:02	6 kph	14° true
+Trackpoint	N10 38.501 W61 02.006	02/06/2010 07:42:29 	9 m			3 m	0:00:02	5 kph	32° true
+Trackpoint	N10 38.503 W61 02.008	02/06/2010 07:42:31 	8 m			4 m	0:00:02	8 kph	319° true
+Trackpoint	N10 38.504 W61 02.008	02/06/2010 07:42:33 	7 m			2 m	0:00:02	4 kph	327° true
+Trackpoint	N10 38.505 W61 02.009	02/06/2010 07:42:35 	7 m			2 m	0:00:02	4 kph	355° true
+Trackpoint	N10 38.506 W61 02.008	02/06/2010 07:42:37 	7 m			2 m	0:00:02	3 kph	13° true
+Trackpoint	N10 38.506 W61 02.009	02/06/2010 07:42:39 	8 m			2 m	0:00:02	3 kph	284° true
+Trackpoint	N10 38.508 W61 02.010	02/06/2010 07:42:41 	7 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 38.509 W61 02.009	02/06/2010 07:42:43 	7 m			3 m	0:00:02	5 kph	10° true
+Trackpoint	N10 38.512 W61 02.010	02/06/2010 07:42:45 	6 m			5 m	0:00:02	9 kph	350° true
+Trackpoint	N10 38.513 W61 02.009	02/06/2010 07:42:47 	6 m			2 m	0:00:02	4 kph	23° true
+Trackpoint	N10 38.514 W61 02.010	02/06/2010 07:42:49 	6 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 38.515 W61 02.009	02/06/2010 07:42:51 	6 m			2 m	0:00:02	4 kph	63° true
+Trackpoint	N10 38.516 W61 02.010	02/06/2010 07:42:53 	5 m			4 m	0:00:02	7 kph	305° true
+Trackpoint	N10 38.516 W61 02.010	02/06/2010 07:42:55 	5 m			0 m	0:00:02	0 kph	227° true
+Trackpoint	N10 38.517 W61 02.011	02/06/2010 07:42:57 	4 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 38.519 W61 02.012	02/06/2010 07:42:59 	4 m			5 m	0:00:02	9 kph	339° true
+Trackpoint	N10 38.519 W61 02.012	02/06/2010 07:43:01 	4 m			1 m	0:00:02	1.4 kph	206° true
+Trackpoint	N10 38.520 W61 02.012	02/06/2010 07:43:03 	3 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 38.521 W61 02.013	02/06/2010 07:43:05 	5 m			1 m	0:00:02	2 kph	334° true
+Trackpoint	N10 38.521 W61 02.012	02/06/2010 07:43:07 	6 m			1 m	0:00:02	3 kph	54° true
+Trackpoint	N10 38.523 W61 02.013	02/06/2010 07:43:09 	5 m			4 m	0:00:02	7 kph	329° true
+Trackpoint	N10 38.524 W61 02.013	02/06/2010 07:43:11 	7 m			2 m	0:00:02	4 kph	344° true
+Trackpoint	N10 38.527 W61 02.013	02/06/2010 07:43:13 	7 m			6 m	0:00:02	11 kph	4° true
+Trackpoint	N10 38.529 W61 02.013	02/06/2010 07:43:15 	3 m			3 m	0:00:02	5 kph	357° true
+Trackpoint	N10 38.531 W61 02.013	02/06/2010 07:43:17 	3 m			3 m	0:00:02	6 kph	14° true
+Trackpoint	N10 38.532 W61 02.013	02/06/2010 07:43:19 	2 m			3 m	0:00:02	5 kph	360° true
+Trackpoint	N10 38.534 W61 02.013	02/06/2010 07:43:21 	2 m			3 m	0:00:02	5 kph	351° true
+Trackpoint	N10 38.534 W61 02.012	02/06/2010 07:43:23 	1 m			2 m	0:00:02	3 kph	37° true
+Trackpoint	N10 38.535 W61 02.012	02/06/2010 07:43:25 	1 m			2 m	0:00:02	4 kph	7° true
+Trackpoint	N10 38.537 W61 02.013	02/06/2010 07:43:27 	0 m			3 m	0:00:02	6 kph	351° true
+Trackpoint	N10 38.538 W61 02.013	02/06/2010 07:43:29 	-0 m			2 m	0:00:02	4 kph	1° true
+Trackpoint	N10 38.540 W61 02.014	02/06/2010 07:43:31 	-0 m			3 m	0:00:02	6 kph	319° true
+Trackpoint	N10 38.541 W61 02.014	02/06/2010 07:43:33 	-0 m			4 m	0:00:02	7 kph	341° true
+Trackpoint	N10 38.543 W61 02.014	02/06/2010 07:43:35 	-1 m			3 m	0:00:02	5 kph	14° true
+Trackpoint	N10 38.544 W61 02.014	02/06/2010 07:43:37 	-1 m			1 m	0:00:02	3 kph	354° true
+Trackpoint	N10 38.546 W61 02.014	02/06/2010 07:43:39 	-2 m			4 m	0:00:02	8 kph	359° true
+Trackpoint	N10 38.551 W61 02.015	02/06/2010 07:43:41 	-3 m			8 m	0:00:02	15 kph	348° true
+Trackpoint	N10 38.555 W61 02.017	02/06/2010 07:43:43 	-2 m			9 m	0:00:02	16 kph	340° true
+Trackpoint	N10 38.559 W61 02.018	02/06/2010 07:43:45 	-2 m			8 m	0:00:02	14 kph	343° true
+Trackpoint	N10 38.564 W61 02.018	02/06/2010 07:43:47 	-3 m			9 m	0:00:02	16 kph	354° true
+Trackpoint	N10 38.568 W61 02.020	02/06/2010 07:43:49 	-3 m			9 m	0:00:02	16 kph	341° true
+Trackpoint	N10 38.573 W61 02.022	02/06/2010 07:43:51 	-3 m			9 m	0:00:02	16 kph	334° true
+Trackpoint	N10 38.577 W61 02.024	02/06/2010 07:43:53 	-3 m			9 m	0:00:02	16 kph	335° true
+Trackpoint	N10 38.582 W61 02.026	02/06/2010 07:43:55 	-3 m			9 m	0:00:02	17 kph	344° true
+Trackpoint	N10 38.587 W61 02.027	02/06/2010 07:43:57 	-3 m			10 m	0:00:02	17 kph	350° true
+Trackpoint	N10 38.590 W61 02.028	02/06/2010 07:43:59 	-2 m			7 m	0:00:02	12 kph	342° true
+Trackpoint	N10 38.592 W61 02.028	02/06/2010 07:44:01 	-2 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 38.594 W61 02.028	02/06/2010 07:44:03 	-2 m			3 m	0:00:02	6 kph	348° true
+Trackpoint	N10 38.594 W61 02.029	02/06/2010 07:44:05 	-3 m			2 m	0:00:02	3 kph	302° true
+Trackpoint	N10 38.595 W61 02.029	02/06/2010 07:44:07 	-3 m			1 m	0:00:02	2 kph	6° true
+Trackpoint	N10 38.596 W61 02.029	02/06/2010 07:44:09 	-3 m			2 m	0:00:02	4 kph	352° true
+Trackpoint	N10 38.599 W61 02.030	02/06/2010 07:44:11 	-3 m			4 m	0:00:02	8 kph	336° true
+Trackpoint	N10 38.599 W61 02.031	02/06/2010 07:44:13 	-3 m			2 m	0:00:02	3 kph	328° true
+Trackpoint	N10 38.601 W61 02.031	02/06/2010 07:44:15 	-3 m			3 m	0:00:02	5 kph	3° true
+Trackpoint	N10 38.603 W61 02.031	02/06/2010 07:44:17 	-3 m			4 m	0:00:02	8 kph	354° true
+Trackpoint	N10 38.605 W61 02.031	02/06/2010 07:44:19 	-4 m			2 m	0:00:02	4 kph	3° true
+Trackpoint	N10 38.606 W61 02.031	02/06/2010 07:44:21 	-5 m			3 m	0:00:02	5 kph	357° true
+Trackpoint	N10 38.609 W61 02.030	02/06/2010 07:44:23 	-5 m			5 m	0:00:02	9 kph	10° true
+Trackpoint	N10 38.610 W61 02.031	02/06/2010 07:44:25 	-6 m			3 m	0:00:02	5 kph	335° true
+Trackpoint	N10 38.611 W61 02.031	02/06/2010 07:44:27 	-6 m			2 m	0:00:02	3 kph	26° true
+Trackpoint	N10 38.611 W61 02.031	02/06/2010 07:44:29 	-6 m			1 m	0:00:02	2 kph	283° true
+Trackpoint	N10 38.612 W61 02.032	02/06/2010 07:44:31 	-5 m			2 m	0:00:02	4 kph	351° true
+Trackpoint	N10 38.615 W61 02.030	02/06/2010 07:44:33 	-5 m			5 m	0:00:02	9 kph	35° true
+Trackpoint	N10 38.616 W61 02.030	02/06/2010 07:44:35 	-2 m			2 m	0:00:02	4 kph	10° true
+Trackpoint	N10 38.616 W61 02.030	02/06/2010 07:44:37 	-2 m			1 m	0:00:02	1.2 kph	17° true
+Trackpoint	N10 38.617 W61 02.029	02/06/2010 07:44:39 	-0 m			3 m	0:00:02	5 kph	7° true
+Trackpoint	N10 38.620 W61 02.029	02/06/2010 07:44:41 	1 m			5 m	0:00:02	8 kph	15° true
+Trackpoint	N10 38.621 W61 02.030	02/06/2010 07:44:43 	1 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 38.621 W61 02.031	02/06/2010 07:44:45 	2 m			3 m	0:00:02	5 kph	263° true
+Trackpoint	N10 38.623 W61 02.032	02/06/2010 07:44:47 	0 m			3 m	0:00:02	6 kph	349° true
+Trackpoint	N10 38.624 W61 02.032	02/06/2010 07:44:49 	-0 m			3 m	0:00:02	5 kph	354° true
+Trackpoint	N10 38.626 W61 02.032	02/06/2010 07:44:51 	-1 m			4 m	0:00:02	7 kph	346° true
+Trackpoint	N10 38.629 W61 02.032	02/06/2010 07:44:53 	-1 m			5 m	0:00:02	9 kph	6° true
+Trackpoint	N10 38.630 W61 02.032	02/06/2010 07:44:55 	-1 m			1 m	0:00:02	3 kph	334° true
+Trackpoint	N10 38.631 W61 02.033	02/06/2010 07:44:57 	-1 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.632 W61 02.033	02/06/2010 07:44:59 	-1 m			2 m	0:00:02	4 kph	332° true
+Trackpoint	N10 38.634 W61 02.033	02/06/2010 07:45:01 	-2 m			5 m	0:00:02	9 kph	2° true
+Trackpoint	N10 38.638 W61 02.034	02/06/2010 07:45:03 	-1 m			7 m	0:00:02	13 kph	352° true
+Trackpoint	N10 38.644 W61 02.035	02/06/2010 07:45:05 	-1 m			10 m	0:00:02	18 kph	344° true
+Trackpoint	N10 38.648 W61 02.037	02/06/2010 07:45:07 	-2 m			8 m	0:00:02	15 kph	343° true
+Trackpoint	N10 38.653 W61 02.037	02/06/2010 07:45:09 	-2 m			9 m	0:00:02	16 kph	1° true
+Trackpoint	N10 38.654 W61 02.037	02/06/2010 07:45:11 	-3 m			2 m	0:00:02	4 kph	3° true
+Trackpoint	N10 38.655 W61 02.038	02/06/2010 07:45:13 	-3 m			3 m	0:00:02	6 kph	318° true
+Trackpoint	N10 38.657 W61 02.038	02/06/2010 07:45:15 	-3 m			4 m	0:00:02	7 kph	5° true
+Trackpoint	N10 38.658 W61 02.038	02/06/2010 07:45:17 	-4 m			2 m	0:00:02	3 kph	309° true
+Trackpoint	N10 38.660 W61 02.039	02/06/2010 07:45:19 	-4 m			4 m	0:00:02	6 kph	328° true
+Trackpoint	N10 38.661 W61 02.040	02/06/2010 07:45:21 	-4 m			4 m	0:00:02	7 kph	330° true
+Trackpoint	N10 38.664 W61 02.041	02/06/2010 07:45:23 	-4 m			4 m	0:00:02	8 kph	348° true
+Trackpoint	N10 38.666 W61 02.042	02/06/2010 07:45:25 	-4 m			4 m	0:00:02	7 kph	336° true
+Trackpoint	N10 38.668 W61 02.042	02/06/2010 07:45:27 	-5 m			4 m	0:00:02	8 kph	356° true
+Trackpoint	N10 38.671 W61 02.043	02/06/2010 07:45:29 	-6 m			6 m	0:00:02	11 kph	332° true
+Trackpoint	N10 38.674 W61 02.043	02/06/2010 07:45:31 	-7 m			6 m	0:00:02	10 kph	10° true
+Trackpoint	N10 38.675 W61 02.043	02/06/2010 07:45:33 	-7 m			2 m	0:00:02	3 kph	349° true
+Trackpoint	N10 38.676 W61 02.043	02/06/2010 07:45:35 	-8 m			2 m	0:00:02	4 kph	356° true
+Trackpoint	N10 38.678 W61 02.043	02/06/2010 07:45:37 	-8 m			3 m	0:00:02	6 kph	4° true
+Trackpoint	N10 38.679 W61 02.043	02/06/2010 07:45:39 	-9 m			2 m	0:00:02	3 kph	337° true
+Trackpoint	N10 38.681 W61 02.044	02/06/2010 07:45:41 	-9 m			4 m	0:00:02	7 kph	349° true
+Trackpoint	N10 38.683 W61 02.044	02/06/2010 07:45:43 	-10 m			4 m	0:00:02	6 kph	355° true
+Trackpoint	N10 38.684 W61 02.044	02/06/2010 07:45:45 	-9 m			3 m	0:00:02	5 kph	356° true
+Trackpoint	N10 38.685 W61 02.045	02/06/2010 07:45:47 	-10 m			2 m	0:00:02	3 kph	327° true
+Trackpoint	N10 38.687 W61 02.045	02/06/2010 07:45:49 	-9 m			3 m	0:00:02	6 kph	1° true
+Trackpoint	N10 38.689 W61 02.045	02/06/2010 07:45:51 	-9 m			4 m	0:00:02	7 kph	343° true
+Trackpoint	N10 38.691 W61 02.046	02/06/2010 07:45:53 	-10 m			4 m	0:00:02	7 kph	349° true
+Trackpoint	N10 38.692 W61 02.045	02/06/2010 07:45:55 	-11 m			2 m	0:00:02	4 kph	25° true
+Trackpoint	N10 38.694 W61 02.046	02/06/2010 07:45:57 	-11 m			3 m	0:00:02	6 kph	322° true
+Trackpoint	N10 38.695 W61 02.047	02/06/2010 07:45:59 	-9 m			2 m	0:00:02	4 kph	324° true
+Trackpoint	N10 38.695 W61 02.047	02/06/2010 07:46:01 	-9 m			1 m	0:00:02	2 kph	19° true
+Trackpoint	N10 38.697 W61 02.048	02/06/2010 07:46:03 	-8 m			4 m	0:00:02	7 kph	322° true
+Trackpoint	N10 38.699 W61 02.049	02/06/2010 07:46:05 	-9 m			5 m	0:00:02	9 kph	328° true
+Trackpoint	N10 38.700 W61 02.049	02/06/2010 07:46:07 	-9 m			1 m	0:00:02	2 kph	1° true
+Trackpoint	N10 38.700 W61 02.050	02/06/2010 07:46:09 	-9 m			1 m	0:00:02	3 kph	335° true
+Trackpoint	N10 38.702 W61 02.050	02/06/2010 07:46:11 	-8 m			4 m	0:00:02	6 kph	335° true
+Trackpoint	N10 38.703 W61 02.051	02/06/2010 07:46:13 	-7 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 38.704 W61 02.052	02/06/2010 07:46:15 	-6 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 38.706 W61 02.052	02/06/2010 07:46:17 	-6 m			3 m	0:00:02	5 kph	359° true
+Trackpoint	N10 38.708 W61 02.052	02/06/2010 07:46:19 	-6 m			3 m	0:00:02	6 kph	357° true
+Trackpoint	N10 38.708 W61 02.052	02/06/2010 07:46:21 	-6 m			1 m	0:00:02	2 kph	344° true
+Trackpoint	N10 38.710 W61 02.052	02/06/2010 07:46:23 	-5 m			3 m	0:00:02	6 kph	349° true
+Trackpoint	N10 38.711 W61 02.053	02/06/2010 07:46:25 	-5 m			3 m	0:00:02	5 kph	341° true
+Trackpoint	N10 38.713 W61 02.054	02/06/2010 07:46:27 	-4 m			3 m	0:00:02	5 kph	323° true
+Trackpoint	N10 38.713 W61 02.054	02/06/2010 07:46:29 	-4 m			1 m	0:00:02	2 kph	29° true
+Trackpoint	N10 38.714 W61 02.053	02/06/2010 07:46:31 	-4 m			2 m	0:00:02	4 kph	2° true
+Trackpoint	N10 38.714 W61 02.054	02/06/2010 07:46:33 	-4 m			0 m	0:00:02	0 kph	234° true
+Trackpoint	N10 38.715 W61 02.053	02/06/2010 07:46:35 	-4 m			2 m	0:00:02	4 kph	35° true
+Trackpoint	N10 38.717 W61 02.053	02/06/2010 07:46:37 	-4 m			3 m	0:00:02	5 kph	3° true
+Trackpoint	N10 38.718 W61 02.053	02/06/2010 07:46:39 	-4 m			2 m	0:00:02	3 kph	340° true
+Trackpoint	N10 38.719 W61 02.054	02/06/2010 07:46:41 	-3 m			3 m	0:00:02	6 kph	348° true
+Trackpoint	N10 38.721 W61 02.054	02/06/2010 07:46:43 	-3 m			4 m	0:00:02	7 kph	345° true
+Trackpoint	N10 38.723 W61 02.055	02/06/2010 07:46:45 	-3 m			3 m	0:00:02	5 kph	349° true
+Trackpoint	N10 38.725 W61 02.054	02/06/2010 07:46:47 	-3 m			4 m	0:00:02	6 kph	27° true
+Trackpoint	N10 38.726 W61 02.052	02/06/2010 07:46:49 	-1 m			3 m	0:00:02	6 kph	43° true
+Trackpoint	N10 38.728 W61 02.052	02/06/2010 07:46:51 	-1 m			4 m	0:00:02	7 kph	360° true
+Trackpoint	N10 38.731 W61 02.052	02/06/2010 07:46:53 	-1 m			6 m	0:00:02	10 kph	8° true
+Trackpoint	N10 38.734 W61 02.052	02/06/2010 07:46:55 	0 m			6 m	0:00:02	11 kph	356° true
+Trackpoint	N10 38.737 W61 02.053	02/06/2010 07:46:57 	0 m			6 m	0:00:02	11 kph	355° true
+Trackpoint	N10 38.741 W61 02.052	02/06/2010 07:46:59 	-1 m			7 m	0:00:02	13 kph	9° true
+Trackpoint	N10 38.744 W61 02.051	02/06/2010 07:47:01 	1 m			5 m	0:00:02	9 kph	13° true
+Trackpoint	N10 38.748 W61 02.052	02/06/2010 07:47:03 	1 m			8 m	0:00:02	14 kph	350° true
+Trackpoint	N10 38.752 W61 02.053	02/06/2010 07:47:05 	0 m			7 m	0:00:02	13 kph	351° true
+Trackpoint	N10 38.754 W61 02.053	02/06/2010 07:47:07 	2 m			5 m	0:00:02	8 kph	1° true
+Trackpoint	N10 38.755 W61 02.053	02/06/2010 07:47:09 	2 m			2 m	0:00:02	4 kph	319° true
+Trackpoint	N10 38.756 W61 02.053	02/06/2010 07:47:11 	3 m			2 m	0:00:02	3 kph	12° true
+Trackpoint	N10 38.757 W61 02.055	02/06/2010 07:47:13 	3 m			3 m	0:00:02	5 kph	300° true
+Trackpoint	N10 38.760 W61 02.055	02/06/2010 07:47:15 	3 m			6 m	0:00:02	11 kph	352° true
+Trackpoint	N10 38.761 W61 02.055	02/06/2010 07:47:17 	2 m			2 m	0:00:02	4 kph	6° true
+Trackpoint	N10 38.762 W61 02.055	02/06/2010 07:47:19 	1 m			2 m	0:00:02	3 kph	22° true
+Trackpoint	N10 38.763 W61 02.055	02/06/2010 07:47:21 	2 m			2 m	0:00:02	4 kph	328° true
+Trackpoint	N10 38.764 W61 02.056	02/06/2010 07:47:23 	2 m			2 m	0:00:02	3 kph	313° true
+Trackpoint	N10 38.765 W61 02.057	02/06/2010 07:47:25 	2 m			3 m	0:00:02	5 kph	335° true
+Trackpoint	N10 38.767 W61 02.057	02/06/2010 07:47:27 	2 m			3 m	0:00:02	6 kph	0° true
+Trackpoint	N10 38.768 W61 02.057	02/06/2010 07:47:29 	1 m			3 m	0:00:02	5 kph	343° true
+Trackpoint	N10 38.769 W61 02.057	02/06/2010 07:47:31 	1 m			1 m	0:00:02	3 kph	3° true
+Trackpoint	N10 38.770 W61 02.059	02/06/2010 07:47:33 	1 m			3 m	0:00:02	6 kph	300° true
+Trackpoint	N10 38.771 W61 02.059	02/06/2010 07:47:35 	-1 m			4 m	0:00:02	7 kph	333° true
+Trackpoint	N10 38.773 W61 02.061	02/06/2010 07:47:37 	-1 m			4 m	0:00:02	7 kph	313° true
+Trackpoint	N10 38.774 W61 02.061	02/06/2010 07:47:39 	-1 m			1 m	0:00:02	2 kph	359° true
+Trackpoint	N10 38.776 W61 02.061	02/06/2010 07:47:41 	-1 m			4 m	0:00:02	7 kph	348° true
+Trackpoint	N10 38.778 W61 02.062	02/06/2010 07:47:43 	-0 m			4 m	0:00:02	7 kph	340° true
+Trackpoint	N10 38.779 W61 02.062	02/06/2010 07:47:45 	-0 m			2 m	0:00:02	4 kph	10° true
+Trackpoint	N10 38.780 W61 02.062	02/06/2010 07:47:47 	-0 m			2 m	0:00:02	3 kph	17° true
+Trackpoint	N10 38.781 W61 02.063	02/06/2010 07:47:49 	0 m			3 m	0:00:02	6 kph	328° true
+Trackpoint	N10 38.782 W61 02.063	02/06/2010 07:47:51 	0 m			2 m	0:00:02	3 kph	321° true
+Trackpoint	N10 38.783 W61 02.063	02/06/2010 07:47:53 	0 m			2 m	0:00:02	4 kph	18° true
+Trackpoint	N10 38.784 W61 02.064	02/06/2010 07:47:55 	0 m			3 m	0:00:02	6 kph	335° true
+Trackpoint	N10 38.786 W61 02.064	02/06/2010 07:47:57 	0 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 38.787 W61 02.064	02/06/2010 07:47:59 	0 m			2 m	0:00:02	4 kph	337° true
+Trackpoint	N10 38.789 W61 02.065	02/06/2010 07:48:01 	1 m			4 m	0:00:02	6 kph	348° true
+Trackpoint	N10 38.790 W61 02.065	02/06/2010 07:48:03 	0 m			3 m	0:00:02	5 kph	348° true
+Trackpoint	N10 38.790 W61 02.065	02/06/2010 07:48:05 	0 m			1 m	0:00:02	1.3 kph	339° true
+Trackpoint	N10 38.791 W61 02.065	02/06/2010 07:48:07 	1 m			1 m	0:00:02	1.4 kph	343° true
+Trackpoint	N10 38.793 W61 02.065	02/06/2010 07:48:09 	1 m			5 m	0:00:02	9 kph	3° true
+Trackpoint	N10 38.795 W61 02.065	02/06/2010 07:48:11 	1 m			3 m	0:00:02	6 kph	17° true
+Trackpoint	N10 38.796 W61 02.066	02/06/2010 07:48:13 	1 m			3 m	0:00:02	5 kph	299° true
+Trackpoint	N10 38.798 W61 02.067	02/06/2010 07:48:15 	-1 m			5 m	0:00:02	9 kph	336° true
+Trackpoint	N10 38.800 W61 02.067	02/06/2010 07:48:17 	0 m			3 m	0:00:02	6 kph	358° true
+Trackpoint	N10 38.801 W61 02.068	02/06/2010 07:48:19 	0 m			2 m	0:00:02	3 kph	314° true
+Trackpoint	N10 38.801 W61 02.068	02/06/2010 07:48:21 	-1 m			1 m	0:00:02	1.1 kph	35° true
+Trackpoint	N10 38.803 W61 02.069	02/06/2010 07:48:23 	-1 m			4 m	0:00:02	6 kph	338° true
+Trackpoint	N10 38.805 W61 02.069	02/06/2010 07:48:25 	-1 m			4 m	0:00:02	7 kph	342° true
+Trackpoint	N10 38.806 W61 02.070	02/06/2010 07:48:27 	-2 m			3 m	0:00:02	5 kph	334° true
+Trackpoint	N10 38.807 W61 02.070	02/06/2010 07:48:29 	-2 m			2 m	0:00:02	4 kph	358° true
+Trackpoint	N10 38.809 W61 02.070	02/06/2010 07:48:31 	-2 m			3 m	0:00:02	6 kph	2° true
+Trackpoint	N10 38.811 W61 02.071	02/06/2010 07:48:33 	-2 m			4 m	0:00:02	7 kph	330° true
+Trackpoint	N10 38.813 W61 02.071	02/06/2010 07:48:35 	-2 m			4 m	0:00:02	7 kph	0° true
+Trackpoint	N10 38.814 W61 02.071	02/06/2010 07:48:37 	-1 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 38.815 W61 02.071	02/06/2010 07:48:39 	-0 m			3 m	0:00:02	5 kph	357° true
+Trackpoint	N10 38.817 W61 02.072	02/06/2010 07:48:41 	2 m			3 m	0:00:02	6 kph	346° true
+Trackpoint	N10 38.818 W61 02.072	02/06/2010 07:48:43 	2 m			3 m	0:00:02	5 kph	346° true
+Trackpoint	N10 38.820 W61 02.072	02/06/2010 07:48:45 	1 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 38.822 W61 02.072	02/06/2010 07:48:47 	1 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 38.823 W61 02.072	02/06/2010 07:48:49 	1 m			3 m	0:00:02	5 kph	6° true
+Trackpoint	N10 38.825 W61 02.072	02/06/2010 07:48:51 	0 m			3 m	0:00:02	6 kph	1° true
+Trackpoint	N10 38.826 W61 02.072	02/06/2010 07:48:53 	1 m			3 m	0:00:02	5 kph	351° true
+Trackpoint	N10 38.827 W61 02.073	02/06/2010 07:48:55 	1 m			3 m	0:00:02	5 kph	340° true
+Trackpoint	N10 38.829 W61 02.073	02/06/2010 07:48:57 	0 m			2 m	0:00:02	4 kph	358° true
+Trackpoint	N10 38.830 W61 02.073	02/06/2010 07:48:59 	-0 m			2 m	0:00:02	4 kph	1° true
+Trackpoint	N10 38.831 W61 02.073	02/06/2010 07:49:01 	-0 m			2 m	0:00:02	4 kph	359° true
+Trackpoint	N10 38.833 W61 02.073	02/06/2010 07:49:03 	-1 m			2 m	0:00:02	4 kph	358° true
+Trackpoint	N10 38.834 W61 02.073	02/06/2010 07:49:05 	-1 m			2 m	0:00:02	3 kph	7° true
+Trackpoint	N10 38.834 W61 02.072	02/06/2010 07:49:07 	-2 m			2 m	0:00:02	3 kph	30° true
+Trackpoint	N10 38.836 W61 02.073	02/06/2010 07:49:09 	-2 m			3 m	0:00:02	6 kph	340° true
+Trackpoint	N10 38.839 W61 02.074	02/06/2010 07:49:11 	-2 m			5 m	0:00:02	9 kph	331° true
+Trackpoint	N10 38.839 W61 02.074	02/06/2010 07:49:13 	-2 m			0 m	0:00:02	0 kph	23° true
+Trackpoint	N10 38.840 W61 02.074	02/06/2010 07:49:15 	-3 m			2 m	0:00:02	4 kph	350° true
+Trackpoint	N10 38.843 W61 02.075	02/06/2010 07:49:17 	-2 m			6 m	0:00:02	10 kph	343° true
+Trackpoint	N10 38.844 W61 02.076	02/06/2010 07:49:19 	-2 m			3 m	0:00:02	6 kph	342° true
+Trackpoint	N10 38.845 W61 02.075	02/06/2010 07:49:21 	-1 m			2 m	0:00:02	3 kph	69° true
+Trackpoint	N10 38.846 W61 02.075	02/06/2010 07:49:23 	-1 m			2 m	0:00:02	4 kph	357° true
+Trackpoint	N10 38.848 W61 02.075	02/06/2010 07:49:25 	-2 m			4 m	0:00:02	7 kph	9° true
+Trackpoint	N10 38.852 W61 02.075	02/06/2010 07:49:27 	-2 m			7 m	0:00:02	13 kph	351° true
+Trackpoint	N10 38.854 W61 02.075	02/06/2010 07:49:29 	-3 m			4 m	0:00:02	8 kph	359° true
+Trackpoint	N10 38.854 W61 02.075	02/06/2010 07:49:31 	-2 m			1 m	0:00:02	1.3 kph	74° true
+Trackpoint	N10 38.855 W61 02.075	02/06/2010 07:49:33 	-3 m			1 m	0:00:02	1.5 kph	327° true
+Trackpoint	N10 38.857 W61 02.076	02/06/2010 07:49:35 	-2 m			4 m	0:00:02	7 kph	335° true
+Trackpoint	N10 38.859 W61 02.077	02/06/2010 07:49:37 	-4 m			4 m	0:00:02	7 kph	336° true
+Trackpoint	N10 38.859 W61 02.077	02/06/2010 07:49:39 	-5 m			2 m	0:00:02	3 kph	355° true
+Trackpoint	N10 38.861 W61 02.078	02/06/2010 07:49:41 	-5 m			3 m	0:00:02	5 kph	326° true
+Trackpoint	N10 38.863 W61 02.079	02/06/2010 07:49:43 	-6 m			4 m	0:00:02	8 kph	337° true
+Trackpoint	N10 38.866 W61 02.079	02/06/2010 07:49:45 	-5 m			6 m	0:00:02	11 kph	357° true
+Trackpoint	N10 38.869 W61 02.079	02/06/2010 07:49:47 	-6 m			5 m	0:00:02	9 kph	8° true
+Trackpoint	N10 38.868 W61 02.079	02/06/2010 07:49:49 	-6 m			2 m	0:00:02	3 kph	186° true
+Trackpoint	N10 38.868 W61 02.079	02/06/2010 07:49:51 	-6 m			1 m	0:00:02	2 kph	328° true
+Trackpoint	N10 38.871 W61 02.081	02/06/2010 07:49:53 	-7 m			6 m	0:00:02	10 kph	328° true
+Trackpoint	N10 38.873 W61 02.081	02/06/2010 07:49:55 	-7 m			3 m	0:00:02	5 kph	339° true
+Trackpoint	N10 38.872 W61 02.081	02/06/2010 07:49:57 	-8 m			0 m	0:00:02	0 kph	154° true
+Trackpoint	N10 38.873 W61 02.081	02/06/2010 07:49:59 	-9 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 38.876 W61 02.082	02/06/2010 07:50:01 	-9 m			5 m	0:00:02	8 kph	340° true
+Trackpoint	N10 38.878 W61 02.083	02/06/2010 07:50:03 	-9 m			5 m	0:00:02	8 kph	355° true
+Trackpoint	N10 38.879 W61 02.081	02/06/2010 07:50:05 	-9 m			3 m	0:00:02	5 kph	49° true
+Trackpoint	N10 38.881 W61 02.080	02/06/2010 07:50:07 	-10 m			4 m	0:00:02	7 kph	30° true
+Trackpoint	N10 38.882 W61 02.081	02/06/2010 07:50:09 	-9 m			3 m	0:00:02	5 kph	337° true
+Trackpoint	N10 38.884 W61 02.082	02/06/2010 07:50:11 	-8 m			3 m	0:00:02	6 kph	328° true
+Trackpoint	N10 38.885 W61 02.082	02/06/2010 07:50:13 	-8 m			2 m	0:00:02	3 kph	357° true
+Trackpoint	N10 38.887 W61 02.082	02/06/2010 07:50:15 	-9 m			4 m	0:00:02	7 kph	359° true
+Trackpoint	N10 38.889 W61 02.083	02/06/2010 07:50:17 	-8 m			4 m	0:00:02	7 kph	336° true
+Trackpoint	N10 38.890 W61 02.084	02/06/2010 07:50:19 	-7 m			3 m	0:00:02	5 kph	334° true
+Trackpoint	N10 38.891 W61 02.084	02/06/2010 07:50:21 	-6 m			2 m	0:00:02	3 kph	302° true
+Trackpoint	N10 38.893 W61 02.084	02/06/2010 07:50:23 	-5 m			3 m	0:00:02	6 kph	11° true
+Trackpoint	N10 38.894 W61 02.084	02/06/2010 07:50:25 	-4 m			3 m	0:00:02	6 kph	345° true
+Trackpoint	N10 38.895 W61 02.084	02/06/2010 07:50:27 	-5 m			2 m	0:00:02	3 kph	14° true
+Trackpoint	N10 38.896 W61 02.085	02/06/2010 07:50:29 	-4 m			1 m	0:00:02	2 kph	325° true
+Trackpoint	N10 38.899 W61 02.085	02/06/2010 07:50:31 	-4 m			6 m	0:00:02	10 kph	356° true
+Trackpoint	N10 38.900 W61 02.085	02/06/2010 07:50:33 	-4 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 38.901 W61 02.084	02/06/2010 07:50:35 	-3 m			3 m	0:00:02	6 kph	33° true
+Trackpoint	N10 38.903 W61 02.084	02/06/2010 07:50:37 	-2 m			3 m	0:00:02	5 kph	5° true
+Trackpoint	N10 38.903 W61 02.084	02/06/2010 07:50:39 	-1 m			1 m	0:00:02	2 kph	206° true
+Trackpoint	N10 38.904 W61 02.085	02/06/2010 07:50:41 	-1 m			3 m	0:00:02	6 kph	333° true
+Trackpoint	N10 38.907 W61 02.087	02/06/2010 07:50:43 	-1 m			6 m	0:00:02	11 kph	334° true
+Trackpoint	N10 38.907 W61 02.086	02/06/2010 07:50:45 	-1 m			2 m	0:00:02	4 kph	80° true
+Trackpoint	N10 38.908 W61 02.086	02/06/2010 07:50:47 	-5 m			2 m	0:00:02	4 kph	324° true
+Trackpoint	N10 38.911 W61 02.087	02/06/2010 07:50:49 	-5 m			6 m	0:00:02	11 kph	339° true
+Trackpoint	N10 38.915 W61 02.089	02/06/2010 07:50:51 	-6 m			6 m	0:00:02	12 kph	337° true
+Trackpoint	N10 38.915 W61 02.088	02/06/2010 07:50:53 	-3 m			2 m	0:00:02	3 kph	45° true
+Trackpoint	N10 38.915 W61 02.088	02/06/2010 07:50:55 	-3 m			0 m	0:00:02	0 kph	169° true
+Trackpoint	N10 38.916 W61 02.088	02/06/2010 07:50:57 	-2 m			2 m	0:00:02	4 kph	7° true
+Trackpoint	N10 38.919 W61 02.088	02/06/2010 07:50:59 	-3 m			5 m	0:00:02	10 kph	0° true
+Trackpoint	N10 38.922 W61 02.087	02/06/2010 07:51:01 	-5 m			5 m	0:00:02	10 kph	21° true
+Trackpoint	N10 38.923 W61 02.086	02/06/2010 07:51:03 	-3 m			2 m	0:00:02	4 kph	28° true
+Trackpoint	N10 38.924 W61 02.087	02/06/2010 07:51:05 	-4 m			2 m	0:00:02	3 kph	319° true
+Trackpoint	N10 38.925 W61 02.088	02/06/2010 07:51:07 	-5 m			3 m	0:00:02	5 kph	325° true
+Trackpoint	N10 38.925 W61 02.088	02/06/2010 07:51:09 	-5 m			0 m	0:00:02	0 kph	230° true
+Trackpoint	N10 38.928 W61 02.088	02/06/2010 07:51:11 	-6 m			6 m	0:00:02	11 kph	355° true
+Trackpoint	N10 38.929 W61 02.088	02/06/2010 07:51:13 	-7 m			2 m	0:00:02	4 kph	17° true
+Trackpoint	N10 38.930 W61 02.089	02/06/2010 07:51:15 	-8 m			2 m	0:00:02	4 kph	328° true
+Trackpoint	N10 38.932 W61 02.090	02/06/2010 07:51:17 	-9 m			3 m	0:00:02	6 kph	329° true
+Trackpoint	N10 38.931 W61 02.091	02/06/2010 07:51:19 	-9 m			2 m	0:00:02	3 kph	254° true
+Trackpoint	N10 38.933 W61 02.091	02/06/2010 07:51:21 	-9 m			3 m	0:00:02	6 kph	335° true
+Trackpoint	N10 38.937 W61 02.091	02/06/2010 07:51:23 	-10 m			7 m	0:00:02	12 kph	5° true
+Trackpoint	N10 38.940 W61 02.091	02/06/2010 07:51:25 	-10 m			5 m	0:00:02	10 kph	357° true
+Trackpoint	N10 38.940 W61 02.091	02/06/2010 07:51:27 	-10 m			1 m	0:00:02	1.4 kph	60° true
+Trackpoint	N10 38.941 W61 02.090	02/06/2010 07:51:29 	-9 m			2 m	0:00:02	3 kph	25° true
+Trackpoint	N10 38.942 W61 02.089	02/06/2010 07:51:31 	-9 m			3 m	0:00:02	6 kph	30° true
+Trackpoint	N10 38.943 W61 02.089	02/06/2010 07:51:33 	-9 m			2 m	0:00:02	3 kph	49° true
+Trackpoint	N10 38.944 W61 02.089	02/06/2010 07:51:35 	-8 m			2 m	0:00:02	3 kph	7° true
+Trackpoint	N10 38.946 W61 02.088	02/06/2010 07:51:37 	-7 m			5 m	0:00:02	9 kph	10° true
+Trackpoint	N10 38.948 W61 02.088	02/06/2010 07:51:39 	-9 m			3 m	0:00:02	5 kph	4° true
+Trackpoint	N10 38.948 W61 02.088	02/06/2010 07:51:41 	-9 m			1 m	0:00:02	2 kph	348° true
+Trackpoint	N10 38.951 W61 02.088	02/06/2010 07:51:43 	-9 m			4 m	0:00:02	8 kph	3° true
+Trackpoint	N10 38.954 W61 02.090	02/06/2010 07:51:45 	-8 m			6 m	0:00:02	10 kph	333° true
+Trackpoint	N10 38.954 W61 02.090	02/06/2010 07:51:47 	-8 m			1 m	0:00:02	2 kph	309° true
+Trackpoint	N10 38.954 W61 02.090	02/06/2010 07:51:49 	-8 m			1 m	0:00:02	1.1 kph	3° true
+Trackpoint	N10 38.956 W61 02.091	02/06/2010 07:51:51 	-9 m			4 m	0:00:02	7 kph	325° true
+Trackpoint	N10 38.959 W61 02.091	02/06/2010 07:51:53 	-9 m			6 m	0:00:02	11 kph	12° true
+Trackpoint	N10 38.961 W61 02.091	02/06/2010 07:51:55 	-9 m			3 m	0:00:02	5 kph	1° true
+Trackpoint	N10 38.961 W61 02.091	02/06/2010 07:51:57 	-9 m			1 m	0:00:02	1.1 kph	11° true
+Trackpoint	N10 38.962 W61 02.091	02/06/2010 07:51:59 	-9 m			3 m	0:00:02	5 kph	344° true
+Trackpoint	N10 38.964 W61 02.091	02/06/2010 07:52:01 	-9 m			3 m	0:00:02	5 kph	345° true
+Trackpoint	N10 38.965 W61 02.091	02/06/2010 07:52:03 	-9 m			2 m	0:00:02	3 kph	29° true
+Trackpoint	N10 38.965 W61 02.092	02/06/2010 07:52:05 	-9 m			2 m	0:00:02	3 kph	252° true
+Trackpoint	N10 38.965 W61 02.092	02/06/2010 07:52:07 	-9 m			2 m	0:00:02	3 kph	332° true
+Trackpoint	N10 38.968 W61 02.093	02/06/2010 07:52:09 	-10 m			4 m	0:00:02	8 kph	354° true
+Trackpoint	N10 38.971 W61 02.093	02/06/2010 07:52:11 	-11 m			5 m	0:00:02	10 kph	360° true
+Trackpoint	N10 38.973 W61 02.092	02/06/2010 07:52:13 	-11 m			4 m	0:00:02	7 kph	16° true
+Trackpoint	N10 38.973 W61 02.092	02/06/2010 07:52:15 	-11 m			1 m	0:00:02	1.3 kph	338° true
+Trackpoint	N10 38.975 W61 02.093	02/06/2010 07:52:17 	-11 m			4 m	0:00:02	6 kph	345° true
+Trackpoint	N10 38.976 W61 02.093	02/06/2010 07:52:19 	-11 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 38.977 W61 02.093	02/06/2010 07:52:21 	-11 m			1 m	0:00:02	2 kph	330° true
+Trackpoint	N10 38.978 W61 02.094	02/06/2010 07:52:23 	-10 m			2 m	0:00:02	3 kph	317° true
+Trackpoint	N10 38.980 W61 02.095	02/06/2010 07:52:25 	-10 m			5 m	0:00:02	8 kph	325° true
+Trackpoint	N10 38.982 W61 02.096	02/06/2010 07:52:27 	-10 m			5 m	0:00:02	8 kph	347° true
+Trackpoint	N10 38.984 W61 02.096	02/06/2010 07:52:29 	-10 m			4 m	0:00:02	7 kph	7° true
+Trackpoint	N10 38.985 W61 02.096	02/06/2010 07:52:31 	-11 m			2 m	0:00:02	4 kph	334° true
+Trackpoint	N10 38.985 W61 02.098	02/06/2010 07:52:33 	-11 m			3 m	0:00:02	5 kph	275° true
+Trackpoint	N10 38.986 W61 02.098	02/06/2010 07:52:35 	-9 m			2 m	0:00:02	4 kph	326° true
+Trackpoint	N10 38.988 W61 02.101	02/06/2010 07:52:37 	-9 m			5 m	0:00:02	9 kph	305° true
+Trackpoint	N10 38.989 W61 02.101	02/06/2010 07:52:39 	-8 m			2 m	0:00:02	3 kph	348° true
+Trackpoint	N10 38.991 W61 02.102	02/06/2010 07:52:41 	-8 m			4 m	0:00:02	7 kph	329° true
+Trackpoint	N10 38.993 W61 02.103	02/06/2010 07:52:43 	-7 m			5 m	0:00:02	10 kph	348° true
+Trackpoint	N10 38.995 W61 02.102	02/06/2010 07:52:45 	-5 m			2 m	0:00:02	4 kph	30° true
+Trackpoint	N10 38.994 W61 02.101	02/06/2010 07:52:47 	-5 m			1 m	0:00:02	2 kph	102° true
+Trackpoint	N10 38.993 W61 02.102	02/06/2010 07:52:49 	-3 m			2 m	0:00:02	4 kph	202° true
+Trackpoint	N10 38.993 W61 02.102	02/06/2010 07:52:51 	-3 m			1 m	0:00:02	1.4 kph	211° true
+Trackpoint	N10 38.996 W61 02.102	02/06/2010 07:52:53 	-2 m			6 m	0:00:02	12 kph	357° true
+Trackpoint	N10 39.001 W61 02.103	02/06/2010 07:52:55 	-1 m			8 m	0:00:02	15 kph	354° true
+Trackpoint	N10 39.003 W61 02.103	02/06/2010 07:52:57 	-3 m			3 m	0:00:02	6 kph	1° true
+Trackpoint	N10 39.002 W61 02.103	02/06/2010 07:52:59 	-2 m			0 m	0:00:02	0 kph	182° true
+Trackpoint	N10 39.004 W61 02.102	02/06/2010 07:53:01 	-2 m			2 m	0:00:02	4 kph	12° true
+Trackpoint	N10 39.006 W61 02.103	02/06/2010 07:53:03 	-1 m			5 m	0:00:02	8 kph	350° true
+Trackpoint	N10 39.009 W61 02.103	02/06/2010 07:53:05 	0 m			6 m	0:00:02	10 kph	355° true
+Trackpoint	N10 39.011 W61 02.104	02/06/2010 07:53:07 	-1 m			4 m	0:00:02	7 kph	339° true
+Trackpoint	N10 39.011 W61 02.103	02/06/2010 07:53:09 	-1 m			1 m	0:00:02	2 kph	59° true
+Trackpoint	N10 39.012 W61 02.103	02/06/2010 07:53:11 	-0 m			1 m	0:00:02	2 kph	80° true
+Trackpoint	N10 39.012 W61 02.104	02/06/2010 07:53:13 	0 m			3 m	0:00:02	5 kph	307° true
+Trackpoint	N10 39.015 W61 02.106	02/06/2010 07:53:15 	0 m			6 m	0:00:02	11 kph	321° true
+Trackpoint	N10 39.018 W61 02.107	02/06/2010 07:53:17 	-2 m			6 m	0:00:02	11 kph	331° true
+Trackpoint	N10 39.019 W61 02.109	02/06/2010 07:53:19 	-3 m			4 m	0:00:02	6 kph	311° true
+Trackpoint	N10 39.019 W61 02.110	02/06/2010 07:53:21 	-4 m			2 m	0:00:02	4 kph	280° true
+Trackpoint	N10 39.020 W61 02.111	02/06/2010 07:53:23 	-5 m			1 m	0:00:02	3 kph	312° true
+Trackpoint	N10 39.021 W61 02.110	02/06/2010 07:53:25 	-5 m			2 m	0:00:02	4 kph	44° true
+Trackpoint	N10 39.023 W61 02.110	02/06/2010 07:53:27 	-6 m			4 m	0:00:02	8 kph	8° true
+Trackpoint	N10 39.023 W61 02.110	02/06/2010 07:53:29 	-6 m			1 m	0:00:02	2 kph	334° true
+Trackpoint	N10 39.024 W61 02.111	02/06/2010 07:53:31 	-4 m			2 m	0:00:02	4 kph	314° true
+Trackpoint	N10 39.026 W61 02.111	02/06/2010 07:53:33 	-5 m			3 m	0:00:02	5 kph	334° true
+Trackpoint	N10 39.027 W61 02.111	02/06/2010 07:53:35 	-4 m			2 m	0:00:02	3 kph	14° true
+Trackpoint	N10 39.029 W61 02.111	02/06/2010 07:53:37 	-4 m			4 m	0:00:02	6 kph	360° true
+Trackpoint	N10 39.031 W61 02.111	02/06/2010 07:53:39 	-3 m			5 m	0:00:02	9 kph	11° true
+Trackpoint	N10 39.032 W61 02.110	02/06/2010 07:53:41 	-4 m			2 m	0:00:02	4 kph	13° true
+Trackpoint	N10 39.033 W61 02.110	02/06/2010 07:53:43 	-2 m			2 m	0:00:02	3 kph	359° true
+Trackpoint	N10 39.036 W61 02.110	02/06/2010 07:53:45 	-2 m			6 m	0:00:02	10 kph	8° true
+Trackpoint	N10 39.037 W61 02.111	02/06/2010 07:53:47 	-2 m			2 m	0:00:02	3 kph	307° true
+Trackpoint	N10 39.037 W61 02.111	02/06/2010 07:53:49 	-1 m			1 m	0:00:02	0.9 kph	269° true
+Trackpoint	N10 39.039 W61 02.112	02/06/2010 07:53:51 	-1 m			4 m	0:00:02	7 kph	329° true
+Trackpoint	N10 39.040 W61 02.113	02/06/2010 07:53:53 	-1 m			3 m	0:00:02	5 kph	318° true
+Trackpoint	N10 39.040 W61 02.113	02/06/2010 07:53:55 	-0 m			1 m	0:00:02	2 kph	360° true
+Trackpoint	N10 39.042 W61 02.113	02/06/2010 07:53:57 	-0 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 39.044 W61 02.112	02/06/2010 07:53:59 	-0 m			5 m	0:00:02	8 kph	27° true
+Trackpoint	N10 39.045 W61 02.112	02/06/2010 07:54:01 	0 m			2 m	0:00:02	4 kph	347° true
+Trackpoint	N10 39.046 W61 02.112	02/06/2010 07:54:03 	0 m			1 m	0:00:02	1.1 kph	10° true
+Trackpoint	N10 39.047 W61 02.113	02/06/2010 07:54:05 	0 m			4 m	0:00:02	7 kph	331° true
+Trackpoint	N10 39.050 W61 02.114	02/06/2010 07:54:07 	-0 m			5 m	0:00:02	9 kph	347° true
+Trackpoint	N10 39.052 W61 02.114	02/06/2010 07:54:09 	-0 m			4 m	0:00:02	6 kph	344° true
+Trackpoint	N10 39.052 W61 02.114	02/06/2010 07:54:11 	-1 m			2 m	0:00:02	3 kph	31° true
+Trackpoint	N10 39.052 W61 02.114	02/06/2010 07:54:13 	-1 m			2 m	0:00:02	3 kph	216° true
+Trackpoint	N10 39.053 W61 02.115	02/06/2010 07:54:15 	-2 m			3 m	0:00:02	5 kph	350° true
+Trackpoint	N10 39.056 W61 02.115	02/06/2010 07:54:17 	-3 m			5 m	0:00:02	10 kph	1° true
+Trackpoint	N10 39.058 W61 02.114	02/06/2010 07:54:19 	-5 m			3 m	0:00:02	6 kph	5° true
+Trackpoint	N10 39.058 W61 02.115	02/06/2010 07:54:21 	-6 m			0 m	0:00:02	0 kph	244° true
+Trackpoint	N10 39.060 W61 02.115	02/06/2010 07:54:23 	-6 m			3 m	0:00:02	6 kph	357° true
+Trackpoint	N10 39.061 W61 02.115	02/06/2010 07:54:25 	-6 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 39.062 W61 02.115	02/06/2010 07:54:27 	-6 m			2 m	0:00:02	4 kph	348° true
+Trackpoint	N10 39.064 W61 02.116	02/06/2010 07:54:29 	-5 m			4 m	0:00:02	7 kph	339° true
+Trackpoint	N10 39.065 W61 02.115	02/06/2010 07:54:31 	-4 m			2 m	0:00:02	3 kph	55° true
+Trackpoint	N10 39.067 W61 02.116	02/06/2010 07:54:33 	-4 m			4 m	0:00:02	7 kph	329° true
+Trackpoint	N10 39.068 W61 02.117	02/06/2010 07:54:35 	-6 m			3 m	0:00:02	6 kph	350° true
+Trackpoint	N10 39.069 W61 02.116	02/06/2010 07:54:37 	-6 m			2 m	0:00:02	3 kph	13° true
+Trackpoint	N10 39.070 W61 02.117	02/06/2010 07:54:39 	-5 m			2 m	0:00:02	4 kph	328° true
+Trackpoint	N10 39.071 W61 02.118	02/06/2010 07:54:41 	-5 m			2 m	0:00:02	3 kph	319° true
+Trackpoint	N10 39.073 W61 02.118	02/06/2010 07:54:43 	-5 m			3 m	0:00:02	6 kph	353° true
+Trackpoint	N10 39.074 W61 02.118	02/06/2010 07:54:45 	-4 m			3 m	0:00:02	5 kph	341° true
+Trackpoint	N10 39.075 W61 02.118	02/06/2010 07:54:47 	-3 m			2 m	0:00:02	4 kph	34° true
+Trackpoint	N10 39.077 W61 02.117	02/06/2010 07:54:49 	-3 m			5 m	0:00:02	8 kph	16° true
+Trackpoint	N10 39.079 W61 02.118	02/06/2010 07:54:51 	-3 m			3 m	0:00:02	6 kph	336° true
+Trackpoint	N10 39.080 W61 02.118	02/06/2010 07:54:53 	-3 m			2 m	0:00:02	3 kph	309° true
+Trackpoint	N10 39.082 W61 02.118	02/06/2010 07:54:55 	-2 m			5 m	0:00:02	8 kph	9° true
+Trackpoint	N10 39.083 W61 02.119	02/06/2010 07:54:57 	-1 m			3 m	0:00:02	5 kph	334° true
+Trackpoint	N10 39.084 W61 02.119	02/06/2010 07:54:59 	-2 m			1 m	0:00:02	3 kph	314° true
+Trackpoint	N10 39.086 W61 02.119	02/06/2010 07:55:01 	-3 m			3 m	0:00:02	5 kph	11° true
+Trackpoint	N10 39.087 W61 02.121	02/06/2010 07:55:03 	-2 m			5 m	0:00:02	9 kph	298° true
+Trackpoint	N10 39.088 W61 02.122	02/06/2010 07:55:05 	-2 m			2 m	0:00:02	4 kph	341° true
+Trackpoint	N10 39.089 W61 02.122	02/06/2010 07:55:07 	-3 m			2 m	0:00:02	4 kph	324° true
+Trackpoint	N10 39.091 W61 02.123	02/06/2010 07:55:09 	-3 m			4 m	0:00:02	7 kph	348° true
+Trackpoint	N10 39.091 W61 02.124	02/06/2010 07:55:11 	-3 m			2 m	0:00:02	3 kph	309° true
+Trackpoint	N10 39.093 W61 02.123	02/06/2010 07:55:13 	-4 m			3 m	0:00:02	5 kph	28° true
+Trackpoint	N10 39.095 W61 02.123	02/06/2010 07:55:15 	-3 m			4 m	0:00:02	7 kph	350° true
+Trackpoint	N10 39.096 W61 02.122	02/06/2010 07:55:17 	-3 m			3 m	0:00:02	5 kph	41° true
+Trackpoint	N10 39.097 W61 02.122	02/06/2010 07:55:19 	-3 m			3 m	0:00:02	5 kph	24° true
+Trackpoint	N10 39.100 W61 02.122	02/06/2010 07:55:21 	-3 m			5 m	0:00:02	9 kph	356° true
+Trackpoint	N10 39.103 W61 02.120	02/06/2010 07:55:23 	-4 m			5 m	0:00:02	9 kph	30° true
+Trackpoint	N10 39.103 W61 02.120	02/06/2010 07:55:25 	-5 m			1 m	0:00:02	1.5 kph	39° true
+Trackpoint	N10 39.104 W61 02.120	02/06/2010 07:55:27 	-5 m			1 m	0:00:02	2 kph	16° true
+Trackpoint	N10 39.105 W61 02.120	02/06/2010 07:55:29 	-6 m			3 m	0:00:02	5 kph	8° true
+Trackpoint	N10 39.107 W61 02.120	02/06/2010 07:55:31 	-6 m			4 m	0:00:02	6 kph	346° true
+Trackpoint	N10 39.108 W61 02.121	02/06/2010 07:55:33 	-6 m			2 m	0:00:02	4 kph	340° true
+Trackpoint	N10 39.109 W61 02.121	02/06/2010 07:55:35 	-5 m			2 m	0:00:02	4 kph	331° true
+Trackpoint	N10 39.109 W61 02.121	02/06/2010 07:55:37 	-6 m			1 m	0:00:02	1.5 kph	356° true
+Trackpoint	N10 39.111 W61 02.123	02/06/2010 07:55:39 	-5 m			4 m	0:00:02	7 kph	314° true
+Trackpoint	N10 39.114 W61 02.123	02/06/2010 07:55:41 	-4 m			5 m	0:00:02	10 kph	349° true
+Trackpoint	N10 39.115 W61 02.123	02/06/2010 07:55:43 	-6 m			2 m	0:00:02	3 kph	16° true
+Trackpoint	N10 39.115 W61 02.123	02/06/2010 07:55:45 	-6 m			1 m	0:00:02	1.0 kph	225° true
+Trackpoint	N10 39.116 W61 02.124	02/06/2010 07:55:47 	-6 m			4 m	0:00:02	7 kph	335° true
+Trackpoint	N10 39.117 W61 02.125	02/06/2010 07:55:49 	-5 m			2 m	0:00:02	4 kph	339° true
+Trackpoint	N10 39.119 W61 02.125	02/06/2010 07:55:51 	-4 m			3 m	0:00:02	5 kph	358° true
+Trackpoint	N10 39.121 W61 02.125	02/06/2010 07:55:53 	-5 m			4 m	0:00:02	7 kph	358° true
+Trackpoint	N10 39.122 W61 02.125	02/06/2010 07:55:55 	-4 m			3 m	0:00:02	5 kph	344° true
+Trackpoint	N10 39.124 W61 02.125	02/06/2010 07:55:57 	-4 m			2 m	0:00:02	4 kph	342° true
+Trackpoint	N10 39.125 W61 02.126	02/06/2010 07:55:59 	-3 m			2 m	0:00:02	3 kph	328° true
+Trackpoint	N10 39.126 W61 02.127	02/06/2010 07:56:01 	-3 m			3 m	0:00:02	5 kph	327° true
+Trackpoint	N10 39.127 W61 02.127	02/06/2010 07:56:03 	-3 m			2 m	0:00:02	4 kph	336° true
+Trackpoint	N10 39.127 W61 02.128	02/06/2010 07:56:05 	-3 m			2 m	0:00:02	3 kph	284° true
+Trackpoint	N10 39.127 W61 02.129	02/06/2010 07:56:07 	-3 m			1 m	0:00:02	3 kph	253° true
+Trackpoint	N10 39.126 W61 02.130	02/06/2010 07:56:09 	-3 m			2 m	0:00:02	3 kph	245° true
+Trackpoint	N10 39.127 W61 02.131	02/06/2010 07:56:11 	-3 m			2 m	0:00:02	3 kph	271° true
+Trackpoint	N10 39.126 W61 02.132	02/06/2010 07:56:13 	-3 m			2 m	0:00:02	3 kph	255° true
+Trackpoint	N10 39.126 W61 02.133	02/06/2010 07:56:15 	-3 m			2 m	0:00:02	3 kph	253° true
+Trackpoint	N10 39.126 W61 02.133	02/06/2010 07:56:17 	-3 m			1 m	0:00:02	3 kph	280° true
+Trackpoint	N10 39.127 W61 02.133	02/06/2010 07:56:19 	-3 m			1 m	0:00:02	2 kph	349° true
+Trackpoint	N10 39.127 W61 02.134	02/06/2010 07:56:21 	-3 m			1 m	0:00:02	2 kph	335° true
+Trackpoint	N10 39.128 W61 02.134	02/06/2010 07:56:23 	-3 m			1 m	0:00:02	2 kph	288° true
+Trackpoint	N10 39.127 W61 02.136	02/06/2010 07:56:25 	-3 m			2 m	0:00:02	4 kph	260° true
+Trackpoint	N10 39.127 W61 02.136	02/06/2010 07:56:27 	-3 m			2 m	0:00:02	4 kph	233° true
+Trackpoint	N10 39.127 W61 02.136	02/06/2010 07:56:29 	-3 m			0 m	0:00:02	0 kph	212° true
